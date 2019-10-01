@@ -1,0 +1,4045 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Use-your-Drive\n"
+"POT-Creation-Date: 2018-06-07 08:37+0200\n"
+"PO-Revision-Date: 2018-06-07 08:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: <tamelander@gmail.com>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../_customizations/custom.dark-with-numbers/player.php:48
+#: ../templates/frontend.php:12 ../templates/gallery.php:12
+msgid "Loading..."
+msgstr "Laddar ..."
+
+#: ../includes/Admin.php:130 ../templates/admin.php:98
+#: ../templates/admin.php:103 ../use-your-drive.php:508
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../includes/Admin.php:137 ../includes/Admin.php:139
+#: ../templates/admin_dashboard.php:7
+#, fuzzy
+msgid "Reports"
+msgstr "Rapporter"
+
+#: ../includes/Admin.php:146 ../includes/Admin.php:148
+#: ../templates/tinymce_popup.php:86 ../templates/tinymce_popup.php:95
+#: ../templates/tinymce_popup.php:98 ../templates/tinymce_popup.php:101
+#, fuzzy
+msgid "Shortcode Builder"
+msgstr "Kortkods byggare"
+
+#: ../includes/Admin.php:155 ../includes/Admin.php:158
+#: ../includes/LinkUsers.php:28
+msgid "Link Private Folders"
+msgstr ""
+
+#: ../includes/Admin.php:164 ../includes/Admin.php:166
+#: ../templates/admin_filebrowser.php:5
+#, fuzzy
+msgid "File Browser"
+msgstr "Filläsare"
+
+#: ../includes/Admin.php:196 ../includes/Admin.php:309
+#: ../includes/Admin.php:318 ../includes/Admin.php:326
+#: ../includes/Admin.php:334
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte tillräcklig behörighet för att komma åt denna sida."
+
+#: ../includes/Admin.php:208
+msgid "Saved!"
+msgstr "Sparat!"
+
+#: ../includes/Admin.php:212
+msgid "If you would like to receive updates, please insert your Purchase code"
+msgstr "Om du vill få uppdateringar, skriv in din inköpskod (Purchase code)"
+
+#: ../includes/Admin.php:214
+msgid "Where do I find the purchase code?"
+msgstr "Var hittar jag inköpskoden (purchase code)?"
+
+#: ../includes/Admin.php:219
+#, fuzzy
+msgid "Purchase Code"
+msgstr "Köpkod"
+
+#: ../includes/Admin.php:298
+#, php-format
+msgid ""
+"If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr ""
+
+#: ../includes/Admin.php:364
+msgid ""
+"Thanks for registering your product! The plugin is now <strong>Activated</"
+"strong> and the <strong>Auto-Updater</strong> enabled"
+msgstr ""
+
+#: ../includes/Admin.php:364
+#, fuzzy
+msgid "Your purchasecode"
+msgstr "Din köpkod"
+
+#: ../includes/Admin.php:367
+#, fuzzy
+msgid ""
+"The plugin is <strong>Not Activated</strong> and the <strong>Auto-Updater</"
+"strong> disabled"
+msgstr ""
+"Tillägget är  <strong>inte aktiverat</strong> och <strong>automatisk "
+"uppdatering</strong> är av"
+
+#: ../includes/Admin.php:367
+msgid ""
+"Please activate your copy in order to have direct access to the latest "
+"updates and to get support"
+msgstr ""
+
+#: ../includes/Admin.php:368
+#, fuzzy
+msgid "Activate"
+msgstr "Aktivera"
+
+#: ../includes/Admin.php:369
+msgid "Or insert your purchasecode manually and press Activate"
+msgstr ""
+
+#: ../includes/Admin.php:371
+#, fuzzy
+msgid "Check for Updates"
+msgstr "Kolla efter uppdateringar"
+
+#: ../includes/Admin.php:372
+#, fuzzy
+msgid "Deactivate License"
+msgstr "Deaktivera licens"
+
+#: ../includes/Admin.php:380
+#, fuzzy
+msgid "Revoke Authorization"
+msgstr "Upphäv auktorisering"
+
+#: ../includes/Admin.php:388 ../includes/Admin.php:419
+#, fuzzy
+msgid "Use-your-Drive has encountered an error"
+msgstr "Use-your-Drive har upptäckt ett fel"
+
+#: ../includes/Admin.php:389 ../includes/Admin.php:424
+#, fuzzy
+msgid "Error Details"
+msgstr "Fel detaljer"
+
+#: ../includes/Admin.php:394
+msgid "(Re) Authorize the Plugin!"
+msgstr "(Åter) Auktorisera Plugin!"
+
+#: ../includes/Admin.php:410 ../use-your-drive.php:578
+#, fuzzy
+msgid "Unlimited"
+msgstr "Obegränsad"
+
+#: ../includes/Admin.php:413
+#, fuzzy
+msgid ""
+"Use-your-Drive is succesfully authorized and linked with Google account:"
+msgstr "Use-your-Drive har auktoriserats och är länkat med Google konto:"
+
+#: ../includes/Admin.php:421
+#, fuzzy
+msgid ""
+"Please fall back to the default App by clearing the KEY and Secret on the "
+"Advanced settings tab"
+msgstr ""
+"Vänligen återgå till standard App för rensning av nyckel och hemlighet på "
+"avancerad inställnings flik"
+
+#: ../includes/Admin.php:429
+#, fuzzy
+msgid "Plugin isn't linked to your Drive... Please Authorize!"
+msgstr "Tillvalet är inte länkat till din driver... Vänligen auktorisera!"
+
+#: ../includes/Admin.php:439
+#, fuzzy
+msgid "Use-your-Drive uses a cache to improve performance"
+msgstr "Use-your-Drive använder cache för att förbättra prestandan"
+
+#: ../includes/Admin.php:439
+#, fuzzy
+msgid "If the plugin somehow is causing issues, try to reset the cache first"
+msgstr ""
+"Om tillvalet på något sätt orsakar problem, försök att återställa cache först"
+
+#: ../includes/Admin.php:441 ../templates/admin.php:816
+#, fuzzy
+msgid "Reset Cache"
+msgstr "Återställ Cache"
+
+#: ../includes/Admin.php:448 ../includes/Admin.php:509
+msgid "You need at least PHP 5.4 if you want to use Use-your-Drive"
+msgstr ""
+
+#: ../includes/Admin.php:449
+msgid "You are using:"
+msgstr "Du använder:"
+
+#: ../includes/Admin.php:452
+msgid ""
+"We are not able to connect to the Google API as you don't have the cURL PHP "
+"extension installed"
+msgstr ""
+
+#: ../includes/Admin.php:453
+msgid "Please enable or install the cURL extension on your server"
+msgstr ""
+
+#: ../includes/Admin.php:457
+msgid ""
+"We are not able to connect to the Google API as the plugin is interfering "
+"with an other plugin"
+msgstr ""
+"Vi kan inte ansluta till Googles API då en annan plugin stör denna plugin"
+
+#: ../includes/Admin.php:458
+msgid ""
+"The other plugin is using an old version of the Google-Api-PHP-client that "
+"isn't capable of running multiple configurations"
+msgstr ""
+"Den andra pluginen använder en gammal version av Google-Api-PHP-klient som "
+"inte klarar att köra flera olika konfigurationer samtidigt"
+
+#: ../includes/Admin.php:459
+msgid ""
+"Please disable this other plugin if you would like to use Use-your-Drive"
+msgstr "Inaktivera denna andra plugin om du vill använda Use-your-Drive"
+
+#: ../includes/Admin.php:460
+msgid ""
+"If you would like to use both plugins, ask the developer to update it's code"
+msgstr ""
+"Om du vill använda båda pluginer, be utvecklaren av den störande pluginen "
+"att uppdatera koden"
+
+#: ../includes/Admin.php:463
+#, php-format
+msgid "Cannot create the cache directory %s, or it is not writable"
+msgstr ""
+
+#: ../includes/Admin.php:464
+#, fuzzy, php-format
+msgid ""
+"Please check if the directory exists on your server and has %s writing "
+"permissions %s"
+msgstr ""
+"Vänligen kontrollera om målet finns på din server och har %s skriv "
+"behörighet %s"
+
+#: ../includes/Admin.php:477
+msgid "The plugin isn't autorized to use your Google Drive"
+msgstr "Denna plugin är inte auktoriserad att använda din Google Drive"
+
+#: ../includes/Admin.php:478
+msgid "Authorize the plugin!"
+msgstr "Auktorisera plugin!"
+
+#: ../includes/Admin.php:504
+#, fuzzy
+msgid "WordPress version"
+msgstr "WordPress version"
+
+#: ../includes/Admin.php:505
+#, fuzzy
+msgid "Plugin version"
+msgstr "Tillvals version"
+
+#: ../includes/Admin.php:506
+#, fuzzy
+msgid "Memory limit"
+msgstr "Minnes gräns"
+
+#: ../includes/Admin.php:509 ../includes/Admin.php:511
+#, fuzzy
+msgid "PHP version"
+msgstr "PHP version"
+
+#: ../includes/Admin.php:517 ../includes/Admin.php:519
+msgid "cURL PHP extension"
+msgstr "PHP-tillägget cURL"
+
+#: ../includes/Admin.php:517
+msgid ""
+"You have the cURL PHP extension installed and we can access Google with cURL"
+msgstr ""
+"Du har cURL PHP-tillägget installerat, och vi kan komma åt Google med cURL"
+
+#: ../includes/Admin.php:519
+msgid ""
+"You don't have the cURL PHP extension installed (couldn't find function "
+"\"curl_init\"), please enable or install this extension"
+msgstr ""
+"Du har inte PHP-tillägget cURL installerat (couldn't find function "
+"\"curl_init\"), vänligen installera eller aktivera tillägget"
+
+#: ../includes/Admin.php:524 ../includes/Admin.php:526
+msgid "Is allow_url_fopen enabled?"
+msgstr "Är allow_url_fopen aktiverat?"
+
+#: ../includes/Admin.php:524
+msgid "Yes, we can access Google with fopen"
+msgstr "Ja vi kommer åt Google with fopen"
+
+#: ../includes/Admin.php:526
+msgid "No, we can't access Google with fopen"
+msgstr "Nej, vi kan inte komma åt Google med fopen"
+
+#: ../includes/Admin.php:532 ../includes/Admin.php:534
+msgid "Version Google Api Client"
+msgstr "Version Google Api Client"
+
+#: ../includes/Admin.php:534
+msgid "Before version 1.0.0"
+msgstr "Före version 1.0.0"
+
+#: ../includes/Admin.php:534
+msgid ""
+"Another plugin is loading an old Google Client library. Use-your-Drive isn't "
+"compatible with this version."
+msgstr ""
+"En annan plugin laddar ett gammalt Google Client library. Use-your-Drive är "
+"inte kompatibel med den här versionen."
+
+#: ../includes/Admin.php:541 ../includes/Admin.php:543
+msgid "Is TMP directory writable?"
+msgstr "Är TMP-katalogen skrivbar?"
+
+#: ../includes/Admin.php:541
+msgid "TMP directory"
+msgstr "TMP-katalogen"
+
+#: ../includes/Admin.php:541
+msgid "isn't writable. You are not able to upload files to Drive."
+msgstr "är inte skrivbar. Du kan inte ladda upp filer till Drive."
+
+#: ../includes/Admin.php:541
+msgid "Make sure TMP directory is writable"
+msgstr "Se till TMP-katalogen är skrivbar"
+
+#: ../includes/Admin.php:543
+msgid "TMP directory is writable"
+msgstr "TMP-katalogen är skrivbar"
+
+#: ../includes/Admin.php:555 ../includes/Admin.php:557
+#: ../includes/Admin.php:560
+msgid "Is CACHE directory writable?"
+msgstr "Är CACHE-katalogen skrivbar?"
+
+#: ../includes/Admin.php:555
+msgid "CACHE directory"
+msgstr "CACHE-katalogen"
+
+#: ../includes/Admin.php:555 ../includes/Admin.php:568
+msgid "isn't writable. The gallery will load very slowly."
+msgstr "är inte skrivbar. Bildgallerier kommer att ladda mycket långsamt."
+
+#: ../includes/Admin.php:555
+msgid "Make sure CACHE directory is writable"
+msgstr "Se till CACHE-katalogen är skrivbar"
+
+#: ../includes/Admin.php:557
+msgid "CACHE directory is now writable"
+msgstr "CACHE-katalogen är nu skrivbar"
+
+#: ../includes/Admin.php:560
+msgid "CACHE directory is writable"
+msgstr "CACHE-katalogen är skrivbar"
+
+#: ../includes/Admin.php:568 ../includes/Admin.php:570
+#: ../includes/Admin.php:573
+msgid "Is CACHE-index file writable?"
+msgstr "Är filen CACHE-index skrivbar?"
+
+#: ../includes/Admin.php:568
+msgid "-index file"
+msgstr "-index file"
+
+#: ../includes/Admin.php:568
+msgid "Make sure CACHE-index file is writable"
+msgstr "Se till att filen CACHE-index är skrivbar"
+
+#: ../includes/Admin.php:570
+msgid "CACHE-index file is now writable"
+msgstr "Filen CACHE-index är nu skrivbar"
+
+#: ../includes/Admin.php:573
+msgid "CACHE-index file is writable"
+msgstr "Filen CACHE-index är skrivbar"
+
+#: ../includes/Admin.php:585 ../includes/Admin.php:587
+#: ../includes/Admin.php:590
+#, fuzzy
+msgid "Is THUMBNAIL directory writable?"
+msgstr "Är miniatyr målet skrivbart?"
+
+#: ../includes/Admin.php:585
+#, fuzzy
+msgid "THUMBNAIL directory"
+msgstr "Miniatyr mål"
+
+#: ../includes/Admin.php:585
+#, fuzzy
+msgid ""
+"isn't writable. Thumbnails of Google Doc files will not always properly."
+msgstr "är inte skrivbart. Miniatyrbilder för Google dokument filer kommer."
+
+#: ../includes/Admin.php:585
+#, fuzzy
+msgid "Make sure THUMBNAIL directory is writable"
+msgstr "Se till att miniatyrbilds målet är skrivbart"
+
+#: ../includes/Admin.php:587
+#, fuzzy
+msgid "THUMBNAIL directory is now writable"
+msgstr "Miniatyrbilds målet är nu skrivbart"
+
+#: ../includes/Admin.php:590
+#, fuzzy
+msgid "THUMBNAIL directory is writable"
+msgstr "Miniatyrbilds målet är skrivbart"
+
+#: ../includes/Admin.php:595
+msgid "You can use the ZIP function"
+msgstr "Du kan använda Zip-funktionen"
+
+#: ../includes/Admin.php:596 ../includes/Admin.php:599
+msgid "Download files as ZIP"
+msgstr "Ladda ner filer som ZIP"
+
+#: ../includes/Admin.php:598
+msgid "You cannot download files as ZIP"
+msgstr "Du kan inte ladda ner filer som ZIP"
+
+#: ../includes/Admin.php:603
+#, fuzzy
+msgid "mbstring extension enabled?"
+msgstr "mbstring tillval aktiverad?"
+
+#: ../includes/Admin.php:603
+#, fuzzy
+msgid ""
+"The required mbstring extension is not enabled on your server. Please enable "
+"this extension."
+msgstr ""
+"Den obligatorisk mbstring tillval är inte aktiverad på din server. Vänligen "
+"aktivera detta tillval."
+
+#: ../includes/Admin.php:611
+#, fuzzy
+msgid "You can use Use-your-Drive in Gravity Forms ("
+msgstr "Du kan använda Use-your-Drive i Gravity Forms ("
+
+#: ../includes/Admin.php:612 ../includes/Admin.php:615
+#, fuzzy
+msgid "Gravity Forms integration"
+msgstr "Gravity Forms intregering"
+
+#: ../includes/Admin.php:614
+#, fuzzy
+msgid "You have Gravity Forms ("
+msgstr "Du har Gravity Forms ("
+
+#: ../includes/Admin.php:626
+msgid "You can use Use-your-Drive in Contact Form 7 ("
+msgstr ""
+
+#: ../includes/Admin.php:627 ../includes/Admin.php:630
+msgid "Contact Form integration"
+msgstr ""
+
+#: ../includes/Admin.php:629
+msgid ""
+"You have Contact Form 7 installed, but this version is not supported. Please "
+"update Contact Form 7 to the latest version if you want to use this plugin "
+"in combination with Contact Form"
+msgstr ""
+
+#: ../includes/Admin.php:641
+#, fuzzy
+msgid "You can use Use-your-Drive in WooCommerce ("
+msgstr "Du kan använda Use-your-Drive i WooCommerce ("
+
+#: ../includes/Admin.php:642 ../includes/Admin.php:645
+#, fuzzy
+msgid "WooCommerce Digital Products"
+msgstr "WooCommerce digitala produketer"
+
+#: ../includes/Admin.php:644
+#, fuzzy
+msgid "You have WooCommerce ("
+msgstr "Du har WooCommerce ("
+
+#: ../includes/App.php:357
+#, fuzzy
+msgid "error communicating with Google API: "
+msgstr "fel i kommunikationen med Google API: "
+
+#: ../includes/Client.php:433
+msgid "Team Drives"
+msgstr ""
+
+#: ../includes/Client.php:863 ../includes/Processor.php:317
+msgid "Failed to delete entry"
+msgstr "Kunde inte radera posten"
+
+#: ../includes/Client.php:889 ../includes/Client.php:905
+#: ../includes/Client.php:907 ../includes/Client.php:955
+#: ../includes/Processor.php:344
+msgid "Failed to rename entry"
+msgstr "Namnbytet misslyckades"
+
+#: ../includes/Client.php:893
+msgid "No new name set"
+msgstr "Namnet byttes ej"
+
+#: ../includes/Client.php:903 ../includes/Client.php:1059
+#: ../includes/Client.php:1152
+msgid "Invalid entry"
+msgstr "Ogiltig post"
+
+#: ../includes/Client.php:913
+msgid "You are not authorized to rename files in this directory"
+msgstr "Du har inte behörighet att byta namn på filer i den här katalogen"
+
+#: ../includes/Client.php:920 ../includes/Client.php:925
+msgid "You are not authorized to rename this file or folder"
+msgstr "Du har inte behörighet att byta namn på filen eller mappen"
+
+#: ../includes/Client.php:929
+#, fuzzy
+msgid "You are not authorized to rename folder"
+msgstr "Du har inte behörighet att byta namn på mappen"
+
+#: ../includes/Client.php:933
+#, fuzzy
+msgid "You are not authorized to rename this file"
+msgstr "Du har inte behörighet att byta namn på filen"
+
+#: ../includes/Client.php:970 ../includes/Client.php:974
+#: ../includes/Client.php:983 ../includes/Client.php:1035
+#, fuzzy
+msgid "Failed to move entry"
+msgstr "Misslyckades med att flytta"
+
+#: ../includes/Client.php:988
+#, fuzzy
+msgid "You are not authorized to move items in this directory"
+msgstr "Du har inte behörighet att flytta detta objekt i detta katalog"
+
+#: ../includes/Client.php:995 ../includes/Client.php:1000
+#, fuzzy
+msgid "You are not authorized to move this file or folder"
+msgstr "Du har inte behörighet att flytta denna filer eller mapp"
+
+#: ../includes/Client.php:1004
+#, fuzzy
+msgid "You are not authorized to move folder"
+msgstr "Du har inte behörighet att flytta denna mapp"
+
+#: ../includes/Client.php:1008
+#, fuzzy
+msgid "You are not authorized to move this file"
+msgstr "Du har inte behörighet att flytta denna fil"
+
+#: ../includes/Client.php:1049
+#, fuzzy
+msgid "No new description set"
+msgstr "Ingen ny beskrivning satt"
+
+#: ../includes/Client.php:1061 ../includes/Client.php:1063
+#: ../includes/Client.php:1099
+#, fuzzy
+msgid "Failed to edit entry"
+msgstr "Misslyckades med att redigera"
+
+#: ../includes/Client.php:1069
+#, fuzzy
+msgid "You are not authorized to edit files in this directory"
+msgstr "Du har inte behörighet att redigera filen i denna katalog"
+
+#: ../includes/Client.php:1077 ../includes/Client.php:1082
+#, fuzzy
+msgid "You are not authorized to edit this file or folder"
+msgstr "Du har inte behörighet att ändra denna filer eller mapp"
+
+#: ../includes/Client.php:1137 ../includes/Client.php:1192
+#: ../includes/Processor.php:412
+msgid "Failed to add folder"
+msgstr "Det gick inte att lägga mapp"
+
+#: ../includes/Client.php:1141
+msgid "No new foldername set"
+msgstr "Mappens namn byttes ej"
+
+#: ../includes/Client.php:1154 ../includes/Client.php:1156
+msgid "Failed to add entry"
+msgstr "Det gick inte att lägga till posten"
+
+#: ../includes/Client.php:1161
+msgid "You are not authorized to add folders in this directory"
+msgstr "Du har inte behörighet att lägga till mappar i denna katalog"
+
+#: ../includes/Client.php:1168
+msgid "You are not authorized to add a folder"
+msgstr "Du har inte behörighet att lägga till en mapp"
+
+#: ../includes/Client.php:2008 ../includes/Client.php:2015
+msgid "Requested directory isn't allowed"
+msgstr "Begärda katalog är inte tillåten"
+
+#: ../includes/Client.php:2048
+msgid "Something went wrong... See settings page"
+msgstr "Something went wrong... See settings page"
+
+#: ../includes/Client.php:2253
+msgid "Can't create link"
+msgstr "Kan inte skapa länk"
+
+#: ../includes/ContactForm7.php:60
+msgid "Generate a form-tag for a Use-your-Drive Upload field."
+msgstr ""
+
+#: ../includes/ContactForm7.php:68 ../includes/ContactForm7.php:71
+#, fuzzy
+msgid "Field type"
+msgstr "Fälttyp"
+
+#: ../includes/ContactForm7.php:72
+#, fuzzy
+msgid "Required field"
+msgstr "Obligatoriskt fält"
+
+#: ../includes/ContactForm7.php:78 ../includes/LinkUsers.php:200
+#: ../templates/admin_dashboard.php:119 ../templates/admin_dashboard.php:203
+#: ../templates/frontend.php:101 ../templates/tinymce_popup.php:672
+msgid "Name"
+msgstr "Namn"
+
+#: ../includes/ContactForm7.php:83
+msgid "Use-your-Drive Shortcode"
+msgstr ""
+
+#: ../includes/ContactForm7.php:87 ../includes/GravityForms.php:121
+#, fuzzy
+msgid "Build your Use-your-Drive shortcode"
+msgstr "Bygg din Use-your-Drive:s kortkod"
+
+#: ../includes/ContactForm7.php:102
+#, fuzzy
+msgid "Insert Tag"
+msgstr "Infoga tagg@ action: inmenu"
+
+#: ../includes/ContactForm7.php:188 ../includes/GravityForms.php:218
+#, fuzzy, php-format
+msgid "%d file(s) uploaded:"
+msgstr "%d fil/er uppladdade:"
+
+#: ../includes/ContactForm7.php:239 ../includes/UserFolders.php:441
+#: ../includes/WooCommerce.php:52
+msgid "Guests"
+msgstr "Guests"
+
+#: ../includes/Events.php:349
+#, fuzzy
+msgid "Visitors"
+msgstr "Besökare"
+
+#: ../includes/Events.php:355
+#, fuzzy
+msgid "Visitor"
+msgstr "Besökare"
+
+#: ../includes/Events.php:355 ../includes/Events.php:422
+#: ../includes/Events.php:562 ../includes/Events.php:649
+#, fuzzy
+msgid "Deleted"
+msgstr "Raderad"
+
+#: ../includes/Events.php:416 ../includes/Events.php:638
+msgid "A visitor"
+msgstr ""
+
+#: ../includes/Events.php:516 ../templates/admin_dashboard.php:153
+msgid "Previews"
+msgstr ""
+
+#: ../includes/Events.php:525 ../includes/WooCommerce.php:227
+#: ../templates/admin_dashboard.php:101 ../templates/admin_dashboard.php:162
+#, fuzzy
+msgid "Downloads"
+msgstr "Nedladdningar"
+
+#: ../includes/Events.php:534
+#, fuzzy
+msgid "Streams"
+msgstr "Flöden"
+
+#: ../includes/Events.php:544 ../templates/admin_dashboard.php:171
+#, fuzzy
+msgid "Shared"
+msgstr "Delad"
+
+#: ../includes/Events.php:553
+msgid "Renamed"
+msgstr ""
+
+#: ../includes/Events.php:571
+#, fuzzy
+msgid "Created"
+msgstr "Skapad"
+
+#: ../includes/Events.php:580
+msgid "Updated metadata"
+msgstr ""
+
+#: ../includes/Events.php:589
+msgid "Moved"
+msgstr ""
+
+#: ../includes/Events.php:598 ../includes/WooCommerce.php:540
+#: ../templates/admin_dashboard.php:180
+#, fuzzy
+msgid "Uploads"
+msgstr "Uppladdningar"
+
+#: ../includes/Events.php:607
+#, fuzzy
+msgid "Searched"
+msgstr "Gemsökta"
+
+#: ../includes/Events.php:649 ../templates/admin_dashboard.php:100
+#: ../templates/admin_dashboard.php:118 ../templates/admin_dashboard.php:202
+#, fuzzy
+msgid "User"
+msgstr "Användare"
+
+#: ../includes/Events.php:653
+#, fuzzy
+msgid "folder"
+msgstr "mapp"
+
+#: ../includes/Events.php:653
+#, fuzzy
+msgid "file"
+msgstr "fil"
+
+#: ../includes/Events.php:667
+#, php-format
+msgid "%s previewed the %s %s"
+msgstr ""
+
+#: ../includes/Events.php:673
+#, php-format
+msgid "%s downloaded the %s %s"
+msgstr ""
+
+#: ../includes/Events.php:676
+#, php-format
+msgid "%s downloaded the %s %s as %s file"
+msgstr ""
+
+#: ../includes/Events.php:680
+#, php-format
+msgid "%s streamed the %s %s"
+msgstr ""
+
+#: ../includes/Events.php:683
+msgid "Shared link"
+msgstr ""
+
+#: ../includes/Events.php:684
+#, php-format
+msgid "%s created a %s for the %s %s"
+msgstr ""
+
+#: ../includes/Events.php:688
+#, php-format
+msgid "%s renamed the %s %s to %s"
+msgstr ""
+
+#: ../includes/Events.php:691
+#, php-format
+msgid "%s deleted the %s %s"
+msgstr ""
+
+#: ../includes/Events.php:694 ../includes/Events.php:704
+#, php-format
+msgid "%s added the %s %s in %s"
+msgstr ""
+
+#: ../includes/Events.php:698
+#, php-format
+msgid "%s updated the %s of the %s %s"
+msgstr ""
+
+#: ../includes/Events.php:701
+#, php-format
+msgid "%s moved the %s %s to %s"
+msgstr ""
+
+#: ../includes/Events.php:708
+#, php-format
+msgid "%s searched for: %s"
+msgstr ""
+
+#: ../includes/Events.php:711
+#, php-format
+msgid "%s performed an action: %s"
+msgstr ""
+
+#: ../includes/Events.php:782
+msgid "The file you are looking for cannot be found"
+msgstr ""
+
+#: ../includes/Events.php:782
+msgid "The file is probably deleted from the cloud"
+msgstr ""
+
+#: ../includes/Filebrowser.php:175 ../includes/Gallery.php:130
+msgid "Results"
+msgstr "Resultat"
+
+#: ../includes/Filebrowser.php:196 ../includes/Gallery.php:152
+msgid "Back"
+msgstr "Tillbaka"
+
+#: ../includes/Filebrowser.php:252 ../includes/Filebrowser.php:259
+#: ../includes/Gallery.php:118
+msgid "No files or folders found"
+msgstr "Inga filer eller mappar hittades"
+
+#: ../includes/Filebrowser.php:292 ../includes/Filebrowser.php:342
+#: ../includes/Gallery.php:237
+msgid "Previous folder"
+msgstr "Föregående mapp"
+
+#: ../includes/Filebrowser.php:308 ../includes/Filebrowser.php:314
+#, fuzzy
+msgid "Select folder"
+msgstr "Välj mapp"
+
+#: ../includes/Filebrowser.php:379 ../includes/Filebrowser.php:450
+#: ../includes/Filebrowser.php:659 ../includes/Gallery.php:271
+#: ../includes/Gallery.php:339 ../templates/admin_dashboard.php:144
+msgid "Download"
+msgstr "Ladda ner filen"
+
+#: ../includes/Filebrowser.php:575
+msgid "Your browser does not support HTML5. You can only download this file"
+msgstr ""
+
+#: ../includes/Filebrowser.php:617 ../includes/Gallery.php:315
+#, fuzzy
+msgid "Add a description"
+msgstr "Lägg till beskrivning"
+
+#: ../includes/Filebrowser.php:617 ../includes/Gallery.php:315
+#, fuzzy
+msgid "No description"
+msgstr "Ingen beskrivning"
+
+#: ../includes/Filebrowser.php:647
+msgid "Preview"
+msgstr "Förhandsvisa"
+
+#: ../includes/Filebrowser.php:653
+msgid "Preview in new window"
+msgstr "Förhandsvisa i nytt fönster"
+
+#: ../includes/Filebrowser.php:664
+msgid "Download as"
+msgstr "Ladda ner som"
+
+#: ../includes/Filebrowser.php:671 ../includes/Gallery.php:344
+msgid "Share"
+msgstr "Share"
+
+#: ../includes/Filebrowser.php:676 ../includes/Gallery.php:349
+#: ../use-your-drive.php:594
+msgid "Rename"
+msgstr "Byt namn"
+
+#: ../includes/Filebrowser.php:681 ../includes/Gallery.php:354
+#: ../use-your-drive.php:587
+msgid "Delete"
+msgstr "Radera"
+
+#: ../includes/Filebrowser.php:698 ../includes/Filebrowser.php:717
+#: ../includes/Gallery.php:371 ../includes/Gallery.php:373
+#: ../use-your-drive.php:597
+msgid "Add folder"
+msgstr "Lägg till mapp"
+
+#: ../includes/Filebrowser.php:699
+msgid "Add a new folder in this directory"
+msgstr "Lägg till en ny mapp i den här katalogen"
+
+#: ../includes/GravityForms.php:96
+msgid "Upload your Files"
+msgstr ""
+
+#: ../includes/GravityForms.php:131
+#, fuzzy
+msgid "Use-your-Drive Upload"
+msgstr "Use-your-Drive Ladda upp"
+
+#: ../includes/GravityForms.php:137
+#, fuzzy
+msgid "Build here your Use-your-Drive shortcode"
+msgstr "Bygg din Use-your-Drive kortkod här"
+
+#: ../includes/GravityForms.php:156
+msgid "This field is required. Please upload your files."
+msgstr ""
+
+#: ../includes/Helpers.php:142 ../includes/LinkUsers.php:287
+#: ../includes/UserFolders.php:437 ../includes/WooCommerce.php:890
+#: ../templates/tinymce_popup.php:42
+msgid "Guest"
+msgstr "Gäst"
+
+#: ../includes/LinkUsers.php:199
+#, fuzzy
+msgid "Username"
+msgstr "Användarnamn"
+
+#: ../includes/LinkUsers.php:201
+#, fuzzy
+msgid "Email"
+msgstr "E-post"
+
+#: ../includes/LinkUsers.php:202
+#, fuzzy
+msgid "Role"
+msgstr "Roll"
+
+#: ../includes/LinkUsers.php:203
+#, fuzzy
+msgid "Private Folder"
+msgstr "Privat korg"
+
+#: ../includes/LinkUsers.php:257 ../includes/LinkUsers.php:267
+#, php-format
+msgid "%1$s <span class=\"count\">(%2$s)</span>"
+msgstr ""
+
+#: ../includes/LinkUsers.php:265
+msgid "No role"
+msgstr ""
+
+#: ../includes/LinkUsers.php:288
+msgid "Default folder for Guests and non-linked Users"
+msgstr ""
+
+#: ../includes/LinkUsers.php:365
+#, fuzzy
+msgid "Create link with Private Folder"
+msgstr "Skapa en länk till en privat mapp"
+
+#: ../includes/LinkUsers.php:365
+#, fuzzy
+msgid "Link to Private Folder"
+msgstr "Länk till privat mapp"
+
+#: ../includes/LinkUsers.php:366
+#, fuzzy
+msgid "Break link with Private Folder"
+msgstr "Ta bort länk till privat mapp"
+
+#: ../includes/LinkUsers.php:366
+#, fuzzy
+msgid "Unlink"
+msgstr "Ta bort länk"
+
+#: ../includes/LinkUsers.php:381
+#, fuzzy
+msgid "No users found."
+msgstr "Inga användare hittades."
+
+#: ../includes/Processor.php:330
+#, fuzzy
+msgid "Not all entries could be deleted"
+msgstr "Inte alla poster kunde raderas"
+
+#: ../includes/Processor.php:334
+msgid "Entry was deleted"
+msgstr "Posten raderades"
+
+#: ../includes/Processor.php:357
+msgid "Entry was renamed"
+msgstr "Posten döptes om"
+
+#: ../includes/Processor.php:369
+#, fuzzy
+msgid "Failed to move"
+msgstr "Misslyckades med att flytta"
+
+#: ../includes/Processor.php:378
+#, fuzzy
+msgid "Entry was moved"
+msgstr "Post har flyttats"
+
+#: ../includes/Processor.php:389
+#, fuzzy
+msgid "Failed to edit description"
+msgstr "Misslyckades med att ändra beskrivnignen"
+
+#: ../includes/Processor.php:399
+#, fuzzy
+msgid "Description was edited"
+msgstr "Beskrivningen har redigerats"
+
+#: ../includes/Processor.php:425
+msgid "Folder"
+msgstr "Mapp"
+
+#: ../includes/Processor.php:425
+msgid "was added"
+msgstr "lades till"
+
+#: ../includes/Processor.php:442
+#, fuzzy
+msgid "no valid AJAX call"
+msgstr "inget validerad AJAX utrop"
+
+#: ../includes/Processor.php:481 ../templates/tinymce_popup.php:547
+#: ../use-your-drive.php:585
+msgid "Start"
+msgstr "Start"
+
+#: ../includes/Processor.php:548 ../use-your-drive.php:787
+#, fuzzy
+msgid "ERROR: Contact the Administrator to see this content"
+msgstr "FEL: Kontakta administratören för att se detta innehåll"
+
+#: ../includes/Processor.php:578
+#, fuzzy
+msgid "Please authorize Use-your-Drive"
+msgstr "Vänligen auktorisera Use-your-Drive"
+
+#: ../includes/Processor.php:773
+msgid ""
+"To view the Google Drive folders, you need to have JavaScript enabled in "
+"your browser"
+msgstr ""
+"Om du vill visa Google Drive-mappar, måste du ha JavaScript aktiverat i din "
+"webbläsare"
+
+#: ../includes/Processor.php:774
+msgid "To do so, please follow these instructions"
+msgstr "För att göra detta, följ dessa instruktioner"
+
+#: ../includes/Processor.php:785
+#, fuzzy
+msgid "Selected folder"
+msgstr "Välj mapp"
+
+#: ../includes/Processor.php:790
+msgid "Use the Root Folder of your Account"
+msgstr ""
+
+#: ../includes/Processor.php:881
+msgid "Please update your mediaplayer shortcode"
+msgstr "Vänligen uppdatera shortcode för din media"
+
+#: ../includes/Processor.php:1121
+msgid "A guest"
+msgstr "A gäst"
+
+#: ../includes/Processor.php:1347
+#, fuzzy
+msgid "Use-your-Drive needs your help!"
+msgstr "Use-your-Drive behöver din hjälp!"
+
+#: ../includes/Processor.php:1347
+#, fuzzy
+msgid "Authorize the plugin."
+msgstr "Auktorisera tillvalet."
+
+#: ../includes/Upload.php:58
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"Den uppladdade filen överskrider upload_max_filesize enligt inställningen i "
+"php.ini"
+
+#: ../includes/Upload.php:59
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Den uppladdade filen överskrider direktivet MAX_FILE_SIZE som angavs i HTML-"
+"formuläret"
+
+#: ../includes/Upload.php:60
+msgid "The uploaded file was only partially uploaded"
+msgstr "Den uppladdade filen blev endast delvis uppladdad"
+
+#: ../includes/Upload.php:61
+msgid "No file was uploaded"
+msgstr "Ingen fil laddades upp"
+
+#: ../includes/Upload.php:62
+msgid "Missing a temporary folder"
+msgstr "En temporär katalog saknas"
+
+#: ../includes/Upload.php:63
+msgid "Failed to write file to disk"
+msgstr "Det gick inte att skriva till hårddisken"
+
+#: ../includes/Upload.php:64
+msgid "A PHP extension stopped the file upload"
+msgstr "En PHP extension stoppade filuppladdning"
+
+#: ../includes/Upload.php:65
+msgid "The uploaded file exceeds the post_max_size directive in php.ini"
+msgstr ""
+"Den uppladdade filen överskrider post_max_size enligt inställningen i php.ini"
+
+#: ../includes/Upload.php:66
+msgid "File is too big"
+msgstr "Filen är för stor"
+
+#: ../includes/Upload.php:67 ../use-your-drive.php:613
+msgid "File is too small"
+msgstr "Filen är för liten"
+
+#: ../includes/Upload.php:68
+msgid "Filetype not allowed"
+msgstr "Filtypen är inte tillåten"
+
+#: ../includes/Upload.php:69 ../use-your-drive.php:610
+msgid "Maximum number of files exceeded"
+msgstr "Maximalt antal filer överskreds"
+
+#: ../includes/Upload.php:70
+msgid "Image exceeds maximum width"
+msgstr "Bildeb överskrider maximal bredd"
+
+#: ../includes/Upload.php:71
+msgid "Image requires a minimum width"
+msgstr "Bilden måste ha en minimal bredd"
+
+#: ../includes/Upload.php:72
+msgid "Image exceeds maximum height"
+msgstr "Bild överskrider maximal höjd"
+
+#: ../includes/Upload.php:73
+msgid "Image requires a minimum height"
+msgstr "Bilden kräver en minsta höjd"
+
+#: ../includes/Upload.php:90
+msgid "Uploading failed"
+msgstr "Uppladdningen misslyckades"
+
+#: ../includes/Upload.php:149 ../includes/Upload.php:196
+#: ../includes/Upload.php:209
+msgid "Not uploaded to Google Drive"
+msgstr "Laddades inte upp till to Google Drive"
+
+#: ../includes/Upload.php:225
+msgid "Not succesfully uploaded to Google Drive"
+msgstr "Laddades inte framgångsrikt upp till to Google Drive"
+
+#: ../includes/UserFolders.php:189
+msgid "Failed to add user folder"
+msgstr "Det gick inte att lägga till användarmapp"
+
+#: ../includes/UserFolders.php:224 ../includes/UserFolders.php:225
+#, fuzzy
+msgid ""
+"User folder is inside Template folder. Please select another template folder."
+msgstr "Användar mapp inuti mall mappen. Vänligen välj en annan mall mapp."
+
+#: ../includes/WooCommerce.php:42
+#, fuzzy
+msgid "WooCommerce Google Drive"
+msgstr "WooCommerce Google Drive"
+
+#: ../includes/WooCommerce.php:43
+#, fuzzy
+msgid "Easily add downloadable products right from your Google Drive."
+msgstr ""
+"Lägg enkelt till nedladdningsbara produkter direkt från din Google Drive."
+
+#: ../includes/WooCommerce.php:44
+#, fuzzy, php-format
+msgid ""
+"To be able to use this integration, you only need to link your Google "
+"Account to the plugin on the %s."
+msgstr ""
+"För att kunna använda denna integration behöver du bara länka ditt Google-"
+"konto till plugin på %s."
+
+#: ../includes/WooCommerce.php:167
+#, fuzzy
+msgid "Choose from Google Drive"
+msgstr "Välj från Google Drive"
+
+#: ../includes/WooCommerce.php:247
+#, fuzzy
+msgid "File not found"
+msgstr "Filen hittades inte"
+
+#: ../includes/WooCommerce.php:259
+#, fuzzy
+msgid "Order not found"
+msgstr "Beställningen hittades inte."
+
+#: ../includes/WooCommerce.php:512
+msgid "Uploaded Files"
+msgstr ""
+
+#: ../includes/WooCommerce.php:527
+#, php-format
+msgid "You can now %sstart uploading your documents%s"
+msgstr ""
+
+#: ../includes/WooCommerce.php:541
+msgid "Allows your customers to upload files when ordering this product."
+msgstr ""
+
+#: ../includes/WooCommerce.php:554 ../includes/WooCommerce.php:577
+msgid "Upload to Google Drive"
+msgstr ""
+
+#: ../includes/WooCommerce.php:582
+msgid "Upload Box Settings"
+msgstr ""
+
+#: ../includes/WooCommerce.php:590
+msgid "Title Upload Box"
+msgstr ""
+
+#: ../includes/WooCommerce.php:593
+msgid "Enter the title for the upload box"
+msgstr ""
+
+#: ../includes/WooCommerce.php:593
+msgid ""
+"You can use the placeholders <code>%wc_order_id%</code>, <code>%wc_product_id"
+"%</code>, <code>%wc_product_name%</code>, <code>%jjjj-mm-dd%</code>"
+msgstr ""
+
+#: ../includes/WooCommerce.php:604
+msgid "Description Upload Box"
+msgstr ""
+
+#: ../includes/WooCommerce.php:607
+msgid "Enter a short description of what the customer needs to upload"
+msgstr ""
+
+#: ../includes/WooCommerce.php:615
+msgid "Build your Upload Box"
+msgstr ""
+
+#: ../includes/WooCommerce.php:616
+msgid "Edit Shortcode Manually"
+msgstr ""
+
+#: ../includes/WooCommerce.php:628
+msgid "Upload Folder Name"
+msgstr ""
+
+#: ../includes/WooCommerce.php:629
+msgid ""
+"Unique folder name where the uploads should be stored. Make sure that "
+"Private Folder feature is enabled in the shortcode"
+msgstr ""
+
+#: ../includes/WooCommerce.php:629
+msgid ""
+"You can use the placeholders <code>%wc_order_id%</code>, <code>%wc_product_id"
+"%</code>, <code>%wc_product_name%</code>, <code>%user_login%</code>, <code>"
+"%user_email%</code>, <code>%display_name%</code>, <code>%ID%</code>, <code>"
+"%user_role%</code>, <code>%jjjj-mm-dd%</code>"
+msgstr ""
+
+#: ../includes/WooCommerce.php:733 ../templates/frontend.php:43
+#: ../templates/gallery.php:39
+msgid "Upload files"
+msgstr "Ladda upp filer"
+
+#: ../includes/WooCommerce.php:787 ../includes/WooCommerce.php:824
+#, php-format
+msgid "Please %sconfigure%s the upload location for this product"
+msgstr ""
+
+#: ../includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+#, fuzzy
+msgid "Check for updates"
+msgstr "Kontrollera om det finns uppdateringar"
+
+#: ../includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+#, fuzzy
+msgid "View details"
+msgstr "Visa detaljer"
+
+#: ../includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, fuzzy, php-format
+msgid "More information about %s"
+msgstr "Mer information om %s"
+
+#: ../includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+#, fuzzy, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Okänd uppdatering kontrollera status \"%s\""
+
+#: ../includes/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+#, fuzzy
+msgid "There is no changelog available."
+msgstr "Det finns ingen ändringslogg tillgänglig."
+
+#: ../skins/clean-jPlayer-skin.light/player.php:15
+#: ../skins/clean-jPlayer-skin/player.php:15 ../skins/default/player.php:9
+#, fuzzy
+msgid "Wait..."
+msgstr "Vänta..."
+
+#: ../skins/default/player.php:10
+#, fuzzy
+msgid "Busy loading playlist"
+msgstr "Upptagen med att ladda spellistan"
+
+#: ../templates/admin.php:69 ../templates/admin.php:923
+#, fuzzy
+msgid "Remove Media"
+msgstr "Ta bort media"
+
+#: ../templates/admin.php:75
+#, fuzzy
+msgid "Select Image"
+msgstr "Välj bild"
+
+#: ../templates/admin.php:75
+msgid "Upload or select a file from the media library"
+msgstr ""
+
+#: ../templates/admin.php:78
+#, fuzzy
+msgid "Default"
+msgstr "Standard"
+
+#: ../templates/admin.php:78
+msgid "Fallback to the default value"
+msgstr ""
+
+#: ../templates/admin.php:97
+#, fuzzy
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: ../templates/admin.php:106 ../templates/admin.php:133
+#: ../templates/tinymce_popup.php:195 ../templates/tinymce_popup.php:214
+#, fuzzy
+msgid "General"
+msgstr "Allmänt"
+
+#: ../templates/admin.php:107 ../templates/admin.php:150
+#: ../templates/tinymce_popup.php:198 ../templates/tinymce_popup.php:497
+msgid "Layout"
+msgstr "Layout"
+
+#: ../templates/admin.php:108 ../templates/admin.php:337
+#, fuzzy
+msgid "Private Folders"
+msgstr "Privat folder"
+
+#: ../templates/admin.php:109 ../templates/admin.php:462
+#: ../templates/tinymce_popup.php:200 ../templates/tinymce_popup.php:706
+#, fuzzy
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: ../templates/admin.php:110 ../templates/admin.php:643
+#: ../templates/tinymce_popup.php:203 ../templates/tinymce_popup.php:1012
+#, fuzzy
+msgid "Notifications"
+msgstr "Notifieringar"
+
+#: ../templates/admin.php:111 ../templates/admin.php:740
+#, fuzzy
+msgid "Permissions"
+msgstr "Behörigheter"
+
+#: ../templates/admin.php:112 ../templates/admin.php:786
+#, fuzzy
+msgid "Statistics"
+msgstr "Statistik"
+
+#: ../templates/admin.php:113 ../templates/admin.php:801
+msgid "System information"
+msgstr "Systeminformation"
+
+#: ../templates/admin.php:114 ../templates/admin.php:808
+#, fuzzy
+msgid "Need help?"
+msgstr "Behöver du hjälp?"
+
+#: ../templates/admin.php:117
+#, fuzzy
+msgid "Other Cloud Plugins"
+msgstr "Andra Moln tillval"
+
+#: ../templates/admin.php:124
+#, fuzzy
+msgid "Version"
+msgstr "Version"
+
+#: ../templates/admin.php:135
+#, fuzzy
+msgid "Authorization"
+msgstr "Auktorisering"
+
+#: ../templates/admin.php:139
+msgid "Plugin License"
+msgstr ""
+
+#: ../templates/admin.php:154
+msgid "Loading Spinner & Images"
+msgstr ""
+
+#: ../templates/admin.php:157
+msgid "Select Loader Spinner"
+msgstr ""
+
+#: ../templates/admin.php:159
+#, fuzzy
+msgid "Beat"
+msgstr "Beat"
+
+#: ../templates/admin.php:160
+#, fuzzy
+msgid "Spinner"
+msgstr "Spinner"
+
+#: ../templates/admin.php:161
+msgid "Custom Image (selected below)"
+msgstr ""
+
+#: ../templates/admin.php:164
+msgid "General Loader"
+msgstr ""
+
+#: ../templates/admin.php:169
+msgid "Upload Loader"
+msgstr ""
+
+#: ../templates/admin.php:174
+#, fuzzy
+msgid "No Results"
+msgstr "Hittade inget"
+
+#: ../templates/admin.php:179
+msgid "Access Forbidden Image"
+msgstr ""
+
+#: ../templates/admin.php:184
+msgid "Error Image"
+msgstr ""
+
+#: ../templates/admin.php:191
+#, fuzzy
+msgid "Color Palette"
+msgstr "Färgpalett"
+
+#: ../templates/admin.php:194
+msgid "Content Skin"
+msgstr ""
+
+#: ../templates/admin.php:195
+msgid "Select the general content skin"
+msgstr ""
+
+#: ../templates/admin.php:197
+#, fuzzy
+msgid "Dark"
+msgstr "Mörk"
+
+#: ../templates/admin.php:198
+#, fuzzy
+msgid "Light"
+msgstr "Ljus"
+
+#: ../templates/admin.php:205
+#, fuzzy
+msgid "Content Background Color"
+msgstr "Innehållets bakgrundsfärg"
+
+#: ../templates/admin.php:209
+#, fuzzy
+msgid "Accent Color"
+msgstr "Accentfärg"
+
+#: ../templates/admin.php:213
+#, fuzzy
+msgid "Black"
+msgstr "Svart"
+
+#: ../templates/admin.php:217
+#, fuzzy
+msgid "Dark 1"
+msgstr "Mörk 1"
+
+#: ../templates/admin.php:221
+msgid "Dark 2"
+msgstr ""
+
+#: ../templates/admin.php:225
+#, fuzzy
+msgid "White"
+msgstr "Vit"
+
+#: ../templates/admin.php:229
+msgid "Light 1"
+msgstr ""
+
+#: ../templates/admin.php:233
+msgid "Light 2"
+msgstr ""
+
+#: ../templates/admin.php:242
+#, fuzzy
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../templates/admin.php:244
+#, fuzzy
+msgid "Lightbox Skin"
+msgstr "Lightbox tema"
+
+#: ../templates/admin.php:245
+#, fuzzy
+msgid "Select which skin you want to use for the lightbox"
+msgstr "Välj vilket tema du vill använda för Lightbox"
+
+#: ../templates/admin.php:268
+#, fuzzy
+msgid "Lightbox Scroll"
+msgstr "Lightbox rulla"
+
+#: ../templates/admin.php:269
+#, fuzzy
+msgid ""
+"Sets path for switching windows. Possible values are 'vertical' and "
+"'horizontal' and the default is 'vertical"
+msgstr ""
+"Sätt del för växla fönster. Värdena är 'vertikal' och 'horisontell' och "
+"standard är 'vertikal"
+
+#: ../templates/admin.php:271
+#, fuzzy
+msgid "Horizontal"
+msgstr "Horisontell"
+
+#: ../templates/admin.php:272
+#, fuzzy
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: ../templates/admin.php:275
+#, fuzzy
+msgid "Lightbox Image Source"
+msgstr "Bild källa Lightbox"
+
+#: ../templates/admin.php:276
+#, fuzzy
+msgid ""
+"Select the source of the images. Large thumbnails load fast, orignal files "
+"will take some time to load"
+msgstr ""
+"Välj källa för bilder. Stora miniatyrbilder laddar snabbt, original filer "
+"kommer ta en stund att ladda"
+
+#: ../templates/admin.php:278
+#, fuzzy
+msgid "Fast - Large preview thumbnails"
+msgstr "Snabbt - Förhandsvisa stora miniatyrbilder"
+
+#: ../templates/admin.php:279
+#, fuzzy
+msgid "Slow - Show orginal files"
+msgstr "Sakta - Visa original filer"
+
+#: ../templates/admin.php:282
+msgid "Allow Mouse Click on Image"
+msgstr ""
+
+#: ../templates/admin.php:289
+msgid ""
+"Should people be able to access the right click context menu to e.g. save "
+"the image?"
+msgstr ""
+
+#: ../templates/admin.php:291
+#, fuzzy
+msgid "Lightbox Caption"
+msgstr "Lightbox bildtext"
+
+#: ../templates/admin.php:292
+msgid ""
+"Choose when the caption containing the title and (if available) description "
+"are shown"
+msgstr ""
+
+#: ../templates/admin.php:294
+msgid "Show caption after clicking on the Lightbox"
+msgstr ""
+
+#: ../templates/admin.php:295
+msgid "Show caption when Lightbox opens"
+msgstr ""
+
+#: ../templates/admin.php:302
+#, fuzzy
+msgid "Media Player Skin"
+msgstr "Tema ljudspelaren"
+
+#: ../templates/admin.php:304
+#, fuzzy
+msgid "Select which skin you want to use for the Media Player"
+msgstr "Välj vilket tema som du vill använda till ljudspelaren"
+
+#: ../templates/admin.php:325
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: ../templates/admin.php:327
+#, fuzzy
+msgid ""
+"If you want to modify the looks of the plugin slightly, you can insert here "
+"your custom CSS. Don't edit the CSS files itself, because those "
+"modifications will be lost during an update."
+msgstr ""
+"Om du vill ändra utseendet på plugin något kan du lägga in din anpassade CSS "
+"här. Redigera inte själva CSS-filerna eftersom de ändringar kommer att gå "
+"vilse under en uppdatering."
+
+#: ../templates/admin.php:339
+#, fuzzy
+msgid "Create Private Folders on registration"
+msgstr "Skapa privat mapp på registreringen"
+
+#: ../templates/admin.php:346
+#, fuzzy
+msgid ""
+"Create a new Private Folders automatically after a new user has been created"
+msgstr ""
+"Skapa nya privata mappar automatiskt efter att en ny användare har skapats"
+
+#: ../templates/admin.php:348
+#, fuzzy
+msgid "Create all Private Folders on first visit"
+msgstr "Skapa alla privata mappar på första besöket"
+
+#: ../templates/admin.php:355
+#, fuzzy
+msgid ""
+"Create all Private Folders the first time the page with the shortcode is "
+"visited"
+msgstr "Skapa alla privata mappar första gången sidan med kortkoder besöks"
+
+#: ../templates/admin.php:357 ../templates/admin.php:481
+#, fuzzy
+msgid "NOTICE"
+msgstr "NOTERA"
+
+#: ../templates/admin.php:357
+#, fuzzy
+msgid ""
+"Creating User Folders takes around 1 sec per user, so it isn't recommended "
+"to create those on first visit when you have tons of users"
+msgstr ""
+"Skapa användarfoldrar tar ungefär 1 sekund per användare, så det "
+"rekommenderas inte att skapa dem vid första besöket när du har massor av "
+"användare"
+
+#: ../templates/admin.php:361
+#, fuzzy
+msgid "Update Private Folders after profile update"
+msgstr "Uppdatera privata mappar efter profil uppdatering"
+
+#: ../templates/admin.php:368
+#, fuzzy
+msgid ""
+"Update the folder name of the user after they have updated their profile"
+msgstr ""
+"Uppdatera mappnamnet på användaren efter att de har uppdaterat sin profil"
+
+#: ../templates/admin.php:370
+#, fuzzy
+msgid "Remove Private Folders after account removal"
+msgstr "Ta bort privata mappar efter att kontot raderats"
+
+#: ../templates/admin.php:377
+#, fuzzy
+msgid "Try to remove Private Folders after they are deleted"
+msgstr "Försök att ta bort privata mappar efter att de har raderats"
+
+#: ../templates/admin.php:379
+#, fuzzy
+msgid "Private Folders in Back-End"
+msgstr "Privata mappar i Back-End"
+
+#: ../templates/admin.php:380
+#, fuzzy
+msgid ""
+"Enables Private Folders in the Shortcode Builder and Back-End File Browser"
+msgstr "Aktiverar privata mappar i kortkods byggaren och Back-End filläsaren"
+
+#: ../templates/admin.php:383
+#, fuzzy
+msgid "Yes, I link the users Manually"
+msgstr "Ja, Jag vill länka användare manuellt"
+
+#: ../templates/admin.php:384
+#, fuzzy
+msgid "Yes, let the plugin create the User Folders for me"
+msgstr "Ja, Låt tillvalet skapa användare mappar åt mig"
+
+#: ../templates/admin.php:387
+msgid ""
+"This setting only restrict access of the File Browsers in the Admin "
+"Dashboard (e.g. the one in the Shortcode Builder). To enable Private Folders "
+"for your own Shortcodes, use the Shortcode Builder"
+msgstr ""
+
+#: ../templates/admin.php:396
+msgid "Root folder for Private Folders"
+msgstr ""
+
+#: ../templates/admin.php:397
+msgid "Select in which folder the Private Folders should be created"
+msgstr ""
+
+#: ../templates/admin.php:397
+msgid "Current selected folder"
+msgstr ""
+
+#: ../templates/admin.php:412
+#, fuzzy
+msgid "Select Folder"
+msgstr "Välj mapp"
+
+#: ../templates/admin.php:437 ../templates/tinymce_popup.php:401
+#, fuzzy
+msgid "Full Access"
+msgstr "Full access"
+
+#: ../templates/admin.php:438 ../templates/tinymce_popup.php:402
+#, fuzzy
+msgid ""
+"By default only Administrator users will be able to navigate through all "
+"Private Folders"
+msgstr ""
+"Som standard kan bara administratörs användare navigera genom alla privata "
+"mappar"
+
+#: ../templates/admin.php:438 ../templates/tinymce_popup.php:402
+#, fuzzy
+msgid ""
+"When you want other User Roles to be able do browse to the Private Folders "
+"as well, please check them below"
+msgstr ""
+"När du vill att andra användarroller ska kunna bläddra till privata mappar, "
+"vänligen kryssa dem nedan"
+
+#: ../templates/admin.php:452
+#, fuzzy
+msgid "Name Template"
+msgstr "Mall namn"
+
+#: ../templates/admin.php:453
+#, fuzzy
+msgid ""
+"Template name for automatically created Private Folders. You can use <code>"
+"%user_login%</code>, <code>%user_email%</code>, <code>%display_name%</code>, "
+"<code>%ID%</code>, <code>%user_role%</code>, <code>%jjjj-mm-dd%</code>"
+msgstr ""
+"Mallnamn för automatiskt skapade privata mappar. <code>%user_login%</code>, "
+"<code>%user_email%</code>, <code>%display_name%</code>, <code>%ID%</code>, "
+"<code>%user_role%</code>, <code>%jjjj-mm-dd%</code>"
+
+#: ../templates/admin.php:464
+#, fuzzy
+msgid "\"Lost Authorization\" notification"
+msgstr "\"Förlorat Auktorisering\" notering"
+
+#: ../templates/admin.php:465
+#, fuzzy
+msgid ""
+"If the plugin somehow loses its authorization, a notification email will be "
+"send to the following email address"
+msgstr ""
+"Om tillvalet på något sätt förlorar sitt auktorisering skickas ett "
+"meddelande till e-post till följande e-postadress"
+
+#: ../templates/admin.php:468
+#, fuzzy
+msgid "Own Google App"
+msgstr "Egen Google App"
+
+#: ../templates/admin.php:481
+#, fuzzy
+msgid ""
+"If you encounter any issues when trying to use your own App with Use-your-"
+"Drive, please fall back on the default App by disabling this setting"
+msgstr ""
+"Om du stöter på problem när du försöker använda din egen App med Använd-din-"
+"enhet, faller du tillbaka till standardappen genom att inaktivera den här "
+"inställningen"
+
+#: ../templates/admin.php:485
+#, fuzzy
+msgid "Google Client ID"
+msgstr "Google klient ID"
+
+#: ../templates/admin.php:486
+#, fuzzy
+msgid ""
+"<strong>Only</strong> if you want to use your own App, insert your Google "
+"App  Client ID here"
+msgstr ""
+"<strong>Endast</strong> om du vill använda din egen App, lägg in ditt Google "
+"App Client ID här"
+
+#: ../templates/admin.php:487 ../templates/admin.php:491
+#, fuzzy
+msgid "Leave empty for easy setup"
+msgstr "Lämna tomt för easy setup"
+
+#: ../templates/admin.php:489
+#, fuzzy
+msgid "Google Client Secret"
+msgstr "Google klient hemlighet"
+
+#: ../templates/admin.php:490
+#, fuzzy
+msgid ""
+"If you want to use your own App, insert your Google App Client secret here"
+msgstr ""
+"Om du vill använda din egen app lägger du till din Google Apps Client "
+"hemlighet här"
+
+#: ../templates/admin.php:494
+#, fuzzy
+msgid "OAuth 2.0 Redirect URI"
+msgstr "OAuth 2.0 Omdirigerings URI"
+
+#: ../templates/admin.php:495
+#, fuzzy
+msgid "Set the redirect URI in your application to the following"
+msgstr "Ange omdirigerings URI i din ansökan till följande"
+
+#: ../templates/admin.php:501
+#, fuzzy
+msgid ""
+"Enter Client ID and Secret, save settings and reload the page to see the "
+"Redirect URI you will need"
+msgstr ""
+"Ange klient-ID och hemlighet, spara inställningar och ladda om sidan för att "
+"se omdirigeringsadressen du behöver"
+
+#: ../templates/admin.php:512
+#, fuzzy
+msgid "Using Google G Suite?"
+msgstr "Använder Google G Suite?"
+
+#: ../templates/admin.php:521
+#, fuzzy
+msgid "Your Google G Suite Domain"
+msgstr "Din Google G Suite domän"
+
+#: ../templates/admin.php:522
+#, fuzzy
+msgid ""
+"If you have a Google G Suite Domain and you want to share your documents "
+"ONLY with users having an account in your G Suite Domain, please insert your "
+"domain. If you want your documents to be accessible to the public, leave "
+"this setting empty."
+msgstr ""
+"Om du har ett Google G Suite-domän och du vill dela dina dokument ENDAST med "
+"användare som har ett konto i din G-domän, ange din domän. Om du vill att "
+"dina dokument ska vara tillgängliga för allmänheten, lämna den här "
+"inställningen tom."
+
+#: ../templates/admin.php:525
+msgid "Enable Team Drives"
+msgstr ""
+
+#: ../templates/admin.php:534
+#, fuzzy
+msgid "Manage Permission"
+msgstr "Hantera behörighet"
+
+#: ../templates/admin.php:540
+#, fuzzy
+msgid ""
+"If you want your to manage the sharing permissions by yourself or if you "
+"want users to login to Google, disabled the -Manage Permissions- function."
+msgstr ""
+"Om du vill att dina ska hantera delnings behörigheterna själv eller om du "
+"vill att användarna ska logga in till Google, inaktiverade funktionen -"
+"Manage permissions-funktionen."
+
+#: ../templates/admin.php:543
+msgid "Load Javascripts on all pages"
+msgstr ""
+
+#: ../templates/admin.php:549
+msgid ""
+"By default the plugin will only load it scripts when the shortcode is "
+"present on the page. If you are dynamically loading content via AJAX calls "
+"and the plugin does not show up, please enable this setting"
+msgstr ""
+
+#: ../templates/admin.php:553
+#, fuzzy
+msgid "Enable Gzip compression"
+msgstr "Aktivera Gzip-komprimering"
+
+#: ../templates/admin.php:561
+#, fuzzy
+msgid ""
+"Enables gzip-compression if the visitor's browser can handle it. This will "
+"increase the performance of the plugin if you are displaying large amounts "
+"of files and it reduces bandwidth usage as well. It uses the PHP "
+"<code>ob_gzhandler()</code> callback. Please use this setting with caution. "
+"Always test if the plugin still works on the Front-End as some servers are "
+"already configured to gzip content!"
+msgstr ""
+"Aktiverar gzip-komprimering om besökarens webbläsare kan hantera den. Detta "
+"ökar prestandan i tillvals programmet om du visar stora mängder filer och "
+"det minskar även bandbreddsanvändningen. Det använder PHP <code>ob_gzhandler "
+"()</code> återuppringning. Var vänlig använd denna inställning med "
+"försiktighet. Testa alltid om tillvalet fortfarande fungerar på Front-End "
+"eftersom vissa servrar redan är konfigurerade för att gzip innehåll!"
+
+#: ../templates/admin.php:565
+#, fuzzy
+msgid "File Based Cache"
+msgstr "Fil baserad cache"
+
+#: ../templates/admin.php:566
+#, fuzzy
+msgid "Database Based Cache"
+msgstr "Databas baserad cache"
+
+#: ../templates/admin.php:570
+msgid "Nonce Validation"
+msgstr ""
+
+#: ../templates/admin.php:576
+msgid ""
+"The plugin uses, among others, the WordPress Nonce system to protect you "
+"against several types of attacks including CSRF. Disable this in case you "
+"are encountering a conflict with a plugin that alters this system"
+msgstr ""
+
+#: ../templates/admin.php:581
+msgid "Syncronize via WP-Cron"
+msgstr ""
+
+#: ../templates/admin.php:587
+msgid ""
+"Use WP-Cron to synchronize the cache of the plugin with the linked cloud "
+"account. If you are using tens of shortcodes and encounter performance "
+"issues, try to disable this setting"
+msgstr ""
+
+#: ../templates/admin.php:589
+msgid ""
+"As WP-Cron does not run continuously, you can increase the loading "
+"performance by creating a Cron job via your server configuration panel!"
+msgstr ""
+
+#: ../templates/admin.php:589
+#, fuzzy
+msgid "More information"
+msgstr "Mer information"
+
+#: ../templates/admin.php:592
+#, fuzzy
+msgid "Download method"
+msgstr "Ladda ner metod"
+
+#: ../templates/admin.php:593
+#, fuzzy
+msgid ""
+"Select the method that should be used to download your files. Default is to "
+"redirect the user to a temporarily url on Google Server. If you want to use "
+"your server as a proxy to the Google Server just set it to Download via "
+"Server"
+msgstr ""
+"Välj den metod som ska användas för att ladda ner dina filer. Standard är "
+"att omdirigera användaren till en temporär webbadress på Google Server. Om "
+"du vill använda din server som en proxy till Google Server, ställer du bara "
+"in den på Hämta via server"
+
+#: ../templates/admin.php:595
+msgid "Redirect to download url (fast)"
+msgstr ""
+
+#: ../templates/admin.php:596
+#, fuzzy
+msgid "Use your Server as proxy (slow)"
+msgstr "Använd din server som proxy (långsam)"
+
+#: ../templates/admin.php:599
+#, fuzzy
+msgid "Shortlinks API"
+msgstr "Förkortar API"
+
+#: ../templates/admin.php:600
+#, fuzzy
+msgid "Select which Url Shortener Service you want to use"
+msgstr "Välj vilken Url förkortar tjänst du vill använda"
+
+#: ../templates/admin.php:611
+msgid "Sign up for Shorte.st"
+msgstr ""
+
+#: ../templates/admin.php:613
+#, fuzzy
+msgid "API token"
+msgstr "API-token"
+
+#: ../templates/admin.php:618
+#, fuzzy
+msgid "Sign up for Bitly"
+msgstr "Registrera till Bitly"
+
+#: ../templates/admin.php:620
+#, fuzzy
+msgid "Bitly login"
+msgstr "Logga in Bitly"
+
+#: ../templates/admin.php:623
+#, fuzzy
+msgid "Bitly apiKey"
+msgstr "Bitly api nyckel"
+
+#: ../templates/admin.php:628
+msgid "Sign up for Rebrandly"
+msgstr ""
+
+#: ../templates/admin.php:630
+msgid "Rebrandly apiKey"
+msgstr ""
+
+#: ../templates/admin.php:633
+msgid "Rebrandly Domain (optional)"
+msgstr ""
+
+#: ../templates/admin.php:648
+msgid "Download Notifications"
+msgstr ""
+
+#: ../templates/admin.php:650
+#, fuzzy
+msgid "Subject download notification"
+msgstr "Ämneshämtningsmeddelande"
+
+#: ../templates/admin.php:652 ../templates/admin.php:656
+#: ../templates/admin.php:669 ../templates/admin.php:678
+#: ../templates/admin.php:691 ../templates/admin.php:700
+#: ../templates/admin.php:714 ../templates/admin.php:732
+#, fuzzy
+msgid "Available placeholders"
+msgstr "Tillgängliga platshållare"
+
+#: ../templates/admin.php:654
+#, fuzzy
+msgid "Subject zip notification"
+msgstr "Zip ämnes notering"
+
+#: ../templates/admin.php:658
+#, fuzzy
+msgid "Template download"
+msgstr "Nerladdning mall"
+
+#: ../templates/admin.php:674
+msgid "Upload Notifications"
+msgstr ""
+
+#: ../templates/admin.php:676
+#, fuzzy
+msgid "Subject upload notification"
+msgstr "Ämne uppladdnings notering"
+
+#: ../templates/admin.php:680
+#, fuzzy
+msgid "Template upload"
+msgstr "Uppladdning mall"
+
+#: ../templates/admin.php:696
+msgid "Delete Notifications"
+msgstr ""
+
+#: ../templates/admin.php:698
+#, fuzzy
+msgid "Subject deletion notification"
+msgstr "Meddelande om borttagning av ämne"
+
+#: ../templates/admin.php:702
+#, fuzzy
+msgid "Template deletion"
+msgstr "Radering mall"
+
+#: ../templates/admin.php:720
+msgid "Template %filelist% placeholder"
+msgstr ""
+
+#: ../templates/admin.php:721
+msgid ""
+"Template for File item in File List in the download/upload/delete "
+"notification template"
+msgstr ""
+
+#: ../templates/admin.php:744
+#, fuzzy
+msgid "Change Plugin Settings"
+msgstr "Ändra tillvals inställnignar"
+
+#: ../templates/admin.php:749
+#, fuzzy
+msgid "Link Users to Private Folders"
+msgstr "Länka användare till privat mapp"
+
+#: ../templates/admin.php:754
+msgid "See Reports"
+msgstr ""
+
+#: ../templates/admin.php:759
+#, fuzzy
+msgid "See Back-End Filebrowser"
+msgstr "Visa back-end filläsare"
+
+#: ../templates/admin.php:764
+#, fuzzy
+msgid "Add Plugin Shortcodes"
+msgstr "Lägg till tillval kortkoder"
+
+#: ../templates/admin.php:769
+#, fuzzy
+msgid "Add Direct Links"
+msgstr "Lägg till direkt länkar"
+
+#: ../templates/admin.php:774
+#, fuzzy
+msgid "Embed Documents"
+msgstr "Inbäddad dokument"
+
+#: ../templates/admin.php:788
+#, fuzzy
+msgid "Google Analytics"
+msgstr "Google Analytik"
+
+#: ../templates/admin.php:795
+#, fuzzy
+msgid ""
+"Would you like to see some statistics about your files? Use-your-Drive can "
+"send all download/upload events to Google Analytics"
+msgstr ""
+"Vill du se statistik om dina filer? Use-your-Drive kan skicka alla "
+"nedladdningar / ladda upp händelser till Google Analytisk"
+
+#: ../templates/admin.php:795
+#, fuzzy
+msgid ""
+"If you enable this feature, please make sure you already added your <a "
+"href='https://support.google.com/analytics/answer/1008080?hl=en'>Google "
+"Analytics web tracking</a> code to your site."
+msgstr ""
+"Om du aktiverar den här funktionen, var noga med att du redan har lagt till "
+"din <a href='https://support.google.com/analytics/answer/1008080?"
+"hl=sv'>Google Analytisk webbspårnings</a> kod till din sida."
+
+#: ../templates/admin.php:810
+#, fuzzy
+msgid "Support & Documentation"
+msgstr "Dokumentation & support"
+
+#: ../templates/admin.php:812
+msgid ""
+"Check the documentation of the plugin in case you encounter any problems or "
+"are looking for support."
+msgstr ""
+
+#: ../templates/admin.php:813
+msgid "Open Documentation"
+msgstr ""
+
+#: ../templates/admin.php:883
+#, fuzzy
+msgid "Select your image"
+msgstr "Välj din bild"
+
+#: ../templates/admin.php:885
+#, fuzzy
+msgid "Use this Image"
+msgstr "Använd denna bild"
+
+#: ../templates/admin_dashboard.php:15
+msgid "Total Previews"
+msgstr ""
+
+#: ../templates/admin_dashboard.php:28
+#, fuzzy
+msgid "Total Downloads"
+msgstr "Antal nerladdningar"
+
+#: ../templates/admin_dashboard.php:40
+msgid "Items Shared"
+msgstr ""
+
+#: ../templates/admin_dashboard.php:52
+msgid "Documents Uploaded"
+msgstr ""
+
+#: ../templates/admin_dashboard.php:65
+#, fuzzy
+msgid "From"
+msgstr "Från"
+
+#: ../templates/admin_dashboard.php:67
+#, fuzzy
+msgid "to"
+msgstr "till"
+
+#: ../templates/admin_dashboard.php:70
+msgid "Events per Day"
+msgstr ""
+
+#: ../templates/admin_dashboard.php:80
+msgid "Top 25 Downloads"
+msgstr ""
+
+#: ../templates/admin_dashboard.php:85
+#, fuzzy
+msgid "Document"
+msgstr "Dokument"
+
+#: ../templates/admin_dashboard.php:86
+#, fuzzy
+msgid "Total"
+msgstr "Totalt"
+
+#: ../templates/admin_dashboard.php:95
+msgid "Top 25 Users with most Downloads"
+msgstr ""
+
+#: ../templates/admin_dashboard.php:110
+#, fuzzy
+msgid "All Events"
+msgstr "Alla evenemang"
+
+#: ../templates/admin_dashboard.php:115 ../templates/admin_dashboard.php:199
+#, fuzzy
+msgid "Description"
+msgstr "Beskrivning"
+
+#: ../templates/admin_dashboard.php:116 ../templates/admin_dashboard.php:200
+#, fuzzy
+msgid "Date"
+msgstr "Datum"
+
+#: ../templates/admin_dashboard.php:117 ../templates/admin_dashboard.php:201
+#, fuzzy
+msgid "Event"
+msgstr "Evenemang"
+
+#: ../templates/admin_dashboard.php:120 ../templates/admin_dashboard.php:204
+#, fuzzy
+msgid "Location"
+msgstr "Plats"
+
+#: ../templates/admin_dashboard.php:121 ../templates/admin_dashboard.php:205
+#, fuzzy
+msgid "Page"
+msgstr "Sida"
+
+#: ../templates/admin_dashboard.php:122 ../templates/admin_dashboard.php:206
+#, fuzzy
+msgid "Extra"
+msgstr "Extra"
+
+#: ../templates/admin_dashboard.php:136
+msgid "Visit Profile"
+msgstr ""
+
+#: ../templates/admin_dashboard.php:194
+msgid "Logged Events"
+msgstr ""
+
+#: ../templates/frontend.php:8 ../templates/gallery.php:8
+msgid "Back to our first folder"
+msgstr "Tillbaka till rotkatalogen"
+
+#: ../templates/frontend.php:24 ../templates/gallery.php:24
+msgid "Search filenames"
+msgstr "Sök filnamn"
+
+#: ../templates/frontend.php:24 ../templates/gallery.php:24
+msgid "and within contents"
+msgstr "och i innehållet"
+
+#: ../templates/frontend.php:27 ../templates/gallery.php:31
+#, fuzzy
+msgid "Options"
+msgstr "Alternativ"
+
+#: ../templates/frontend.php:32 ../templates/frontend.php:33
+msgid "Thumbnails view"
+msgstr ""
+
+#: ../templates/frontend.php:36 ../templates/frontend.php:37
+#, fuzzy
+msgid "List view"
+msgstr "Listvy"
+
+#: ../templates/frontend.php:49 ../templates/gallery.php:45
+msgid "Download all"
+msgstr "Ladda ner alla filer"
+
+#: ../templates/frontend.php:50 ../templates/gallery.php:46
+msgid "Download selected"
+msgstr "Ladda ner markerade filer"
+
+#: ../templates/frontend.php:55 ../templates/gallery.php:51
+#, fuzzy
+msgid "Delete selected"
+msgstr "Radera markerade"
+
+#: ../templates/frontend.php:60
+#, fuzzy
+msgid "Share folder"
+msgstr "Dela mapp"
+
+#: ../templates/frontend.php:64 ../templates/gallery.php:55
+#, fuzzy
+msgid "No options..."
+msgstr "Inget alternativ..."
+
+#: ../templates/frontend.php:71 ../templates/gallery.php:63
+msgid "Refresh"
+msgstr "Ladda om"
+
+#: ../templates/frontend.php:91 ../templates/tinymce_popup.php:676
+msgid "Size"
+msgstr "Storlek"
+
+#: ../templates/frontend.php:97 ../templates/tinymce_popup.php:680
+msgid "Date modified"
+msgstr "Modifierad"
+
+#: ../templates/noaccess.php:6
+#, fuzzy
+msgid "Your account doesn't have the right permissions to use this"
+msgstr "Ditt konto har inte rätt behörigheter att använda det här"
+
+#: ../templates/noaccess.php:6
+#, fuzzy
+msgid "Contact the webmaster if you would like to have access"
+msgstr "Kontakta webbansvarig om du vill ha behörighet"
+
+#: ../templates/search.php:5
+#, fuzzy
+msgid "Search for files"
+msgstr "Sök efter filer"
+
+#: ../templates/search.php:5
+msgid "and content"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:89
+#, fuzzy
+msgid "Insert direct Links"
+msgstr "Infoga direkt länkar"
+
+#: ../templates/tinymce_popup.php:92
+msgid "Embed files"
+msgstr "Bädda in filer"
+
+#: ../templates/tinymce_popup.php:124 ../templates/tinymce_popup.php:126
+#, fuzzy
+msgid "Get raw Shortcode"
+msgstr "Få raw kortkod"
+
+#: ../templates/tinymce_popup.php:124
+#, fuzzy
+msgid "Create Shortcode"
+msgstr "Skapa kortkod"
+
+#: ../templates/tinymce_popup.php:126
+#, fuzzy
+msgid "Raw"
+msgstr "Raw"
+
+#: ../templates/tinymce_popup.php:127 ../templates/tinymce_popup.php:134
+#: ../templates/tinymce_popup.php:136 ../templates/tinymce_popup.php:138
+#, fuzzy
+msgid "Insert Shortcode"
+msgstr "Infoga kortkod"
+
+#: ../templates/tinymce_popup.php:130
+#, fuzzy
+msgid "Insert Links"
+msgstr "Infoga länkar"
+
+#: ../templates/tinymce_popup.php:132
+#, fuzzy
+msgid "Embed Files"
+msgstr "Bädda in filer"
+
+#: ../templates/tinymce_popup.php:149
+msgid "Please note that the embedded files need to be public (with link)"
+msgstr "Observera att de inbäddade filerna måste vara offentliga (med länk)"
+
+#: ../templates/tinymce_popup.php:193
+#, fuzzy
+msgid "Shortcode Settings"
+msgstr "Kortkod inställningar"
+
+#: ../templates/tinymce_popup.php:196 ../templates/tinymce_popup.php:259
+#, fuzzy
+msgid "Folders"
+msgstr "Mappar"
+
+#: ../templates/tinymce_popup.php:197 ../templates/tinymce_popup.php:416
+#, fuzzy
+msgid "Media Files"
+msgstr "Mediafiler"
+
+#: ../templates/tinymce_popup.php:199 ../templates/tinymce_popup.php:664
+msgid "Sorting"
+msgstr "Sortering"
+
+#: ../templates/tinymce_popup.php:201 ../templates/tinymce_popup.php:768
+msgid "Exclusions"
+msgstr "Undantag"
+
+#: ../templates/tinymce_popup.php:202 ../templates/tinymce_popup.php:224
+#: ../templates/tinymce_popup.php:792
+#, fuzzy
+msgid "Upload Box"
+msgstr "Uppladdning låda"
+
+#: ../templates/tinymce_popup.php:204 ../templates/tinymce_popup.php:1043
+#, fuzzy
+msgid "File Manipulation"
+msgstr "Fil Manipulation"
+
+#: ../templates/tinymce_popup.php:205 ../templates/tinymce_popup.php:325
+#: ../templates/tinymce_popup.php:800 ../templates/tinymce_popup.php:1103
+#: ../templates/tinymce_popup.php:1110
+#, fuzzy
+msgid "User Permissions"
+msgstr "Användare behörigheter"
+
+#: ../templates/tinymce_popup.php:216
+#, fuzzy
+msgid "Plugin Mode"
+msgstr "Tillvals läge"
+
+#: ../templates/tinymce_popup.php:217
+#, fuzzy
+msgid "Select how you want to use Use-your-Drive in your post or page"
+msgstr "Välj hur du vill använda Use-your-Drive i dina inlägg och sidor"
+
+#: ../templates/tinymce_popup.php:220
+msgid "File browser"
+msgstr "Filhanterare"
+
+#: ../templates/tinymce_popup.php:229
+#, fuzzy
+msgid "Photo gallery"
+msgstr "Fotogalleri"
+
+#: ../templates/tinymce_popup.php:233
+msgid "Audio player"
+msgstr "Ljudspelare"
+
+#: ../templates/tinymce_popup.php:237
+msgid "Video player"
+msgstr "Videospelare"
+
+#: ../templates/tinymce_popup.php:241
+#, fuzzy
+msgid "Search Box"
+msgstr "Sök låda"
+
+#: ../templates/tinymce_popup.php:248
+msgid ""
+"Don't forget to check the Upload Permissions on the User Permissions tab"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:248
+msgid "By default, only logged-in users can upload files"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:261
+#, fuzzy
+msgid "Select start Folder"
+msgstr "Välj start mapp"
+
+#: ../templates/tinymce_popup.php:262
+#, fuzzy
+msgid ""
+"Select which folder should be used as starting point, or in case the Smart "
+"Client Area is enabled should be used for the Private Folders"
+msgstr ""
+"Välj vilken mapp som ska användas som utgångspunkt, eller om Smart användare "
+"area är aktiverat ska det användas för privata mappar"
+
+#: ../templates/tinymce_popup.php:262
+#, fuzzy
+msgid "Users will not be able to navigate outside this folder"
+msgstr "Användare kan inte navigera utanför den här mappen"
+
+#: ../templates/tinymce_popup.php:313
+#, fuzzy
+msgid "Smart Client Area"
+msgstr "Smart användare area"
+
+#: ../templates/tinymce_popup.php:315
+#, fuzzy
+msgid "Use Private Folders"
+msgstr "Använda privat mapp"
+
+#: ../templates/tinymce_popup.php:323
+#, fuzzy, php-format
+msgid ""
+"The plugin can easily and securily share documents on your %s with your "
+"users/clients"
+msgstr ""
+"Tillval kan enkelt och säkert dela dokument på din %s med dina användare"
+
+#: ../templates/tinymce_popup.php:324
+#, fuzzy
+msgid ""
+"This allows your clients to preview, download and manage their documents in "
+"their own private folder"
+msgstr ""
+"Detta gör det möjligt för dina kunder att förhandsgranska, ladda ner och "
+"hantera sina dokument i sin egen privata mapp"
+
+#: ../templates/tinymce_popup.php:325
+#, fuzzy, php-format
+msgid "Specific permissions can always be set via %s"
+msgstr "Specifika behörigheter kan alltid ställas in via %s"
+
+#: ../templates/tinymce_popup.php:327
+#, fuzzy
+msgid "The Smart Client Area can be useful in some situations, for example"
+msgstr ""
+"Smart användare area kan vara användbart i vissa situationer, till exempel"
+
+#: ../templates/tinymce_popup.php:329
+#, fuzzy
+msgid "You want to share documents with your clients privately"
+msgstr "Du vill dela dokument med dina användare privat"
+
+#: ../templates/tinymce_popup.php:330
+#, fuzzy
+msgid "You want your clients, users or guests upload files to their own folder"
+msgstr ""
+"Du vill att styrelsen, medlemmar eller gäster ska kunna laddar upp filer "
+"till sin egen mapp"
+
+#: ../templates/tinymce_popup.php:331
+#, fuzzy
+msgid ""
+"You want to give your customers a private folder already filled with some "
+"files directly after they register"
+msgstr ""
+"Du vill ge dina användare en privat mapp som redan är fylld med vissa filer "
+"direkt efter att de har registrerat sig"
+
+#: ../templates/tinymce_popup.php:337
+#, fuzzy
+msgid "Mode"
+msgstr "Läge"
+
+#: ../templates/tinymce_popup.php:338
+#, fuzzy
+msgid ""
+"Do you want to link your users manually to their private or should the "
+"plugin handle this automatically for you"
+msgstr ""
+"Vill du länka dina användare manuellt till deras privata eller ska pluggen "
+"hantera det här automatiskt för dig"
+
+#: ../templates/tinymce_popup.php:348
+#, fuzzy, php-format
+msgid "I will link the users manually via %sthis page%s"
+msgstr "Jag kommer länka användaren manuellt via %sdenna sida%s"
+
+#: ../templates/tinymce_popup.php:352
+#, fuzzy
+msgid ""
+"Let the plugin automatically manage the Private Folders for me in the folder "
+"I have selected above"
+msgstr ""
+"Låt tillvalet automatiskt hantera privata mappar för mig i den mapp jag har "
+"valt ovan"
+
+#: ../templates/tinymce_popup.php:356
+#, fuzzy
+msgid "Template Folder"
+msgstr "Tema mapp"
+
+#: ../templates/tinymce_popup.php:363
+#, fuzzy
+msgid ""
+"Newly created Private Folders can be prefilled with files from a template "
+"template"
+msgstr "Nyskapade privata mappar kan förfyllas med filer från en mallmall"
+
+#: ../templates/tinymce_popup.php:363
+#, fuzzy
+msgid ""
+"The content of the template folder selected will be copied to the user folder"
+msgstr "Innehållet i den valda mallmappen kopieras till användarmappen"
+
+#: ../templates/tinymce_popup.php:419 ../templates/tinymce_popup.php:433
+#, fuzzy
+msgid "Provided formats"
+msgstr "Tillåtna format"
+
+#: ../templates/tinymce_popup.php:420 ../templates/tinymce_popup.php:434
+msgid "Select which sort of media files you will provide"
+msgstr "Välj vilken typ av mediefiler som du kommer att tillhandhålla"
+
+#: ../templates/tinymce_popup.php:420 ../templates/tinymce_popup.php:434
+msgid ""
+"You may provide the same file with different extensions to increase cross-"
+"browser support"
+msgstr ""
+"Du kan tillhandahålla samma fil med olika filändelser för att ta höjd för "
+"olika webbläsare"
+
+#: ../templates/tinymce_popup.php:420 ../templates/tinymce_popup.php:434
+#, fuzzy
+msgid ""
+"Do always supply a mp3 (audio) or m4v/mp4 (video)file to support all browsers"
+msgstr ""
+"Stödjer alltid mp3 (ljud) eller m4v/mp4 (video) filer i alla webbläsare"
+
+#: ../templates/tinymce_popup.php:446
+#, fuzzy
+msgid "Auto Play"
+msgstr "Spela upp automatiskt"
+
+#: ../templates/tinymce_popup.php:453
+#, fuzzy
+msgid "Show Playlist on start"
+msgstr "Visa spellista på start"
+
+#: ../templates/tinymce_popup.php:461
+#, fuzzy
+msgid "Display covers"
+msgstr "Visa omslag"
+
+#: ../templates/tinymce_popup.php:467
+#, fuzzy
+msgid "You can show covers of your audio files in the Audio Player"
+msgstr "Du kan visa omslag på dina ljud filer i Ljudspelaren"
+
+#: ../templates/tinymce_popup.php:467
+#, fuzzy
+msgid ""
+"Add a *.png or *.jpg file with the same name as your audio file in the same "
+"folder as your audio files. You can also add a cover with the name of the "
+"folder to show the cover for all audio files in the album"
+msgstr ""
+"Lägg till *.png eller *.jpg fil med samma namn som din ljud fil i samma mapp "
+"som din ljudfil. Du kan också lägga till ett omslag med namnet på den mapp "
+"som visar omslaget för alla ljud filer i albumet"
+
+#: ../templates/tinymce_popup.php:467
+#, fuzzy
+msgid "If no cover is available, a placeholder will be used"
+msgstr "Om inget omslag är tillgängligt, kommer en platshållare användas"
+
+#: ../templates/tinymce_popup.php:471
+#, fuzzy
+msgid "Download Button"
+msgstr "Ladda ner knapp"
+
+#: ../templates/tinymce_popup.php:478
+#, fuzzy
+msgid "Purchase Button"
+msgstr "Köp knapp"
+
+#: ../templates/tinymce_popup.php:487
+#, fuzzy
+msgid "Link to webshop"
+msgstr "Länk till webbutik"
+
+#: ../templates/tinymce_popup.php:499
+#, fuzzy
+msgid "Plugin container width"
+msgstr "Innehållsbredd för tillval"
+
+#: ../templates/tinymce_popup.php:500
+msgid "Set max width for the Use-your-Drive container"
+msgstr "Ställ in max bredd för inramningen av Use-your-Drive"
+
+#: ../templates/tinymce_popup.php:500 ../templates/tinymce_popup.php:506
+msgid "You can use pixels or percentages, eg '360px', '480px', '70%'"
+msgstr "Du kan använda pixlar eller procent, t.ex. '360px \", '480px ', '70%'"
+
+#: ../templates/tinymce_popup.php:500 ../templates/tinymce_popup.php:506
+#: ../templates/tinymce_popup.php:627
+msgid "Leave empty for default value"
+msgstr "Lämna tomt för standardvärde"
+
+#: ../templates/tinymce_popup.php:505
+#, fuzzy
+msgid "Plugin container height"
+msgstr "Höjd på behållare för tillval"
+
+#: ../templates/tinymce_popup.php:506
+#, fuzzy
+msgid "Set max height for the Use-your-Drive container"
+msgstr "Ange maxhöjd för behållaren  Use-your-Drive"
+
+#: ../templates/tinymce_popup.php:510
+#, fuzzy
+msgid "Custom CSS Class"
+msgstr "Anpassad CSS-klass"
+
+#: ../templates/tinymce_popup.php:511
+msgid ""
+"Add your own custom classes to the plugin container. Multiple classes can be "
+"added seperated by a whitespace"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:515
+#, fuzzy
+msgid "File Browser view"
+msgstr "Visa fil vy"
+
+#: ../templates/tinymce_popup.php:521
+#, fuzzy
+msgid "Grid/Thumbnail View"
+msgstr "Rutnät/Miniatyr vy"
+
+#: ../templates/tinymce_popup.php:525
+#, fuzzy
+msgid "List View"
+msgstr "Listvy"
+
+#: ../templates/tinymce_popup.php:530
+#, fuzzy
+msgid "Show header"
+msgstr "Visa sidhuvud"
+
+#: ../templates/tinymce_popup.php:538
+#, fuzzy
+msgid "Show refresh button"
+msgstr "Visa uppdateringsknapp"
+
+#: ../templates/tinymce_popup.php:544
+#, fuzzy
+msgid ""
+"Add a refresh button in the header so users can refresh the file list and "
+"pull changes"
+msgstr ""
+"Lägg till en uppdateringsknapp i rubriken så att användare kan uppdatera fil "
+"listan och dra ändringar"
+
+#: ../templates/tinymce_popup.php:546
+#, fuzzy
+msgid "Breadcrumb text for top folder"
+msgstr "Breadcrumb text för topp mappen"
+
+#: ../templates/tinymce_popup.php:552
+#, fuzzy
+msgid "Show columnnames"
+msgstr "Visa kolumnnamnen"
+
+#: ../templates/tinymce_popup.php:558
+#, fuzzy
+msgid ""
+"Display the columnnames of the date and filesize in the List View of the "
+"File Browser"
+msgstr "Visa kolumnnamnen av datum och filstorlek i list visning av filläsaren"
+
+#: ../templates/tinymce_popup.php:562
+#, fuzzy
+msgid "Show file size"
+msgstr "Visa filstorlek"
+
+#: ../templates/tinymce_popup.php:568
+#, fuzzy
+msgid "Display or Hide column with file sizes in List view"
+msgstr "Visa eller dölj kolumn med filstorlek i list visning"
+
+#: ../templates/tinymce_popup.php:572
+#, fuzzy
+msgid "Show last modified date"
+msgstr "Visa senaste modifierad data"
+
+#: ../templates/tinymce_popup.php:578
+#, fuzzy
+msgid "Display or Hide column with last modified date in List view"
+msgstr "Visa eller dölj kolumn med senast modifierad data i list visningen"
+
+#: ../templates/tinymce_popup.php:584
+#, fuzzy
+msgid "Show file extension"
+msgstr "Visa fil tilläggen"
+
+#: ../templates/tinymce_popup.php:590
+#, fuzzy
+msgid "Display or Hide the file extensions"
+msgstr "Visa eller dölj fil tilläggen"
+
+#: ../templates/tinymce_popup.php:592
+#, fuzzy
+msgid "Show files"
+msgstr "Visa filer"
+
+#: ../templates/tinymce_popup.php:598
+#, fuzzy
+msgid "Display or Hide files"
+msgstr "Visa eller dölj filer"
+
+#: ../templates/tinymce_popup.php:601
+#, fuzzy
+msgid "Show folders"
+msgstr "Visa mappar"
+
+#: ../templates/tinymce_popup.php:607
+#, fuzzy
+msgid "Display or Hide child folders"
+msgstr "Visa eller dölj barnmappar"
+
+#: ../templates/tinymce_popup.php:610
+#, fuzzy
+msgid "Amount of files"
+msgstr "Antal filer"
+
+#: ../templates/tinymce_popup.php:612
+#, fuzzy
+msgid "Number of files to show"
+msgstr "Antal filer att visa"
+
+#: ../templates/tinymce_popup.php:612
+#, fuzzy
+msgid "Can be used for instance to only show the last 5 updated documents"
+msgstr ""
+"Kan exempelvis användas för att bara visa de senaste 5 uppdaterade dokumenten"
+
+#: ../templates/tinymce_popup.php:612
+#, fuzzy
+msgid "Leave this field empty or set it to -1 for no limit"
+msgstr "Lämna det här fältet tomt eller ställ det till -1 utan gränser"
+
+#: ../templates/tinymce_popup.php:618
+#, fuzzy
+msgid "Show file names"
+msgstr "Visa filnamn"
+
+#: ../templates/tinymce_popup.php:624
+msgid "Display or Hide the file names in the gallery"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:626
+#, fuzzy
+msgid "Gallery row height"
+msgstr "Radhöjd"
+
+#: ../templates/tinymce_popup.php:627
+msgid "The ideal height you want your grid rows to be"
+msgstr "Den idealiska höjden på rader i rutnätet"
+
+#: ../templates/tinymce_popup.php:627
+msgid ""
+"It won't set it exactly to this as plugin adjusts the row height to get the "
+"correct width"
+msgstr ""
+"Exakt höjd kan inte skapas då denna plugin justerar radhöjden att få rätt "
+"bredd"
+
+#: ../templates/tinymce_popup.php:630
+#, fuzzy
+msgid "Number of images lazy loaded"
+msgstr "Antal bilder i lazy loaded"
+
+#: ../templates/tinymce_popup.php:631
+msgid "Number of images to be loaded each time"
+msgstr "Antal bilder som ska laddas varje gång"
+
+#: ../templates/tinymce_popup.php:631
+msgid "Set to 0 to load all images at once"
+msgstr "Sätt till 0 för att ladda alla bilder på en gång"
+
+#: ../templates/tinymce_popup.php:635
+#, fuzzy
+msgid "Show Folder Thumbnails in Gallery"
+msgstr "Visa miniatyr mappar i galleriet"
+
+#: ../templates/tinymce_popup.php:641
+#, fuzzy
+msgid "Do you want to show thumbnails for the Folders in the gallery mode?"
+msgstr "Vill du visa miniatyrbilder för mappar i galleriläget?"
+
+#: ../templates/tinymce_popup.php:641
+#, fuzzy
+msgid ""
+"Please note, when enabled the loading performance can drop proportional to "
+"the number of folders present in the Gallery"
+msgstr ""
+"Observera att när laddningsfunktionen är aktiverad kan den falla "
+"proportionellt med antalet mappar som finns i galleriet"
+
+#: ../templates/tinymce_popup.php:644
+#, fuzzy
+msgid "Slideshow"
+msgstr "Bildspel"
+
+#: ../templates/tinymce_popup.php:652
+#, fuzzy
+msgid "Enable or disable the Slideshow mode in the Lightbox"
+msgstr "Aktivera eller inaktivera bildspelsläget i Lightbox"
+
+#: ../templates/tinymce_popup.php:653
+#, fuzzy
+msgid "Delay between cycles (ms)"
+msgstr "Fördröjning mellan cykler (ms)"
+
+#: ../templates/tinymce_popup.php:654
+#, fuzzy
+msgid "Delay between cycles in milliseconds, the default is 5000"
+msgstr "Fördröjning mellan cykler i millisekunder, standardvärdet är 5000"
+
+#: ../templates/tinymce_popup.php:666
+#, fuzzy
+msgid "Sort field"
+msgstr "Sortera fält"
+
+#: ../templates/tinymce_popup.php:684
+msgid "Shuffle/Random"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:688
+#, fuzzy
+msgid "Sort order"
+msgstr "Sorteringsordning"
+
+#: ../templates/tinymce_popup.php:695
+msgid "Ascending"
+msgstr "Stigande"
+
+#: ../templates/tinymce_popup.php:699
+msgid "Descending"
+msgstr "Fallande"
+
+#: ../templates/tinymce_popup.php:709
+msgid "Allow Preview"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:718
+#, fuzzy
+msgid "Inline Preview"
+msgstr "Inline förhandsvisning"
+
+#: ../templates/tinymce_popup.php:724
+#, fuzzy
+msgid "Open preview inside a lightbox or open in a new window"
+msgstr "Öppna förhandsgranskning i en lightbox eller öppna i ett nytt fönster"
+
+#: ../templates/tinymce_popup.php:727
+#, fuzzy
+msgid "Enable Google pop out Button"
+msgstr "Aktivera Google pop out knappen"
+
+#: ../templates/tinymce_popup.php:733
+#, fuzzy
+msgid ""
+"Disables the Google Pop Out button which is visible in the inline preview "
+"for a couple of file formats"
+msgstr ""
+"Inaktiverar knappen Google Pop Out som visas i inline-förhandsgranskningen "
+"för ett par filformat"
+
+#: ../templates/tinymce_popup.php:738
+#, fuzzy
+msgid "Allow Searching"
+msgstr "Tillåt sökning"
+
+#: ../templates/tinymce_popup.php:744
+#, fuzzy
+msgid ""
+"The search function allows your users to find files by filename and content "
+"(when files are indexed)"
+msgstr ""
+"Sökfunktionen låter dina användare hitta filer efter filnamn och innehåll "
+"(när filer indexeras)"
+
+#: ../templates/tinymce_popup.php:748
+#, fuzzy
+msgid "Perform Full-Text search"
+msgstr "Utför fullständig textsökning"
+
+#: ../templates/tinymce_popup.php:756
+#, fuzzy
+msgid "Allow ZIP Download"
+msgstr "Tillåt nerladdning av zip-filer"
+
+#: ../templates/tinymce_popup.php:762
+#, fuzzy
+msgid "Allow users to download multiple files at once"
+msgstr "Tillåt användare att ladda ner flera filer samtidigt"
+
+#: ../templates/tinymce_popup.php:770
+#, fuzzy
+msgid "Only show files with those extensions"
+msgstr "Visa bara filer med de här tilläggen"
+
+#: ../templates/tinymce_popup.php:771 ../templates/tinymce_popup.php:779
+#: ../templates/tinymce_popup.php:822
+msgid "Add extensions separated with | e.g. (jpg|png|gif)"
+msgstr "Lägg till filändelser separerade med | e.g. (jpg|png|gif)"
+
+#: ../templates/tinymce_popup.php:771 ../templates/tinymce_popup.php:779
+msgid "Leave empty to show all files"
+msgstr "Lämna tomt för att visa alla filer"
+
+#: ../templates/tinymce_popup.php:774
+#, fuzzy
+msgid "Only show the following files or folders"
+msgstr "Visa bara följande filer eller mappar"
+
+#: ../templates/tinymce_popup.php:775 ../templates/tinymce_popup.php:783
+#, fuzzy
+msgid ""
+"Add files or folders by name or Google Drive ID separated with | e.g. (file1."
+"jpg|long folder name)"
+msgstr ""
+"Lägg till filer eller mappar med namn eller Google Drive ID separerat med | "
+"ex. (fil1.jpg | långt filnamn)"
+
+#: ../templates/tinymce_popup.php:778
+#, fuzzy
+msgid "Hide files with those extensions"
+msgstr "Dölj filer med de här tilläggen"
+
+#: ../templates/tinymce_popup.php:782
+#, fuzzy
+msgid "Hide the following files or folders"
+msgstr "Dölj följande filer och mappar"
+
+#: ../templates/tinymce_popup.php:794
+#, fuzzy
+msgid "Allow Upload"
+msgstr "Tillåt uppladdning"
+
+#: ../templates/tinymce_popup.php:800
+#, fuzzy
+msgid "Allow users to upload files"
+msgstr "Tillåt användare att ladda upp filer"
+
+#: ../templates/tinymce_popup.php:800
+#, fuzzy, php-format
+msgid "You can select which Users Roles should be able to upload via %s"
+msgstr "Du kan välja vilka användarroller som ska kunna ladda upp via %s"
+
+#: ../templates/tinymce_popup.php:804
+msgid "Allow folder upload"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:810
+msgid "Adds an Add Folder button to the upload form if the browser supports it"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:813
+msgid "Overwrite existing files"
+msgstr "Overwrite existing files"
+
+#: ../templates/tinymce_popup.php:819
+#, fuzzy
+msgid "Overwrite already existing files or auto-rename the new uploaded files"
+msgstr ""
+"Skriv över redan befintliga filer eller byt namn automatiskt på de nya "
+"uppladdade filerna"
+
+#: ../templates/tinymce_popup.php:821
+#, fuzzy
+msgid "Restrict file extensions"
+msgstr "Begränsa filtillägg"
+
+#: ../templates/tinymce_popup.php:822 ../templates/tinymce_popup.php:826
+msgid "Leave empty for no restricion"
+msgstr "Lämna tomt för utan begränsningar"
+
+#: ../templates/tinymce_popup.php:825
+msgid "Max uploads per session"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:826
+msgid "Number of maximum uploads per upload session"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:829
+#, fuzzy
+msgid "Maximum file size"
+msgstr "Maximal storlek på fil"
+
+#: ../templates/tinymce_popup.php:841
+msgid "Max filesize for uploading in bytes"
+msgstr "Max filstorlek för uppladdning i byte"
+
+#: ../templates/tinymce_popup.php:841
+#, fuzzy
+msgid "Leave empty for server maximum "
+msgstr "Lämna tomt och använd serverns maxvärde"
+
+#: ../templates/tinymce_popup.php:844
+#, fuzzy
+msgid "Convert to Google Docs when possible"
+msgstr "Konvertera till Google Dokument när det är möjligt"
+
+#: ../templates/tinymce_popup.php:852
+#, fuzzy
+msgid "Convert following mimetypes"
+msgstr "Konvertera följande mimetyper"
+
+#: ../templates/tinymce_popup.php:1014
+#, fuzzy
+msgid "Download email notification"
+msgstr "Ladda ner e-post noteringar"
+
+#: ../templates/tinymce_popup.php:1021
+#, fuzzy
+msgid "Upload email notification"
+msgstr "Ladda upp e-post noteringar"
+
+#: ../templates/tinymce_popup.php:1027
+#, fuzzy
+msgid "Delete email notification"
+msgstr "Radera e-post noteringar"
+
+#: ../templates/tinymce_popup.php:1034
+#, fuzzy
+msgid "Receiver"
+msgstr "Mottagare"
+
+#: ../templates/tinymce_popup.php:1035
+msgid ""
+"On which email address would you like to receive the notification? You can "
+"use <code>%admin_email%</code>, <code>%user_email%</code> (user that "
+"executes the action) and <code>%linked_user_email%</code> (Manually linked "
+"Private Folders)"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1046
+#, fuzzy
+msgid "Allow Sharing"
+msgstr "Tillåt delning"
+
+#: ../templates/tinymce_popup.php:1052
+#, fuzzy
+msgid "Allow users to generate permanent shared links to the files"
+msgstr "Tillåt användare att skapa permanenta delade länkar till filerna"
+
+#: ../templates/tinymce_popup.php:1054
+#, fuzzy
+msgid "Edit descriptions"
+msgstr "Ändra beskrivningen"
+
+#: ../templates/tinymce_popup.php:1061
+#, fuzzy
+msgid "Rename files and folders"
+msgstr "Döpa om filer och mappar"
+
+#: ../templates/tinymce_popup.php:1068
+#, fuzzy
+msgid "Move files and folders"
+msgstr "Flytta filer och mappar"
+
+#: ../templates/tinymce_popup.php:1075
+#, fuzzy
+msgid "Delete files and folders"
+msgstr "Radera filer och mappar"
+
+#: ../templates/tinymce_popup.php:1083
+#, fuzzy
+msgid "Delete to trash"
+msgstr "Flytta till papperskorg"
+
+#: ../templates/tinymce_popup.php:1092
+#, fuzzy
+msgid "Create new folders"
+msgstr "Skapa ny mapp"
+
+#: ../templates/tinymce_popup.php:1103
+#, fuzzy, php-format
+msgid "Select via %s which User Roles are able to perform the actions"
+msgstr "Välj via %s vilken användarroll som kan utföra åtgärderna"
+
+#: ../templates/tinymce_popup.php:1113
+#, fuzzy
+msgid "Who can see the plugin"
+msgstr "Vem kan se tillvalet"
+
+#: ../templates/tinymce_popup.php:1119
+#, fuzzy
+msgid "Who can download"
+msgstr "Vem kan ladda hem"
+
+#: ../templates/tinymce_popup.php:1128
+#, fuzzy
+msgid "Who can upload"
+msgstr "Vem kan ladda upp"
+
+#: ../templates/tinymce_popup.php:1136
+msgid "Who can share content"
+msgstr ""
+
+#: ../templates/tinymce_popup.php:1144
+#, fuzzy
+msgid "Who can edit descriptions"
+msgstr "Vem kan ändra beskrivningen"
+
+#: ../templates/tinymce_popup.php:1152
+#, fuzzy
+msgid "Who can rename files"
+msgstr "Vem kan döpa om filer"
+
+#: ../templates/tinymce_popup.php:1160
+#, fuzzy
+msgid "Who can rename folders"
+msgstr "Vem kan döpa om mappar"
+
+#: ../templates/tinymce_popup.php:1168
+#, fuzzy
+msgid "Who can move files"
+msgstr "Vem kan flytta filer"
+
+#: ../templates/tinymce_popup.php:1176
+#, fuzzy
+msgid "Who can move folders"
+msgstr "Vem kan flytta mappar"
+
+#: ../templates/tinymce_popup.php:1184
+#, fuzzy
+msgid "Who can delete files"
+msgstr "Vem kan radera filer"
+
+#: ../templates/tinymce_popup.php:1192
+#, fuzzy
+msgid "Who can delete folders"
+msgstr "Vem kan radera mappar"
+
+#: ../templates/tinymce_popup.php:1200
+#, fuzzy
+msgid "Who can create new folders"
+msgstr "Vem kan skapa en ny mapp"
+
+#: ../templates/uploadform.php:11
+#, fuzzy
+msgid "Drag your files here"
+msgstr "Dra filer hit för att ladda upp"
+
+#: ../templates/uploadform.php:24
+#, fuzzy
+msgid "... or find documents on your device"
+msgstr "...eller hitta dokument på din enhet"
+
+#: ../templates/uploadform.php:26
+msgid "Add files"
+msgstr "Lägg till fil"
+
+#: ../templates/uploadform.php:31
+#, fuzzy
+msgid "Upload folder"
+msgstr "Ladda upp mapp"
+
+#: ../templates/uploadform.php:56
+#, fuzzy
+msgid "Max file size: "
+msgstr "Max filstorlek: "
+
+#: ../templates/uploadform.php:59
+#, fuzzy
+msgid "Allowed formats: "
+msgstr "Tillåtna format: "
+
+#: ../use-your-drive.php:508
+#, fuzzy
+msgid "Download latest package"
+msgstr "Ladda hem senaste paketer"
+
+#: ../use-your-drive.php:508
+#, fuzzy
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: ../use-your-drive.php:508
+#, fuzzy
+msgid "Support"
+msgstr "Support"
+
+#: ../use-your-drive.php:573
+#, fuzzy
+msgid "Hang on. Waiting for the files..."
+msgstr "Håll ut. Väntar på filerna..."
+
+#: ../use-your-drive.php:574
+#, fuzzy
+msgid "Processing..."
+msgstr "Bearbetar..."
+
+#: ../use-your-drive.php:575
+msgid "Success"
+msgstr "Gott resultat"
+
+#: ../use-your-drive.php:576 ../use-your-drive.php:583
+msgid "Error"
+msgstr "Fel"
+
+#: ../use-your-drive.php:577
+msgid "Waiting"
+msgstr "I kö"
+
+#: ../use-your-drive.php:579
+#, fuzzy
+msgid "Uploading..."
+msgstr "Laddar upp..."
+
+#: ../use-your-drive.php:580
+#, fuzzy
+msgid "Uploading to Server"
+msgstr "Ladda upp till servern"
+
+#: ../use-your-drive.php:581
+#, fuzzy
+msgid "Uploading to Cloud"
+msgstr "Ladda upp till molnet"
+
+#: ../use-your-drive.php:582
+#, fuzzy
+msgid "Converting"
+msgstr "Konverterar"
+
+#: ../use-your-drive.php:584 ../use-your-drive.php:620
+msgid "Close"
+msgstr "Stäng"
+
+#: ../use-your-drive.php:586
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: ../use-your-drive.php:588
+#, fuzzy
+msgid "Save"
+msgstr "Spara"
+
+#: ../use-your-drive.php:589
+msgid "Create zip file"
+msgstr "Skapa zip-fil"
+
+#: ../use-your-drive.php:590
+#, fuzzy
+msgid "Copy to clipboard"
+msgstr "Kopiera till utklipp"
+
+#: ../use-your-drive.php:591
+msgid "Do you really want to delete:"
+msgstr "Vill du verkligen radera:"
+
+#: ../use-your-drive.php:592
+#, fuzzy
+msgid "Do you really want to delete these files?"
+msgstr "Är du säker på att du vill radera dessa filer?"
+
+#: ../use-your-drive.php:593
+#, fuzzy
+msgid ""
+"That doesn't work. Are there any illegal characters (<>:\"/\\|?*) in the "
+"filename?"
+msgstr ""
+"Det där fungerar inte. Finns det några ogiltiga tecken (<>:\"/\\|?*) i "
+"filnamnet?"
+
+#: ../use-your-drive.php:595
+msgid "Rename to:"
+msgstr "Byt namn till:"
+
+#: ../use-your-drive.php:596
+msgid "Oops! This shouldn't happen... Try again!"
+msgstr "Rackarns! Det här borde inte hända ... Försök igen!"
+
+#: ../use-your-drive.php:598
+msgid "New folder"
+msgstr "Ny mapp"
+
+#: ../use-your-drive.php:599
+msgid "No files found or selected"
+msgstr "Inga filer hittade eller markerade"
+
+#: ../use-your-drive.php:600
+msgid "Creating zip file"
+msgstr "Skapa zip-fil"
+
+#: ../use-your-drive.php:601
+msgid "Share file"
+msgstr "Dela fil"
+
+#: ../use-your-drive.php:602
+msgid "Creating shared link..."
+msgstr "Skapa delad länk ..."
+
+#: ../use-your-drive.php:603
+msgid "Previous"
+msgstr "Nästa"
+
+#: ../use-your-drive.php:604
+msgid "Next"
+msgstr "Förgående"
+
+#: ../use-your-drive.php:605
+msgid "This content failed to load"
+msgstr "Innehållet kunde inte laddas in"
+
+#: ../use-your-drive.php:606
+msgid "This image failed to load"
+msgstr "Bilden kunde inte laddas"
+
+#: ../use-your-drive.php:607
+msgid "Start slideshow"
+msgstr "Starta bildspel"
+
+#: ../use-your-drive.php:608
+msgid "Stop slideshow"
+msgstr "Stoppa bildspel"
+
+#: ../use-your-drive.php:609
+#, fuzzy
+msgid "Not yet linked to a folder"
+msgstr "Inte ännu länkad till någon mapp"
+
+#: ../use-your-drive.php:611
+msgid "File type not allowed"
+msgstr "Filtypen är inte tillåten"
+
+#: ../use-your-drive.php:612
+msgid "File is too large"
+msgstr "Filen är för stor"
+
+#: ../use-your-drive.php:614
+#, fuzzy
+msgid "Still Waiting?"
+msgstr "Väntar du fortfarande?"
+
+#: ../use-your-drive.php:614
+#, fuzzy
+msgid ""
+"If the document doesn't open, you are probably trying to access a protected "
+"file which requires you to be logged in on Google."
+msgstr ""
+"Om dokumentet inte öppnas, försöker du förmodligen öppna en skyddad fil som "
+"kräver att du är inloggad på Google."
+
+#: ../use-your-drive.php:614
+#, fuzzy
+msgid "Try to open the file in a new window."
+msgstr "Försök öppna filen i ett nytt fönster."
+
+#: ../use-your-drive.php:621
+#, fuzzy
+msgid "Details"
+msgstr "Detaljer"
+
+#: ../use-your-drive.php:783
+#, fuzzy
+msgid "Please browse to the page to see this content"
+msgstr "Vänligen gå till denna sida för att se innehållet"
+
+#: ../use-your-drive.php:811
+msgid ""
+"ACTION REQUIRED: WP Cloud Plugin lost authorization to Google Drive account"
+msgstr ""
+
+#: ../use-your-drive.php:840
+#, fuzzy
+msgid "Enjoying Use-your-Drive?"
+msgstr "Är Use-your-Drive bra?"
+
+#: ../use-your-drive.php:842
+#, fuzzy
+msgid "Not really"
+msgstr "Inte riktigt"
+
+#: ../use-your-drive.php:843
+#, fuzzy
+msgid "Yes!"
+msgstr "Ja!"
+
+#: ../use-your-drive.php:848
+#, fuzzy
+msgid "Great! How about a review, then?"
+msgstr "Bra! Vad sägs om ett nytt omdöme då?"
+
+#: ../use-your-drive.php:850 ../use-your-drive.php:858
+#, fuzzy
+msgid "No, thanks"
+msgstr "Nej tack"
+
+#: ../use-your-drive.php:851 ../use-your-drive.php:859
+#, fuzzy
+msgid "Ok, sure!"
+msgstr "Ok, säkert!"
+
+#: ../use-your-drive.php:856
+#, fuzzy
+msgid "Would you mind giving us some feedback?"
+msgstr "Skulle du vilja ge oss lite feedback!"
+
+#: ../use-your-drive.php:1281
+msgid "Once every 20 minutes"
+msgstr ""
+
+#~ msgid "Update Required"
+#~ msgstr "Uppdatering krävs"
+
+#~ msgid ""
+#~ "To play the media you will need to either update your browser to a recent "
+#~ "version or update your"
+#~ msgstr ""
+#~ "För att spela upp media måste du antingen uppdatera din webbläsare till "
+#~ "en nyare version eller uppdatera din"
+
+#~ msgid "Visit the Use-your-Drive website"
+#~ msgstr "Besök Use-your-Drive:s webbsida"
+
+#~ msgid "for documentation and installation details"
+#~ msgstr "för dokumentation och installationshjälp"
+
+#~ msgid ""
+#~ "The plugin isn't yet authorized to use your Google Drive! Please (re)-"
+#~ "authorize the plugin"
+#~ msgstr ""
+#~ "Denna plugin är ännu inte auktoriserad att använda Google Drive! Vänligen "
+#~ "(åter)-auktorisera."
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "Ett okänt fel inträffade"
+
+#~ msgid "Couldn't connect to Google API: "
+#~ msgstr "Kunde inte ansluta till Google API: "
+
+#~ msgid "Could not start authorization: "
+#~ msgstr "Kunde inte inleda auktorisation: "
+
+#~ msgid "You are not authorized to delete files from this directory"
+#~ msgstr "Du har inte behörighet att ta bort filer från den här katalogen"
+
+#~ msgid "You are not authorized to delete this file or folder"
+#~ msgstr "Du har inte behörighet att ta bort filen eller mappen"
+
+#~ msgid "File downloaded"
+#~ msgstr "Filen nedladdad"
+
+#~ msgid "Can't receive filelist"
+#~ msgstr "Kan inte ta emot listan med filer"
+
+#~ msgid ""
+#~ "By default guests (not logged in users) will also get their own folder"
+#~ msgstr ""
+#~ "Som standard kommer gäster (ej inloggade användare) också att få en egen "
+#~ "mapp"
+
+#~ msgid ""
+#~ "The mediaplayer will decided, based on the provided formats, if the user "
+#~ "will have a HTML5 player or a Flash Player"
+#~ msgstr ""
+#~ "Mediaspelaren väljer utifrån filformatet om användaren kommer att köra en "
+#~ "HTML5-spelare eller en Flash Player"
+
+#~ msgid "Root breadcrumb title"
+#~ msgstr "Rotnamnet för sökväg (breadcrumb)"
+
+#~ msgid "Search only on filename"
+#~ msgstr "Sök bara på filnamnet"
+
+#~ msgid "Search on filename and contents"
+#~ msgstr "Sök på filnamn och innehåll"
+
+#~ msgid "Force a 'Save as' Dialog on downloading file"
+#~ msgstr "Visa alltid \"Spara som\"-dialogrutan vid nedladdning av fil"
+
+#~ msgid "Include upload form"
+#~ msgstr "Inkludera uppladdningsformulär"
+
+#~ msgid "Limit upload by extension"
+#~ msgstr "Begränsa uppladdning utrifrån filändelse"
+
+#~ msgid "How to calculate?"
+#~ msgstr "Hur man beräknar?"
+
+#~ msgid ""
+#~ "Would you like to receive a notification email when someone downloads a "
+#~ "file?"
+#~ msgstr "Vill du få ett e-postmeddelande när någon laddar ner en fil?"
+
+#~ msgid ""
+#~ "Would you like to receive a notification email when someone uploads a "
+#~ "file?"
+#~ msgstr "Vill du få ett e-postmeddelande när någon laddar upp en fil?"
+
+#~ msgid "Default value is:"
+#~ msgstr "Standardvärde är:"
+
+#~ msgid ""
+#~ "Use-your-Drive uses Wordpress Roles to determine how an user can use the "
+#~ "plugin"
+#~ msgstr ""
+#~ "Use-your-Drive använder Wordpress roller för att avgöra hur en användare "
+#~ "kan använda denn plugin"
+
+#~ msgid "Embed"
+#~ msgstr "Bädda in"
+
+#~ msgid "Notify email templates"
+#~ msgstr "Templates för E-postmeddelande"
+
+#~ msgid ""
+#~ "If you created your own Google Drive App, please enter your settings below"
+#~ msgstr ""
+#~ "Om du har skapat din egen Google Drive App ange dina inställningar nedan"
+
+#~ msgid "How do I create a Google DriveApp?"
+#~ msgstr "Hur skapar jag ett Google Drive App?"
+
+#~ msgid "You can use"
+#~ msgstr "Du kan använda"
+
+#~ msgid ""
+#~ "To make things easier for you, we added a <u>Shortcode button</u> in the "
+#~ "MCE editor"
+#~ msgstr ""
+#~ "För att göra det lättare för dig har vi lagt en <u> Shortcode-knapp </ u> "
+#~ "i MCE editorn"
+
+#~ msgid "Overview of your system settings"
+#~ msgstr "Översikt systeminställningar"
+
+#~ msgid "Requested item isn't allowed"
+#~ msgstr "Begärt objekt är inte tillåtet"
+
+#~ msgid "Couldn't create zip file"
+#~ msgstr "Det gick inte att skapa zip-fil"
+
+#~ msgid "Load more..."
+#~ msgstr "Ladda mer ..."
+
+#, fuzzy
+#~ msgid "Select Use-your-Drive options"
+#~ msgstr "Visa Use-your-Drive"
+
+#~ msgid "Start uploading automatically (no start/cancel buttons)"
+#~ msgstr "Börja ladda upp automatiskt (inga Start / Avbryt-knappar)"
+
+#~ msgid "Start upload"
+#~ msgstr "Starta uppladdning"
+
+#~ msgid "Cancel upload"
+#~ msgstr "Avbryt uppladdning"
+
+#~ msgid "Max. "
+#~ msgstr "Max. "
+
+#~ msgid "Switch between grid and list"
+#~ msgstr "Växla mellan rutnät och lista"
+
+#~ msgid "Show folders breadcrumb"
+#~ msgstr "Visa sökväg (breadcrumb) till mappar"
+
+#~ msgid "Show download button (zip-archive)"
+#~ msgstr "Visa knappen Ladda ner (zip-arkiv)"
+
+#~ msgid "Do always supply a mp3 file to support all browsers"
+#~ msgstr "Tillhandahåll alltid en mp3-fil så att alla webbläsare stödjs."
+
+#~ msgid "Gallery options"
+#~ msgstr "Gallerialternativ"
+
+#~ msgid "Don't stretch last row to fit grid width"
+#~ msgstr "Sträck inte ut sista raden för att passa rutnätets bredd"
+
+#~ msgid "Include files or folders (only show these items)"
+#~ msgstr "Inkludera filer eller mappar (endast visa dessa objekt)"
+
+#~ msgid "Exclude files or folders"
+#~ msgstr "Undanta filer eller mappar"
+
+#~ msgid "Edit files &amp; folders"
+#~ msgstr "Redigera filer &amp; mappar"
+
+#~ msgid "Files &amp; folders can be renamed"
+#~ msgstr "Filer &amp; mappar kan döpas om"
+
+#~ msgid "Files &amp; folders can be deleted"
+#~ msgstr "Filer &amp; mappar kan raderas"
+
+#~ msgid "User management"
+#~ msgstr "Användarhantering"
+
+#~ msgid "Add folders"
+#~ msgstr "Lägg till mappar"
+
+#~ msgid "Note"
+#~ msgstr "Notera"
+
+#, fuzzy
+#~ msgid "Insert Flickr Photos"
+#~ msgstr "Insert links"
+
+#, fuzzy
+#~ msgid "Load more photos"
+#~ msgstr "Upload form options"
+
+#~ msgid "Default: only title"
+#~ msgstr "Default: only title"
+
+#~ msgid "No valid Google Drive token found... Please Authorize!"
+#~ msgstr "No valid Google Drive token found... Please Authorize!"
+
+#~ msgid "Could not write to tmp dir. Make sure it exists and is writable"
+#~ msgstr "Could not write to tmp dir. Make sure it exists and is writable"
+
+#~ msgid "Crop images for a squared grid"
+#~ msgstr "Crop images for a squared grid"
+
+#~ msgid "Image gallery thumbnails"
+#~ msgstr "Image gallery thumbnails"
+
+#~ msgid ""
+#~ "This field is set when you authorize your Google DriveApp. Only change "
+#~ "this if you know what your doing."
+#~ msgstr ""
+#~ "This field is set when you authorize your Google DriveApp. Only change "
+#~ "this if you know what your doing."
+
+#~ msgid "and"
+#~ msgstr "and"
+
+#~ msgid "SSL is required for authentication with the Google DriveAPI."
+#~ msgstr "SSL is required for authentication with the Google DriveAPI."
+
+#~ msgid ""
+#~ "See our documentation how to obtain a SSL certificate or how to use Out-"
+#~ "of-the-Box without one."
+#~ msgstr ""
+#~ "See our documentation how to obtain a SSL certificate or how to use Out-"
+#~ "of-the-Box without one."
+
+#~ msgid "Using SSL"
+#~ msgstr "Using SSL"
+
+#~ msgid "You are using a secure connection"
+#~ msgstr "You are using a secure connection"
+
+#~ msgid "You are using running a server on 'localhost'."
+#~ msgstr "You are using running a server on 'localhost'."
+
+#~ msgid ""
+#~ "If your using this Plugin somewhere else, you need a SSL certificate to "
+#~ "ensure a secure connection."
+#~ msgstr ""
+#~ "If your using this Plugin somewhere else, you need a SSL certificate to "
+#~ "ensure a secure connection."
+
+#~ msgid ""
+#~ "The Google DriveSDK uses 64-bit integers, but it looks like we're running "
+#~ "on a version of PHP that doesn't support 64-bit integers"
+#~ msgstr ""
+#~ "The Google DriveSDK uses 64-bit integers, but it looks like we're running "
+#~ "on a version of PHP that doesn't support 64-bit integers"
+
+#~ msgid ""
+#~ "Because you can still use the Google DriveSDK with 32-bit integers we "
+#~ "disabled the 64-bit check"
+#~ msgstr ""
+#~ "Because you can still use the Google DriveSDK with 32-bit integers we "
+#~ "disabled the 64-bit check"
+
+#~ msgid "64-bit integers"
+#~ msgstr "64-bit integers"
+
+#~ msgid ""
+#~ "It looks like we're running on a version of PHP that does support 64-bit "
+#~ "integers"
+#~ msgstr ""
+#~ "It looks like we're running on a version of PHP that does support 64-bit "
+#~ "integers"
+
+#~ msgid ""
+#~ "If your server doesn't support resizing an image type, we try to use "
+#~ "Google Driveown thumbnails"
+#~ msgstr ""
+#~ "If your server doesn't support resizing an image type, we try to use "
+#~ "Google Driveown thumbnails"
+
+#~ msgid "Couldn't load Google DriveSDK libary"
+#~ msgstr "Couldn't load Google DriveSDK libary"
+
+#~ msgid ""
+#~ "No Token found! Please enter your App key and secret and re-authorize"
+#~ msgstr ""
+#~ "No Token found! Please enter your App key and secret and re-authorize"
+
+#~ msgid ""
+#~ "Google DriveApp settings are not complete. Please insert Key and Secret "
+#~ "values below."
+#~ msgstr ""
+#~ "Google DriveApp settings are not complete. Please insert Key and Secret "
+#~ "values below."
+
+#~ msgid "Your Google DriveApp key or token seems to be invalid: "
+#~ msgstr "Your Google DriveApp key or token seems to be invalid: "
+
+#~ msgid "Error in getClient: "
+#~ msgstr "Error in getClient: "
+
+#~ msgid "/dropbox-auth-finish: bad request: "
+#~ msgstr "/dropbox-auth-finish: bad request: "
+
+#~ msgid "/dropbox-auth-finish: CSRF mismatch: "
+#~ msgstr "/dropbox-auth-finish: CSRF mismatch: "
+
+#~ msgid "/dropbox-auth-finish: not approved: "
+#~ msgstr "/dropbox-auth-finish: not approved: "
+
+#~ msgid "/dropbox-auth-finish: error redirect from Drive: "
+#~ msgstr "/dropbox-auth-finish: error redirect from Drive: "
+
+#~ msgid "Invalid <dropbox-path>"
+#~ msgstr "Invalid Google Drivedirectory"
+
+#~ msgid "already exists"
+#~ msgstr "already exists"
+
+#~ msgid "Show parents of root folder in breadcrumb"
+#~ msgstr "Show parents of root folder in breadcrumb"
+
+#~ msgid "View Use-your-Drive"
+#~ msgstr "View Use-your-Drive"
+
+#~ msgid "System settings"
+#~ msgstr "System settings"
+
+#~ msgid "Renaming"
+#~ msgstr "Renaming"
+
+#~ msgid "Deleting"
+#~ msgstr "Deleting"
+
+#~ msgid "Adding folders"
+#~ msgstr "Adding folders"
+
+#~ msgid "Minimum Role to view Use-your-Drive"
+#~ msgstr "Minimum Role to view Use-your-Drive"
+
+#~ msgid "Everyone"
+#~ msgstr "Everyone"
+
+#~ msgid "Subscriber"
+#~ msgstr "Subscriber"
+
+#~ msgid "Minimum Role for renaming"
+#~ msgstr "Minimum Role for renaming"
+
+#~ msgid "Minimum Role for deleting"
+#~ msgstr "Minimum Role for deleting"
+
+#~ msgid "Minimum Role for adding folders"
+#~ msgstr "Minimum Role for adding folders"
+
+#~ msgid "Administrator"
+#~ msgstr "Administrator"
+
+#~ msgid "Load how many images each time?"
+#~ msgstr "Load how many images each time?"
+
+#~ msgid ""
+#~ "Use-your-Drive cannot save information if sessions are disabled. You "
+#~ "cannot use Use-your-Drive"
+#~ msgstr ""
+#~ "Use-your-Drive cannot save information if sessions are disabled. You "
+#~ "cannot use Use-your-Drive"
+
+#~ msgid ""
+#~ "The Google DriveSDK requires the cURL PHP extension, but it looks like "
+#~ "you don't have it (couldn't find function \"curl_init\")"
+#~ msgstr ""
+#~ "The Google DriveSDK requires the cURL PHP extension, but it looks like "
+#~ "you don't have it (couldn't find function \"curl_init\")"
+
+#~ msgid "Show columnnames so you can sort your files and folders"
+#~ msgstr "Show columnnames so you can sort your files and folders"
+
+#~ msgid "Last edited on "
+#~ msgstr "Last edited on "
+
+#~ msgid "Gallery"
+#~ msgstr "Gallery"
+
+#~ msgid "Media player (audio &amp; video)"
+#~ msgstr "Media player (audio &amp; video)"
+
+#~ msgid "Show name of root directory"
+#~ msgstr "Show name of root directory"
+
+#~ msgid "Check documentation for more details"
+#~ msgstr "Check documentation for more details"
+
+#~ msgid "play"
+#~ msgstr "play"
+
+#~ msgid "pause"
+#~ msgstr "pause"
+
+#~ msgid "next"
+#~ msgstr "next"
+
+#~ msgid "mute"
+#~ msgstr "mute"
+
+#~ msgid "unmute"
+#~ msgstr "unmute"
+
+#~ msgid "max volume"
+#~ msgstr "max volume"
+
+#~ msgid "full screen"
+#~ msgstr "full screen"
+
+#~ msgid "restore screen"
+#~ msgstr "restore screen"
+
+#~ msgid "shuffle"
+#~ msgstr "shuffle"
+
+#~ msgid "shuffle off"
+#~ msgstr "shuffle off"
+
+#~ msgid "repeat"
+#~ msgstr "repeat"
+
+#~ msgid "repeat off"
+#~ msgstr "repeat off"
+
+#~ msgid ""
+#~ "Because the Google DriveSDK can use 64-bit integers we recommend that you "
+#~ "comment out line 15 in 'includes/dropbox-sdk/Drive/RequestUtil.php'"
+#~ msgstr ""
+#~ "Because the Google DriveSDK can use 64-bit integers we recommend that you "
+#~ "comment out line 15 in 'includes/dropbox-sdk/Drive/RequestUtil.php'"
+
+#~ msgid "Google Driveis not succesfully linked. Please Authorize!"
+#~ msgstr "Google Driveis not succesfully linked. Please Authorize!"
+
+#~ msgid ""
+#~ "The Google DriveSDK requires the JSON PHP extension, but it looks like "
+#~ "you don't have it (couldn't find function \"json_decode\")"
+#~ msgstr ""
+#~ "The Google DriveSDK requires the JSON PHP extension, but it looks like "
+#~ "you don't have it (couldn't find function \"json_decode\")"
+
+#~ msgid "You are <strong>not able</strong> to use Use-your-Drive."
+#~ msgstr "You are <strong>not able</strong> to use Use-your-Drive."
+
+#~ msgid ""
+#~ "To enable SSL on your website, you will need to get an SSL Certificate "
+#~ "that identifies you and install it on the server"
+#~ msgstr ""
+#~ "To enable SSL on your website, you will need to get an SSL Certificate "
+#~ "that identifies you and install it on the server"
+
+#~ msgid ""
+#~ "If you dont have a certificate yet, use or Google skills to get one for "
+#~ "free (for example Startssl.com)"
+#~ msgstr ""
+#~ "If you dont have a certificate yet, use or Google skills to get one for "
+#~ "free (for example Startssl.com)"
+
+#~ msgid "No Google Drivetoken found... Please Authorize!"
+#~ msgstr "No Google Drivetoken found... Please Authorize!"
+
+#~ msgid ""
+#~ "No Token file found and could not create one. Please be sure the file ."
+#~ "token exists in the plugin rootdir and is writeable"
+#~ msgstr ""
+#~ "No Token file found and could not create one. Please be sure the file ."
+#~ "token exists in the plugin rootdir and is writeable"
+
+#~ msgid ""
+#~ "/dropbox-auth-finish: Could not store token! Make sure that the file `."
+#~ "token` exists and is writable!"
+#~ msgstr ""
+#~ "/dropbox-auth-finish: Could not store token! Make sure that the file `."
+#~ "token` exists and is writable!"
+
+#~ msgid "Unable to load app-info.json: "
+#~ msgstr "Unable to load app-info.json: "
+
+#~ msgid "Installation"
+#~ msgstr "Installation"
+
+#~ msgid "Be sure you have an valid SSL certificate on your web server"
+#~ msgstr "Be sure you have an valid SSL certificate on your web server"
+
+#~ msgid "Current root"
+#~ msgstr "Current root"
+
+#~ msgid "Leave empty for default value (max filesize allowed)"
+#~ msgstr "Leave empty for default value (max filesize allowed)"
+
+#~ msgid "shows all folders/files in the root of your Drive"
+#~ msgstr "shows all folders/files in the root of your Drive"
+
+#~ msgid "shows all folders/files in a specific directory of your Drive"
+#~ msgstr "shows all folders/files in a specific directory of your Drive"
+
+#~ msgid "NOTE the double quote!!"
+#~ msgstr "NOTE the double quote!!"
+
+#~ msgid ""
+#~ "add uploadform and overwrite existing files. If overwrite=0 the files "
+#~ "will be renamed"
+#~ msgstr ""
+#~ "add uploadform and overwrite existing files. If overwrite=0 the files "
+#~ "will be renamed"
+
+#~ msgid "only allow specific extensions for upload"
+#~ msgstr "only allow specific extensions for upload"
+
+#~ msgid "Will give some basic debug information"
+#~ msgstr "Will give some basic debug information"

@@ -1,0 +1,3818 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Use-your-Drive\n"
+"POT-Creation-Date: 2018-06-07 09:26+0200\n"
+"PO-Revision-Date: 2018-04-09 15:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+
+#: includes/Admin.php:130 templates/admin.php:98 templates/admin.php:103
+#, fuzzy
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/Admin.php:137 includes/Admin.php:139
+#: templates/admin_dashboard.php:7
+msgid "Reports"
+msgstr ""
+
+#: includes/Admin.php:146 includes/Admin.php:148 templates/tinymce_popup.php:86
+#: templates/tinymce_popup.php:95 templates/tinymce_popup.php:98
+#: templates/tinymce_popup.php:101
+#, fuzzy
+msgid "Shortcode Builder"
+msgstr "Shortcode Builder"
+
+#: includes/Admin.php:155 includes/Admin.php:158 includes/LinkUsers.php:28
+msgid "Link Private Folders"
+msgstr ""
+
+#: includes/Admin.php:164 includes/Admin.php:166
+#: templates/admin_filebrowser.php:5
+#, fuzzy
+msgid "File Browser"
+msgstr "File Browser"
+
+#: includes/Admin.php:196 includes/Admin.php:309 includes/Admin.php:318
+#: includes/Admin.php:326 includes/Admin.php:334
+#, fuzzy
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: includes/Admin.php:208
+#, fuzzy
+msgid "Saved!"
+msgstr "Saved!"
+
+#: includes/Admin.php:212
+#, fuzzy
+msgid "If you would like to receive updates, please insert your Purchase code"
+msgstr "If you would like to receive updates, please insert your Purchase code"
+
+#: includes/Admin.php:214
+#, fuzzy
+msgid "Where do I find the purchase code?"
+msgstr "Where do I find the purchase code?"
+
+#: includes/Admin.php:219
+#, fuzzy
+msgid "Purchase Code"
+msgstr "Purchase Code"
+
+#: includes/Admin.php:298
+#, php-format
+msgid ""
+"If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr ""
+
+#: includes/Admin.php:364
+msgid ""
+"Thanks for registering your product! The plugin is now <strong>Activated</"
+"strong> and the <strong>Auto-Updater</strong> enabled"
+msgstr ""
+
+#: includes/Admin.php:364
+#, fuzzy
+msgid "Your purchasecode"
+msgstr "Your purchasecode"
+
+#: includes/Admin.php:367
+#, fuzzy
+msgid ""
+"The plugin is <strong>Not Activated</strong> and the <strong>Auto-Updater</"
+"strong> disabled"
+msgstr ""
+"The plugin is <strong>Not Activated</strong> and the <strong>Auto-Updater</"
+"strong> disabled"
+
+#: includes/Admin.php:367
+msgid ""
+"Please activate your copy in order to have direct access to the latest "
+"updates and to get support"
+msgstr ""
+
+#: includes/Admin.php:368
+msgid "Activate"
+msgstr ""
+
+#: includes/Admin.php:369
+msgid "Or insert your purchasecode manually and press Activate"
+msgstr ""
+
+#: includes/Admin.php:371
+#, fuzzy
+msgid "Check for Updates"
+msgstr "Check for Updates"
+
+#: includes/Admin.php:372
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/Admin.php:380
+#, fuzzy
+msgid "Revoke Authorization"
+msgstr "Revoke authorization"
+
+#: includes/Admin.php:388 includes/Admin.php:419
+#, fuzzy
+msgid "Use-your-Drive has encountered an error"
+msgstr "Use-your-Drive has encountered an error"
+
+#: includes/Admin.php:389 includes/Admin.php:424
+#, fuzzy
+msgid "Error Details"
+msgstr "Error Details"
+
+#: includes/Admin.php:394
+#, fuzzy
+msgid "(Re) Authorize the Plugin!"
+msgstr "(Re) Authorize the Plugin!"
+
+#: includes/Admin.php:410
+msgid "Unlimited"
+msgstr ""
+
+#: includes/Admin.php:413
+#, fuzzy
+msgid ""
+"Use-your-Drive is succesfully authorized and linked with Google account:"
+msgstr ""
+"Use-your-Drive is succesfully authorized and linked with Google account:"
+
+#: includes/Admin.php:421
+#, fuzzy
+msgid ""
+"Please fall back to the default App by clearing the KEY and Secret on the "
+"Advanced settings tab"
+msgstr ""
+"Please fall back to the default App by clearing the KEY and Secret on the "
+"Advanced settings tab"
+
+#: includes/Admin.php:429
+#, fuzzy
+msgid "Plugin isn't linked to your Drive... Please Authorize!"
+msgstr "Plugin isn't linked to your Drive... Please Authorize!"
+
+#: includes/Admin.php:439
+#, fuzzy
+msgid "Use-your-Drive uses a cache to improve performance"
+msgstr "Use-your-Drive uses a cache to improve performance"
+
+#: includes/Admin.php:439
+#, fuzzy
+msgid "If the plugin somehow is causing issues, try to reset the cache first"
+msgstr "If the plugin somehow is causing issues, try to reset the cache first"
+
+#: includes/Admin.php:441 templates/admin.php:816
+#, fuzzy
+msgid "Reset Cache"
+msgstr "Reset Cache"
+
+#: includes/Admin.php:448 includes/Admin.php:509
+msgid "You need at least PHP 5.4 if you want to use Use-your-Drive"
+msgstr ""
+
+#: includes/Admin.php:449
+#, fuzzy
+msgid "You are using:"
+msgstr "You are using:"
+
+#: includes/Admin.php:452
+msgid ""
+"We are not able to connect to the Google API as you don't have the cURL PHP "
+"extension installed"
+msgstr ""
+
+#: includes/Admin.php:453
+msgid "Please enable or install the cURL extension on your server"
+msgstr ""
+
+#: includes/Admin.php:457
+#, fuzzy
+msgid ""
+"We are not able to connect to the Google API as the plugin is interfering "
+"with an other plugin"
+msgstr ""
+"We are not able to connect to the Google API as the plugin is interfering "
+"with an other plugin"
+
+#: includes/Admin.php:458
+#, fuzzy
+msgid ""
+"The other plugin is using an old version of the Google-Api-PHP-client that "
+"isn't capable of running multiple configurations"
+msgstr ""
+"The other plugin is using an old version of the Google-Api-PHP-client that "
+"isn't capable of running multiple configurations"
+
+#: includes/Admin.php:459
+#, fuzzy
+msgid ""
+"Please disable this other plugin if you would like to use Use-your-Drive"
+msgstr ""
+"Please disable this other plugin if you would like to use Use-your-Drive"
+
+#: includes/Admin.php:460
+#, fuzzy
+msgid ""
+"If you would like to use both plugins, ask the developer to update it's code"
+msgstr ""
+"If you would like to use both plugins, ask the developer to update it's code"
+
+#: includes/Admin.php:463
+#, php-format
+msgid "Cannot create the cache directory %s, or it is not writable"
+msgstr ""
+
+#: includes/Admin.php:464
+#, fuzzy, php-format
+msgid ""
+"Please check if the directory exists on your server and has %s writing "
+"permissions %s"
+msgstr ""
+"Please check if the directory exists on your server and has %s writing "
+"permissions %s"
+
+#: includes/Admin.php:477
+#, fuzzy
+msgid "The plugin isn't autorized to use your Google Drive"
+msgstr "The plugin isn't autorized to use your Google Drive"
+
+#: includes/Admin.php:478
+#, fuzzy
+msgid "Authorize the plugin!"
+msgstr "Authorize the plugin!"
+
+#: includes/Admin.php:504
+#, fuzzy
+msgid "WordPress version"
+msgstr "WordPress version"
+
+#: includes/Admin.php:505
+#, fuzzy
+msgid "Plugin version"
+msgstr "Plugin version"
+
+#: includes/Admin.php:506
+#, fuzzy
+msgid "Memory limit"
+msgstr "Memory limit"
+
+#: includes/Admin.php:509 includes/Admin.php:511
+#, fuzzy
+msgid "PHP version"
+msgstr "PHP version"
+
+#: includes/Admin.php:517 includes/Admin.php:519
+#, fuzzy
+msgid "cURL PHP extension"
+msgstr "cURL PHP extension"
+
+#: includes/Admin.php:517
+#, fuzzy
+msgid ""
+"You have the cURL PHP extension installed and we can access Google with cURL"
+msgstr ""
+"You have the cURL PHP extension installed and we can access Google with cURL"
+
+#: includes/Admin.php:519
+#, fuzzy
+msgid ""
+"You don't have the cURL PHP extension installed (couldn't find function "
+"\"curl_init\"), please enable or install this extension"
+msgstr ""
+"You don't have the cURL PHP extension installed (couldn't find function "
+"\"curl_init\"), please enable or install this extension"
+
+#: includes/Admin.php:524 includes/Admin.php:526
+#, fuzzy
+msgid "Is allow_url_fopen enabled?"
+msgstr "Is allow_url_fopen enabled?"
+
+#: includes/Admin.php:524
+#, fuzzy
+msgid "Yes, we can access Google with fopen"
+msgstr "Yes, we can access Google with fopen"
+
+#: includes/Admin.php:526
+#, fuzzy
+msgid "No, we can't access Google with fopen"
+msgstr "No, we can't access Google with fopen"
+
+#: includes/Admin.php:532 includes/Admin.php:534
+#, fuzzy
+msgid "Version Google Api Client"
+msgstr "Version Google Api Client"
+
+#: includes/Admin.php:534
+#, fuzzy
+msgid "Before version 1.0.0"
+msgstr "Before version 1.0.0"
+
+#: includes/Admin.php:534
+#, fuzzy
+msgid ""
+"Another plugin is loading an old Google Client library. Use-your-Drive isn't "
+"compatible with this version."
+msgstr ""
+"Another plugin is loading an old Google Client library. Use-your-Drive isn't "
+"compatible with this version."
+
+#: includes/Admin.php:541 includes/Admin.php:543
+#, fuzzy
+msgid "Is TMP directory writable?"
+msgstr "Is TMP directory writable?"
+
+#: includes/Admin.php:541
+#, fuzzy
+msgid "TMP directory"
+msgstr "TMP directory"
+
+#: includes/Admin.php:541
+#, fuzzy
+msgid "isn't writable. You are not able to upload files to Drive."
+msgstr "isn't writable. You are not able to upload files to Drive."
+
+#: includes/Admin.php:541
+#, fuzzy
+msgid "Make sure TMP directory is writable"
+msgstr "Make sure TMP directory is writable"
+
+#: includes/Admin.php:543
+#, fuzzy
+msgid "TMP directory is writable"
+msgstr "TMP directory is writable"
+
+#: includes/Admin.php:555 includes/Admin.php:557 includes/Admin.php:560
+#, fuzzy
+msgid "Is CACHE directory writable?"
+msgstr "Is CACHE directory writable?"
+
+#: includes/Admin.php:555
+#, fuzzy
+msgid "CACHE directory"
+msgstr "CACHE directory"
+
+#: includes/Admin.php:555 includes/Admin.php:568
+#, fuzzy
+msgid "isn't writable. The gallery will load very slowly."
+msgstr "isn't writable. The gallery will load very slowly."
+
+#: includes/Admin.php:555
+#, fuzzy
+msgid "Make sure CACHE directory is writable"
+msgstr "Make sure CACHE directory is writable"
+
+#: includes/Admin.php:557
+#, fuzzy
+msgid "CACHE directory is now writable"
+msgstr "CACHE directory is now writable"
+
+#: includes/Admin.php:560
+#, fuzzy
+msgid "CACHE directory is writable"
+msgstr "CACHE directory is writable"
+
+#: includes/Admin.php:568 includes/Admin.php:570 includes/Admin.php:573
+#, fuzzy
+msgid "Is CACHE-index file writable?"
+msgstr "Is CACHE-index file writable?"
+
+#: includes/Admin.php:568
+#, fuzzy
+msgid "-index file"
+msgstr "-index file"
+
+#: includes/Admin.php:568
+#, fuzzy
+msgid "Make sure CACHE-index file is writable"
+msgstr "Make sure CACHE-index file is writable"
+
+#: includes/Admin.php:570
+#, fuzzy
+msgid "CACHE-index file is now writable"
+msgstr "CACHE-index file is now writable"
+
+#: includes/Admin.php:573
+#, fuzzy
+msgid "CACHE-index file is writable"
+msgstr "CACHE-index file is writable"
+
+#: includes/Admin.php:585 includes/Admin.php:587 includes/Admin.php:590
+#, fuzzy
+msgid "Is THUMBNAIL directory writable?"
+msgstr "Is THUMBNAIL directory writable?"
+
+#: includes/Admin.php:585
+#, fuzzy
+msgid "THUMBNAIL directory"
+msgstr "THUMBNAIL directory"
+
+#: includes/Admin.php:585
+#, fuzzy
+msgid ""
+"isn't writable. Thumbnails of Google Doc files will not always properly."
+msgstr ""
+"isn't writable. Thumbnails of Google Doc files will not always properly."
+
+#: includes/Admin.php:585
+#, fuzzy
+msgid "Make sure THUMBNAIL directory is writable"
+msgstr "Make sure THUMBNAIL directory is writable"
+
+#: includes/Admin.php:587
+#, fuzzy
+msgid "THUMBNAIL directory is now writable"
+msgstr "THUMBNAIL directory is now writable"
+
+#: includes/Admin.php:590
+#, fuzzy
+msgid "THUMBNAIL directory is writable"
+msgstr "THUMBNAIL directory is writable"
+
+#: includes/Admin.php:595
+#, fuzzy
+msgid "You can use the ZIP function"
+msgstr "You can use the ZIP function"
+
+#: includes/Admin.php:596 includes/Admin.php:599
+#, fuzzy
+msgid "Download files as ZIP"
+msgstr "Download files as ZIP"
+
+#: includes/Admin.php:598
+#, fuzzy
+msgid "You cannot download files as ZIP"
+msgstr "You cannot download files as ZIP"
+
+#: includes/Admin.php:603
+#, fuzzy
+msgid "mbstring extension enabled?"
+msgstr "mbstring extension enabled?"
+
+#: includes/Admin.php:603
+#, fuzzy
+msgid ""
+"The required mbstring extension is not enabled on your server. Please enable "
+"this extension."
+msgstr ""
+"The required mbstring extension is not enabled on your server. Please enable "
+"this extension."
+
+#: includes/Admin.php:611
+#, fuzzy
+msgid "You can use Use-your-Drive in Gravity Forms ("
+msgstr "You can use Use-your-Drive in Gravity Forms ("
+
+#: includes/Admin.php:612 includes/Admin.php:615
+#, fuzzy
+msgid "Gravity Forms integration"
+msgstr "Gravity Forms integration"
+
+#: includes/Admin.php:614
+#, fuzzy
+msgid "You have Gravity Forms ("
+msgstr "You have Gravity Forms ("
+
+#: includes/Admin.php:626
+msgid "You can use Use-your-Drive in Contact Form 7 ("
+msgstr ""
+
+#: includes/Admin.php:627 includes/Admin.php:630
+msgid "Contact Form integration"
+msgstr ""
+
+#: includes/Admin.php:629
+msgid ""
+"You have Contact Form 7 installed, but this version is not supported. Please "
+"update Contact Form 7 to the latest version if you want to use this plugin "
+"in combination with Contact Form"
+msgstr ""
+
+#: includes/Admin.php:641
+#, fuzzy
+msgid "You can use Use-your-Drive in WooCommerce ("
+msgstr "You can use Use-your-Drive in WooCommerce ("
+
+#: includes/Admin.php:642 includes/Admin.php:645
+#, fuzzy
+msgid "WooCommerce Digital Products"
+msgstr "WooCommerce Digital Products"
+
+#: includes/Admin.php:644
+#, fuzzy
+msgid "You have WooCommerce ("
+msgstr "You have WooCommerce ("
+
+#: includes/App.php:357
+#, fuzzy
+msgid "error communicating with Google API: "
+msgstr "error communicating with Google API: "
+
+#: includes/Client.php:433
+msgid "Team Drives"
+msgstr ""
+
+#: includes/Client.php:863 includes/Processor.php:317
+#, fuzzy
+msgid "Failed to delete entry"
+msgstr "Failed to delete entry"
+
+#: includes/Client.php:889 includes/Client.php:905 includes/Client.php:907
+#: includes/Client.php:955 includes/Processor.php:344
+#, fuzzy
+msgid "Failed to rename entry"
+msgstr "Failed to rename entry"
+
+#: includes/Client.php:893
+#, fuzzy
+msgid "No new name set"
+msgstr "No new name set"
+
+#: includes/Client.php:903 includes/Client.php:1059 includes/Client.php:1152
+#, fuzzy
+msgid "Invalid entry"
+msgstr "Invalid entry"
+
+#: includes/Client.php:913
+#, fuzzy
+msgid "You are not authorized to rename files in this directory"
+msgstr "You are not authorized to rename files in this directory"
+
+#: includes/Client.php:920 includes/Client.php:925
+#, fuzzy
+msgid "You are not authorized to rename this file or folder"
+msgstr "You are not authorized to rename this file or folder"
+
+#: includes/Client.php:929
+#, fuzzy
+msgid "You are not authorized to rename folder"
+msgstr "You are not authorized to rename folder"
+
+#: includes/Client.php:933
+#, fuzzy
+msgid "You are not authorized to rename this file"
+msgstr "You are not authorized to rename this file"
+
+#: includes/Client.php:970 includes/Client.php:974 includes/Client.php:983
+#: includes/Client.php:1035
+#, fuzzy
+msgid "Failed to move entry"
+msgstr "Failed to move entry"
+
+#: includes/Client.php:988
+#, fuzzy
+msgid "You are not authorized to move items in this directory"
+msgstr "You are not authorized to move items in this directory"
+
+#: includes/Client.php:995 includes/Client.php:1000
+#, fuzzy
+msgid "You are not authorized to move this file or folder"
+msgstr "You are not authorized to move this file or folder"
+
+#: includes/Client.php:1004
+#, fuzzy
+msgid "You are not authorized to move folder"
+msgstr "You are not authorized to move folder"
+
+#: includes/Client.php:1008
+#, fuzzy
+msgid "You are not authorized to move this file"
+msgstr "You are not authorized to move this file"
+
+#: includes/Client.php:1049
+#, fuzzy
+msgid "No new description set"
+msgstr "No new description set"
+
+#: includes/Client.php:1061 includes/Client.php:1063 includes/Client.php:1099
+#, fuzzy
+msgid "Failed to edit entry"
+msgstr "Failed to edit entry"
+
+#: includes/Client.php:1069
+#, fuzzy
+msgid "You are not authorized to edit files in this directory"
+msgstr "You are not authorized to edit files in this directory"
+
+#: includes/Client.php:1077 includes/Client.php:1082
+#, fuzzy
+msgid "You are not authorized to edit this file or folder"
+msgstr "You are not authorized to edit this file or folder"
+
+#: includes/Client.php:1137 includes/Client.php:1192 includes/Processor.php:412
+#, fuzzy
+msgid "Failed to add folder"
+msgstr "Failed to add folder"
+
+#: includes/Client.php:1141
+#, fuzzy
+msgid "No new foldername set"
+msgstr "No new foldername set"
+
+#: includes/Client.php:1154 includes/Client.php:1156
+#, fuzzy
+msgid "Failed to add entry"
+msgstr "Failed to add entry"
+
+#: includes/Client.php:1161
+#, fuzzy
+msgid "You are not authorized to add folders in this directory"
+msgstr "You are not authorized to add folders in this directory"
+
+#: includes/Client.php:1168
+#, fuzzy
+msgid "You are not authorized to add a folder"
+msgstr "You are not authorized to add a folder"
+
+#: includes/Client.php:2008 includes/Client.php:2015
+#, fuzzy
+msgid "Requested directory isn't allowed"
+msgstr "Requested directory isn't allowed"
+
+#: includes/Client.php:2048
+#, fuzzy
+msgid "Something went wrong... See settings page"
+msgstr "Something went wrong... See settings page"
+
+#: includes/Client.php:2253
+#, fuzzy
+msgid "Can't create link"
+msgstr "Can't create link"
+
+#: includes/ContactForm7.php:60
+msgid "Generate a form-tag for a Use-your-Drive Upload field."
+msgstr ""
+
+#: includes/ContactForm7.php:68 includes/ContactForm7.php:71
+msgid "Field type"
+msgstr ""
+
+#: includes/ContactForm7.php:72
+msgid "Required field"
+msgstr ""
+
+#: includes/ContactForm7.php:78 includes/LinkUsers.php:200
+#: templates/admin_dashboard.php:119 templates/admin_dashboard.php:203
+#: templates/frontend.php:101 templates/tinymce_popup.php:672
+#, fuzzy
+msgid "Name"
+msgstr "Name"
+
+#: includes/ContactForm7.php:83
+#, fuzzy
+msgid "Use-your-Drive Shortcode"
+msgstr "Build your Use-your-Drive shortcode "
+
+#: includes/ContactForm7.php:87 includes/GravityForms.php:121
+#, fuzzy
+msgid "Build your Use-your-Drive shortcode"
+msgstr "Build your Use-your-Drive shortcode "
+
+#: includes/ContactForm7.php:102
+msgid "Insert Tag"
+msgstr ""
+
+#: includes/ContactForm7.php:188 includes/GravityForms.php:218
+#, fuzzy, php-format
+msgid "%d file(s) uploaded:"
+msgstr "%d file(s) uploaded:"
+
+#: includes/ContactForm7.php:239 includes/UserFolders.php:441
+#: includes/WooCommerce.php:52
+#, fuzzy
+msgid "Guests"
+msgstr "Guests"
+
+#: includes/Events.php:349
+msgid "Visitors"
+msgstr ""
+
+#: includes/Events.php:355
+msgid "Visitor"
+msgstr ""
+
+#: includes/Events.php:355 includes/Events.php:422 includes/Events.php:562
+#: includes/Events.php:649
+#, fuzzy
+msgid "Deleted"
+msgstr "Not all entries could be deleted"
+
+#: includes/Events.php:416 includes/Events.php:638
+msgid "A visitor"
+msgstr ""
+
+#: includes/Events.php:516 templates/admin_dashboard.php:153
+msgid "Previews"
+msgstr ""
+
+#: includes/Events.php:525 includes/WooCommerce.php:227
+#: templates/admin_dashboard.php:101 templates/admin_dashboard.php:162
+msgid "Downloads"
+msgstr ""
+
+#: includes/Events.php:534
+msgid "Streams"
+msgstr ""
+
+#: includes/Events.php:544 templates/admin_dashboard.php:171
+#, fuzzy
+msgid "Shared"
+msgstr "Allow users to generate permanent shared links to the files"
+
+#: includes/Events.php:553
+msgid "Renamed"
+msgstr ""
+
+#: includes/Events.php:571
+#, fuzzy
+msgid "Created"
+msgstr ""
+"Create a new Private Folders automatically after a new user has been created"
+
+#: includes/Events.php:580
+msgid "Updated metadata"
+msgstr ""
+
+#: includes/Events.php:589
+msgid "Moved"
+msgstr ""
+
+#: includes/Events.php:598 includes/WooCommerce.php:540
+#: templates/admin_dashboard.php:180
+msgid "Uploads"
+msgstr ""
+
+#: includes/Events.php:607
+msgid "Searched"
+msgstr ""
+
+#: includes/Events.php:649 templates/admin_dashboard.php:100
+#: templates/admin_dashboard.php:118 templates/admin_dashboard.php:202
+#, fuzzy
+msgid "User"
+msgstr "Failed to add user folder"
+
+#: includes/Events.php:653
+#, fuzzy
+msgid "folder"
+msgstr "Folder"
+
+#: includes/Events.php:653
+#, fuzzy
+msgid "file"
+msgstr "No valid file provided"
+
+#: includes/Events.php:667
+#, php-format
+msgid "%s previewed the %s %s"
+msgstr ""
+
+#: includes/Events.php:673
+#, php-format
+msgid "%s downloaded the %s %s"
+msgstr ""
+
+#: includes/Events.php:676
+#, php-format
+msgid "%s downloaded the %s %s as %s file"
+msgstr ""
+
+#: includes/Events.php:680
+#, php-format
+msgid "%s streamed the %s %s"
+msgstr ""
+
+#: includes/Events.php:683
+msgid "Shared link"
+msgstr ""
+
+#: includes/Events.php:684
+#, php-format
+msgid "%s created a %s for the %s %s"
+msgstr ""
+
+#: includes/Events.php:688
+#, php-format
+msgid "%s renamed the %s %s to %s"
+msgstr ""
+
+#: includes/Events.php:691
+#, php-format
+msgid "%s deleted the %s %s"
+msgstr ""
+
+#: includes/Events.php:694 includes/Events.php:704
+#, php-format
+msgid "%s added the %s %s in %s"
+msgstr ""
+
+#: includes/Events.php:698
+#, php-format
+msgid "%s updated the %s of the %s %s"
+msgstr ""
+
+#: includes/Events.php:701
+#, php-format
+msgid "%s moved the %s %s to %s"
+msgstr ""
+
+#: includes/Events.php:708
+#, php-format
+msgid "%s searched for: %s"
+msgstr ""
+
+#: includes/Events.php:711
+#, php-format
+msgid "%s performed an action: %s"
+msgstr ""
+
+#: includes/Events.php:782
+msgid "The file you are looking for cannot be found"
+msgstr ""
+
+#: includes/Events.php:782
+msgid "The file is probably deleted from the cloud"
+msgstr ""
+
+#: includes/Filebrowser.php:175 includes/Gallery.php:130
+#, fuzzy
+msgid "Results"
+msgstr "Results"
+
+#: includes/Filebrowser.php:196 includes/Gallery.php:152
+#, fuzzy
+msgid "Back"
+msgstr "Back"
+
+#: includes/Filebrowser.php:252 includes/Filebrowser.php:259
+#: includes/Gallery.php:118
+#, fuzzy
+msgid "No files or folders found"
+msgstr "No files or folders found"
+
+#: includes/Filebrowser.php:292 includes/Filebrowser.php:342
+#: includes/Gallery.php:237
+#, fuzzy
+msgid "Previous folder"
+msgstr "Previous folder"
+
+#: includes/Filebrowser.php:308 includes/Filebrowser.php:314
+#, fuzzy
+msgid "Select folder"
+msgstr "Select folder"
+
+#: includes/Filebrowser.php:379 includes/Filebrowser.php:450
+#: includes/Filebrowser.php:659 includes/Gallery.php:271
+#: includes/Gallery.php:339 templates/admin_dashboard.php:144
+#, fuzzy
+msgid "Download"
+msgstr "Download as"
+
+#: includes/Filebrowser.php:575
+#, fuzzy
+msgid "Your browser does not support HTML5. You can only download this file"
+msgstr "Your browser does not support HTML5. You can only download this file"
+
+#: includes/Filebrowser.php:617 includes/Gallery.php:315
+#, fuzzy
+msgid "Add a description"
+msgstr "Add a description"
+
+#: includes/Filebrowser.php:617 includes/Gallery.php:315
+#, fuzzy
+msgid "No description"
+msgstr "No description"
+
+#: includes/Filebrowser.php:647
+#, fuzzy
+msgid "Preview"
+msgstr "Preview"
+
+#: includes/Filebrowser.php:653
+#, fuzzy
+msgid "Preview in new window"
+msgstr "Preview in new window"
+
+#: includes/Filebrowser.php:664
+#, fuzzy
+msgid "Download as"
+msgstr "Download as"
+
+#: includes/Filebrowser.php:671 includes/Gallery.php:344
+#, fuzzy
+msgid "Share"
+msgstr "Share-one-Drive Upload"
+
+#: includes/Filebrowser.php:676 includes/Gallery.php:349
+#, fuzzy
+msgid "Rename"
+msgstr "Rename"
+
+#: includes/Filebrowser.php:681 includes/Gallery.php:354
+#, fuzzy
+msgid "Delete"
+msgstr "Delete"
+
+#: includes/Filebrowser.php:698 includes/Filebrowser.php:717
+#: includes/Gallery.php:371 includes/Gallery.php:373
+#, fuzzy
+msgid "Add folder"
+msgstr "Add folder"
+
+#: includes/Filebrowser.php:699
+#, fuzzy
+msgid "Add a new folder in this directory"
+msgstr "Add a new folder in this directory"
+
+#: includes/GravityForms.php:96
+msgid "Upload your Files"
+msgstr ""
+
+#: includes/GravityForms.php:131
+#, fuzzy
+msgid "Use-your-Drive Upload"
+msgstr "Use-your-Drive Upload"
+
+#: includes/GravityForms.php:137
+#, fuzzy
+msgid "Build here your Use-your-Drive shortcode"
+msgstr "Build here your Use-your-Drive shortcode"
+
+#: includes/GravityForms.php:156
+msgid "This field is required. Please upload your files."
+msgstr ""
+
+#: includes/Helpers.php:142 includes/LinkUsers.php:287
+#: includes/UserFolders.php:437 includes/WooCommerce.php:890
+#: templates/tinymce_popup.php:42
+#, fuzzy
+msgid "Guest"
+msgstr "Guest"
+
+#: includes/LinkUsers.php:199
+msgid "Username"
+msgstr ""
+
+#: includes/LinkUsers.php:201
+msgid "Email"
+msgstr ""
+
+#: includes/LinkUsers.php:202
+msgid "Role"
+msgstr ""
+
+#: includes/LinkUsers.php:203
+#, fuzzy
+msgid "Private Folder"
+msgstr "Link to Private Folder"
+
+#: includes/LinkUsers.php:257 includes/LinkUsers.php:267
+#, php-format
+msgid "%1$s <span class=\"count\">(%2$s)</span>"
+msgstr ""
+
+#: includes/LinkUsers.php:265
+msgid "No role"
+msgstr ""
+
+#: includes/LinkUsers.php:288
+msgid "Default folder for Guests and non-linked Users"
+msgstr ""
+
+#: includes/LinkUsers.php:365
+#, fuzzy
+msgid "Create link with Private Folder"
+msgstr "Create link with Private Folder"
+
+#: includes/LinkUsers.php:365
+#, fuzzy
+msgid "Link to Private Folder"
+msgstr "Link to Private Folder"
+
+#: includes/LinkUsers.php:366
+#, fuzzy
+msgid "Break link with Private Folder"
+msgstr "Break link with Private Folder"
+
+#: includes/LinkUsers.php:366
+msgid "Unlink"
+msgstr ""
+
+#: includes/LinkUsers.php:381
+msgid "No users found."
+msgstr ""
+
+#: includes/Processor.php:330
+#, fuzzy
+msgid "Not all entries could be deleted"
+msgstr "Not all entries could be deleted"
+
+#: includes/Processor.php:334
+#, fuzzy
+msgid "Entry was deleted"
+msgstr "Entry was deleted"
+
+#: includes/Processor.php:357
+#, fuzzy
+msgid "Entry was renamed"
+msgstr "Entry was renamed"
+
+#: includes/Processor.php:369
+#, fuzzy
+msgid "Failed to move"
+msgstr "Failed to move"
+
+#: includes/Processor.php:378
+#, fuzzy
+msgid "Entry was moved"
+msgstr "Entry was moved"
+
+#: includes/Processor.php:389
+#, fuzzy
+msgid "Failed to edit description"
+msgstr "Failed to edit description"
+
+#: includes/Processor.php:399
+#, fuzzy
+msgid "Description was edited"
+msgstr "Description was edited"
+
+#: includes/Processor.php:425
+#, fuzzy
+msgid "Folder"
+msgstr "Folder"
+
+#: includes/Processor.php:425
+#, fuzzy
+msgid "was added"
+msgstr "was added"
+
+#: includes/Processor.php:442
+#, fuzzy
+msgid "no valid AJAX call"
+msgstr "no valid AJAX call"
+
+#: includes/Processor.php:481 templates/tinymce_popup.php:547
+#, fuzzy
+msgid "Start"
+msgstr "Start"
+
+#: includes/Processor.php:548
+#, fuzzy
+msgid "ERROR: Contact the Administrator to see this content"
+msgstr "ERROR: Contact the Administrator to see this content"
+
+#: includes/Processor.php:578
+#, fuzzy
+msgid "Please authorize Use-your-Drive"
+msgstr "Please authorize Use-your-Drive"
+
+#: includes/Processor.php:773
+#, fuzzy
+msgid ""
+"To view the Google Drive folders, you need to have JavaScript enabled in "
+"your browser"
+msgstr ""
+"To view the Google Drive folders, you need to have JavaScript enabled in "
+"your browser"
+
+#: includes/Processor.php:774
+#, fuzzy
+msgid "To do so, please follow these instructions"
+msgstr "To do so, please follow these instructions"
+
+#: includes/Processor.php:785
+#, fuzzy
+msgid "Selected folder"
+msgstr "Selected folder"
+
+#: includes/Processor.php:790
+msgid "Use the Root Folder of your Account"
+msgstr ""
+
+#: includes/Processor.php:881
+#, fuzzy
+msgid "Please update your mediaplayer shortcode"
+msgstr "Please update your mediaplayer shortcode"
+
+#: includes/Processor.php:1121
+#, fuzzy
+msgid "A guest"
+msgstr "A guest"
+
+#: includes/Processor.php:1347
+#, fuzzy
+msgid "Use-your-Drive needs your help!"
+msgstr "Use-your-Drive needs your help!"
+
+#: includes/Processor.php:1347
+#, fuzzy
+msgid "Authorize the plugin."
+msgstr "Authorize the plugin."
+
+#: includes/Upload.php:58
+#, fuzzy
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+
+#: includes/Upload.php:59
+#, fuzzy
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+
+#: includes/Upload.php:60
+#, fuzzy
+msgid "The uploaded file was only partially uploaded"
+msgstr "The uploaded file was only partially uploaded"
+
+#: includes/Upload.php:61
+#, fuzzy
+msgid "No file was uploaded"
+msgstr "No file was uploaded"
+
+#: includes/Upload.php:62
+#, fuzzy
+msgid "Missing a temporary folder"
+msgstr "Missing a temporary folder"
+
+#: includes/Upload.php:63
+#, fuzzy
+msgid "Failed to write file to disk"
+msgstr "Failed to write file to disk"
+
+#: includes/Upload.php:64
+#, fuzzy
+msgid "A PHP extension stopped the file upload"
+msgstr "A PHP extension stopped the file upload"
+
+#: includes/Upload.php:65
+#, fuzzy
+msgid "The uploaded file exceeds the post_max_size directive in php.ini"
+msgstr "The uploaded file exceeds the post_max_size directive in php.ini"
+
+#: includes/Upload.php:66
+#, fuzzy
+msgid "File is too big"
+msgstr "File is too big"
+
+#: includes/Upload.php:67
+#, fuzzy
+msgid "File is too small"
+msgstr "File is too small"
+
+#: includes/Upload.php:68
+#, fuzzy
+msgid "Filetype not allowed"
+msgstr "Filetype not allowed"
+
+#: includes/Upload.php:69
+#, fuzzy
+msgid "Maximum number of files exceeded"
+msgstr "Maximum number of files exceeded"
+
+#: includes/Upload.php:70
+#, fuzzy
+msgid "Image exceeds maximum width"
+msgstr "Image exceeds maximum width"
+
+#: includes/Upload.php:71
+#, fuzzy
+msgid "Image requires a minimum width"
+msgstr "Image requires a minimum width"
+
+#: includes/Upload.php:72
+#, fuzzy
+msgid "Image exceeds maximum height"
+msgstr "Image exceeds maximum height"
+
+#: includes/Upload.php:73
+#, fuzzy
+msgid "Image requires a minimum height"
+msgstr "Image requires a minimum height"
+
+#: includes/Upload.php:90
+#, fuzzy
+msgid "Uploading failed"
+msgstr "Uploading failed"
+
+#: includes/Upload.php:149 includes/Upload.php:196 includes/Upload.php:209
+#, fuzzy
+msgid "Not uploaded to Google Drive"
+msgstr "Not uploaded to Google Drive"
+
+#: includes/Upload.php:225
+#, fuzzy
+msgid "Not succesfully uploaded to Google Drive"
+msgstr "Not succesfully uploaded to Google Drive"
+
+#: includes/UserFolders.php:189
+#, fuzzy
+msgid "Failed to add user folder"
+msgstr "Failed to add user folder"
+
+#: includes/UserFolders.php:224 includes/UserFolders.php:225
+#, fuzzy
+msgid ""
+"User folder is inside Template folder. Please select another template folder."
+msgstr ""
+"User folder is inside Template folder. Please select another template folder."
+
+#: includes/WooCommerce.php:42
+#, fuzzy
+msgid "WooCommerce Google Drive"
+msgstr "WooCommerce Google Drive"
+
+#: includes/WooCommerce.php:43
+#, fuzzy
+msgid "Easily add downloadable products right from your Google Drive."
+msgstr "Easily add downloadable products right from your Google Drive."
+
+#: includes/WooCommerce.php:44
+#, fuzzy, php-format
+msgid ""
+"To be able to use this integration, you only need to link your Google "
+"Account to the plugin on the %s."
+msgstr ""
+" To be able to use this integration, you only need to link your Google "
+"Account to the plugin on the %s."
+
+#: includes/WooCommerce.php:167
+#, fuzzy
+msgid "Choose from Google Drive"
+msgstr "Choose from Google Drive"
+
+#: includes/WooCommerce.php:247
+#, fuzzy
+msgid "File not found"
+msgstr "File not found"
+
+#: includes/WooCommerce.php:259
+msgid "Order not found"
+msgstr ""
+
+#: includes/WooCommerce.php:512
+msgid "Uploaded Files"
+msgstr ""
+
+#: includes/WooCommerce.php:527
+#, php-format
+msgid "You can now %sstart uploading your documents%s"
+msgstr ""
+
+#: includes/WooCommerce.php:541
+msgid "Allows your customers to upload files when ordering this product."
+msgstr ""
+
+#: includes/WooCommerce.php:554 includes/WooCommerce.php:577
+msgid "Upload to Google Drive"
+msgstr ""
+
+#: includes/WooCommerce.php:582
+msgid "Upload Box Settings"
+msgstr ""
+
+#: includes/WooCommerce.php:590
+msgid "Title Upload Box"
+msgstr ""
+
+#: includes/WooCommerce.php:593
+msgid "Enter the title for the upload box"
+msgstr ""
+
+#: includes/WooCommerce.php:593
+msgid ""
+"You can use the placeholders <code>%wc_order_id%</code>, <code>%wc_product_id"
+"%</code>, <code>%wc_product_name%</code>, <code>%jjjj-mm-dd%</code>"
+msgstr ""
+
+#: includes/WooCommerce.php:604
+msgid "Description Upload Box"
+msgstr ""
+
+#: includes/WooCommerce.php:607
+msgid "Enter a short description of what the customer needs to upload"
+msgstr ""
+
+#: includes/WooCommerce.php:615
+msgid "Build your Upload Box"
+msgstr ""
+
+#: includes/WooCommerce.php:616
+msgid "Edit Shortcode Manually"
+msgstr ""
+
+#: includes/WooCommerce.php:628
+msgid "Upload Folder Name"
+msgstr ""
+
+#: includes/WooCommerce.php:629
+msgid ""
+"Unique folder name where the uploads should be stored. Make sure that "
+"Private Folder feature is enabled in the shortcode"
+msgstr ""
+
+#: includes/WooCommerce.php:629
+msgid ""
+"You can use the placeholders <code>%wc_order_id%</code>, <code>%wc_product_id"
+"%</code>, <code>%wc_product_name%</code>, <code>%user_login%</code>, <code>"
+"%user_email%</code>, <code>%display_name%</code>, <code>%ID%</code>, <code>"
+"%user_role%</code>, <code>%jjjj-mm-dd%</code>"
+msgstr ""
+
+#: includes/WooCommerce.php:733 templates/frontend.php:43
+#: templates/gallery.php:39
+#, fuzzy
+msgid "Upload files"
+msgstr "Upload files"
+
+#: includes/WooCommerce.php:787 includes/WooCommerce.php:824
+#, php-format
+msgid "Please %sconfigure%s the upload location for this product"
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+#, fuzzy
+msgid "Check for updates"
+msgstr "Check for updates"
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+#, fuzzy, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Unknown update checker status \"%s\""
+
+#: includes/plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+#, fuzzy
+msgid "There is no changelog available."
+msgstr "There is no changelog available."
+
+#: templates/admin.php:69 templates/admin.php:923
+msgid "Remove Media"
+msgstr ""
+
+#: templates/admin.php:75
+msgid "Select Image"
+msgstr ""
+
+#: templates/admin.php:75
+msgid "Upload or select a file from the media library"
+msgstr ""
+
+#: templates/admin.php:78
+#, fuzzy
+msgid "Default"
+msgstr "Delay between cycles in milliseconds, the default is 5000"
+
+#: templates/admin.php:78
+msgid "Fallback to the default value"
+msgstr ""
+
+#: templates/admin.php:97
+#, fuzzy
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: templates/admin.php:106 templates/admin.php:133
+#: templates/tinymce_popup.php:195 templates/tinymce_popup.php:214
+#, fuzzy
+msgid "General"
+msgstr "General"
+
+#: templates/admin.php:107 templates/admin.php:150
+#: templates/tinymce_popup.php:198 templates/tinymce_popup.php:497
+#, fuzzy
+msgid "Layout"
+msgstr "Layout"
+
+#: templates/admin.php:108 templates/admin.php:337
+#, fuzzy
+msgid "Private Folders"
+msgstr "Private Folders"
+
+#: templates/admin.php:109 templates/admin.php:462
+#: templates/tinymce_popup.php:200 templates/tinymce_popup.php:706
+#, fuzzy
+msgid "Advanced"
+msgstr "Advanced"
+
+#: templates/admin.php:110 templates/admin.php:643
+#: templates/tinymce_popup.php:203 templates/tinymce_popup.php:1012
+#, fuzzy
+msgid "Notifications"
+msgstr "Notifications"
+
+#: templates/admin.php:111 templates/admin.php:740
+#, fuzzy
+msgid "Permissions"
+msgstr "Permissions"
+
+#: templates/admin.php:112 templates/admin.php:786
+#, fuzzy
+msgid "Statistics"
+msgstr "Statistics"
+
+#: templates/admin.php:113 templates/admin.php:801
+#, fuzzy
+msgid "System information"
+msgstr "System information"
+
+#: templates/admin.php:114 templates/admin.php:808
+#, fuzzy
+msgid "Need help?"
+msgstr "Need help?"
+
+#: templates/admin.php:117
+#, fuzzy
+msgid "Other Cloud Plugins"
+msgstr "Other Cloud Plugins"
+
+#: templates/admin.php:124
+#, fuzzy
+msgid "Version"
+msgstr "Version"
+
+#: templates/admin.php:135
+#, fuzzy
+msgid "Authorization"
+msgstr "Authorization"
+
+#: templates/admin.php:139
+msgid "Plugin License"
+msgstr ""
+
+#: templates/admin.php:154
+msgid "Loading Spinner & Images"
+msgstr ""
+
+#: templates/admin.php:157
+msgid "Select Loader Spinner"
+msgstr ""
+
+#: templates/admin.php:159
+msgid "Beat"
+msgstr ""
+
+#: templates/admin.php:160
+msgid "Spinner"
+msgstr ""
+
+#: templates/admin.php:161
+msgid "Custom Image (selected below)"
+msgstr ""
+
+#: templates/admin.php:164
+msgid "General Loader"
+msgstr ""
+
+#: templates/admin.php:169
+msgid "Upload Loader"
+msgstr ""
+
+#: templates/admin.php:174
+#, fuzzy
+msgid "No Results"
+msgstr "Results"
+
+#: templates/admin.php:179
+msgid "Access Forbidden Image"
+msgstr ""
+
+#: templates/admin.php:184
+msgid "Error Image"
+msgstr ""
+
+#: templates/admin.php:191
+msgid "Color Palette"
+msgstr ""
+
+#: templates/admin.php:194
+msgid "Content Skin"
+msgstr ""
+
+#: templates/admin.php:195
+msgid "Select the general content skin"
+msgstr ""
+
+#: templates/admin.php:197
+msgid "Dark"
+msgstr ""
+
+#: templates/admin.php:198
+msgid "Light"
+msgstr ""
+
+#: templates/admin.php:205
+msgid "Content Background Color"
+msgstr ""
+
+#: templates/admin.php:209
+msgid "Accent Color"
+msgstr ""
+
+#: templates/admin.php:213
+msgid "Black"
+msgstr ""
+
+#: templates/admin.php:217
+msgid "Dark 1"
+msgstr ""
+
+#: templates/admin.php:221
+msgid "Dark 2"
+msgstr ""
+
+#: templates/admin.php:225
+msgid "White"
+msgstr ""
+
+#: templates/admin.php:229
+msgid "Light 1"
+msgstr ""
+
+#: templates/admin.php:233
+msgid "Light 2"
+msgstr ""
+
+#: templates/admin.php:242
+#, fuzzy
+msgid "Lightbox"
+msgstr "Lightbox Image Source"
+
+#: templates/admin.php:244
+#, fuzzy
+msgid "Lightbox Skin"
+msgstr "Lightbox Skin"
+
+#: templates/admin.php:245
+#, fuzzy
+msgid "Select which skin you want to use for the lightbox"
+msgstr "Select which skin you want to use for the lightbox"
+
+#: templates/admin.php:268
+#, fuzzy
+msgid "Lightbox Scroll"
+msgstr "Lightbox Scroll"
+
+#: templates/admin.php:269
+#, fuzzy
+msgid ""
+"Sets path for switching windows. Possible values are 'vertical' and "
+"'horizontal' and the default is 'vertical"
+msgstr ""
+"Sets path for switching windows. Possible values are 'vertical' and "
+"'horizontal' and the default is 'vertical"
+
+#: templates/admin.php:271
+#, fuzzy
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: templates/admin.php:272
+#, fuzzy
+msgid "Vertical"
+msgstr "Vertical"
+
+#: templates/admin.php:275
+#, fuzzy
+msgid "Lightbox Image Source"
+msgstr "Lightbox Image Source"
+
+#: templates/admin.php:276
+#, fuzzy
+msgid ""
+"Select the source of the images. Large thumbnails load fast, orignal files "
+"will take some time to load"
+msgstr ""
+"Select the source of the images. Large thumbnails load fast, orignal files "
+"will take some time to load"
+
+#: templates/admin.php:278
+#, fuzzy
+msgid "Fast - Large preview thumbnails"
+msgstr "Fast - Large preview thumbnails"
+
+#: templates/admin.php:279
+#, fuzzy
+msgid "Slow - Show orginal files"
+msgstr "Slow - Show orginal files"
+
+#: templates/admin.php:282
+msgid "Allow Mouse Click on Image"
+msgstr ""
+
+#: templates/admin.php:289
+msgid ""
+"Should people be able to access the right click context menu to e.g. save "
+"the image?"
+msgstr ""
+
+#: templates/admin.php:291
+msgid "Lightbox Caption"
+msgstr ""
+
+#: templates/admin.php:292
+msgid ""
+"Choose when the caption containing the title and (if available) description "
+"are shown"
+msgstr ""
+
+#: templates/admin.php:294
+msgid "Show caption after clicking on the Lightbox"
+msgstr ""
+
+#: templates/admin.php:295
+msgid "Show caption when Lightbox opens"
+msgstr ""
+
+#: templates/admin.php:302
+#, fuzzy
+msgid "Media Player Skin"
+msgstr "Media Player Skin"
+
+#: templates/admin.php:304
+#, fuzzy
+msgid "Select which skin you want to use for the Media Player"
+msgstr "Select which skin you want to use for the Media Player"
+
+#: templates/admin.php:325
+#, fuzzy
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: templates/admin.php:327
+#, fuzzy
+msgid ""
+"If you want to modify the looks of the plugin slightly, you can insert here "
+"your custom CSS. Don't edit the CSS files itself, because those "
+"modifications will be lost during an update."
+msgstr ""
+"If you want to modify the looks of the plugin slightly, you can insert here "
+"your custom CSS. Don't edit the CSS files itself, because those "
+"modifications will be lost during an update."
+
+#: templates/admin.php:339
+#, fuzzy
+msgid "Create Private Folders on registration"
+msgstr "Create Private Folders on registration"
+
+#: templates/admin.php:346
+#, fuzzy
+msgid ""
+"Create a new Private Folders automatically after a new user has been created"
+msgstr ""
+"Create a new Private Folders automatically after a new user has been created"
+
+#: templates/admin.php:348
+#, fuzzy
+msgid "Create all Private Folders on first visit"
+msgstr "Create all Private Folders on first visit"
+
+#: templates/admin.php:355
+#, fuzzy
+msgid ""
+"Create all Private Folders the first time the page with the shortcode is "
+"visited"
+msgstr ""
+"Create all Private Folders the first time the page with the shortcode is "
+"visited"
+
+#: templates/admin.php:357 templates/admin.php:481
+#, fuzzy
+msgid "NOTICE"
+msgstr "NOTICE"
+
+#: templates/admin.php:357
+#, fuzzy
+msgid ""
+"Creating User Folders takes around 1 sec per user, so it isn't recommended "
+"to create those on first visit when you have tons of users"
+msgstr ""
+"Creating User Folders takes around 1 sec per user, so it isn't recommended "
+"to create those on first visit when you have tons of users"
+
+#: templates/admin.php:361
+#, fuzzy
+msgid "Update Private Folders after profile update"
+msgstr "Update Private Folders after profile update"
+
+#: templates/admin.php:368
+#, fuzzy
+msgid ""
+"Update the folder name of the user after they have updated their profile"
+msgstr ""
+"Update the folder name of the user after they have updated their profile"
+
+#: templates/admin.php:370
+#, fuzzy
+msgid "Remove Private Folders after account removal"
+msgstr "Remove Private Folders after account removal"
+
+#: templates/admin.php:377
+#, fuzzy
+msgid "Try to remove Private Folders after they are deleted"
+msgstr "Try to remove Private Folders after they are deleted"
+
+#: templates/admin.php:379
+#, fuzzy
+msgid "Private Folders in Back-End"
+msgstr "Private Folders in Back-End"
+
+#: templates/admin.php:380
+#, fuzzy
+msgid ""
+"Enables Private Folders in the Shortcode Builder and Back-End File Browser"
+msgstr ""
+"Enables Private Folders in the Shortcode Builder and Back-End File Browser"
+
+#: templates/admin.php:383
+#, fuzzy
+msgid "Yes, I link the users Manually"
+msgstr "Yes, I link the users Manually"
+
+#: templates/admin.php:384
+#, fuzzy
+msgid "Yes, let the plugin create the User Folders for me"
+msgstr "Yes, let the plugin create the User Folders for me"
+
+#: templates/admin.php:387
+msgid ""
+"This setting only restrict access of the File Browsers in the Admin "
+"Dashboard (e.g. the one in the Shortcode Builder). To enable Private Folders "
+"for your own Shortcodes, use the Shortcode Builder"
+msgstr ""
+
+#: templates/admin.php:396
+msgid "Root folder for Private Folders"
+msgstr ""
+
+#: templates/admin.php:397
+msgid "Select in which folder the Private Folders should be created"
+msgstr ""
+
+#: templates/admin.php:397
+msgid "Current selected folder"
+msgstr ""
+
+#: templates/admin.php:412
+#, fuzzy
+msgid "Select Folder"
+msgstr "Select folder"
+
+#: templates/admin.php:437 templates/tinymce_popup.php:401
+#, fuzzy
+msgid "Full Access"
+msgstr "Full Access"
+
+#: templates/admin.php:438 templates/tinymce_popup.php:402
+#, fuzzy
+msgid ""
+"By default only Administrator users will be able to navigate through all "
+"Private Folders"
+msgstr ""
+"By default only Administrator users will be able to navigate through all "
+"Private Folders"
+
+#: templates/admin.php:438 templates/tinymce_popup.php:402
+#, fuzzy
+msgid ""
+"When you want other User Roles to be able do browse to the Private Folders "
+"as well, please check them below"
+msgstr ""
+"When you want other User Roles to be able do browse to the Private Folders "
+"as well, please check them below"
+
+#: templates/admin.php:452
+#, fuzzy
+msgid "Name Template"
+msgstr "Name Template"
+
+#: templates/admin.php:453
+#, fuzzy
+msgid ""
+"Template name for automatically created Private Folders. You can use <code>"
+"%user_login%</code>, <code>%user_email%</code>, <code>%display_name%</code>, "
+"<code>%ID%</code>, <code>%user_role%</code>, <code>%jjjj-mm-dd%</code>"
+msgstr ""
+"Template name for automatically created Private Folders. You can use <code>"
+"%user_login%</code>, <code>%user_email%</code>, <code>%display_name%</code>, "
+"<code>%ID%</code>, <code>%user_role%</code>, <code>%jjjj-mm-dd%</code>"
+
+#: templates/admin.php:464
+#, fuzzy
+msgid "\"Lost Authorization\" notification"
+msgstr "\"Lost Authorization\" notification"
+
+#: templates/admin.php:465
+#, fuzzy
+msgid ""
+"If the plugin somehow loses its authorization, a notification email will be "
+"send to the following email address"
+msgstr ""
+"If the plugin somehow loses its authorization, a notification email will be "
+"send to the following email address"
+
+#: templates/admin.php:468
+#, fuzzy
+msgid "Own Google App"
+msgstr "Own Google App"
+
+#: templates/admin.php:481
+#, fuzzy
+msgid ""
+"If you encounter any issues when trying to use your own App with Use-your-"
+"Drive, please fall back on the default App by disabling this setting"
+msgstr ""
+"If you encounter any issues when trying to use your own App with Use-your-"
+"Drive, please fall back on the default App by disabling this setting"
+
+#: templates/admin.php:485
+#, fuzzy
+msgid "Google Client ID"
+msgstr "Google Client ID"
+
+#: templates/admin.php:486
+#, fuzzy
+msgid ""
+"<strong>Only</strong> if you want to use your own App, insert your Google "
+"App  Client ID here"
+msgstr ""
+"<strong>Only</strong> if you want to use your own App, insert your Google "
+"App  Client ID here"
+
+#: templates/admin.php:487 templates/admin.php:491
+#, fuzzy
+msgid "Leave empty for easy setup"
+msgstr "Leave empty for easy setup"
+
+#: templates/admin.php:489
+#, fuzzy
+msgid "Google Client Secret"
+msgstr "Google Client Secret"
+
+#: templates/admin.php:490
+#, fuzzy
+msgid ""
+"If you want to use your own App, insert your Google App Client secret here"
+msgstr ""
+"If you want to use your own App, insert your Google App Client secret here"
+
+#: templates/admin.php:494
+#, fuzzy
+msgid "OAuth 2.0 Redirect URI"
+msgstr "OAuth 2.0 Redirect URI"
+
+#: templates/admin.php:495
+#, fuzzy
+msgid "Set the redirect URI in your application to the following"
+msgstr "Set the redirect URI in your application to the following"
+
+#: templates/admin.php:501
+#, fuzzy
+msgid ""
+"Enter Client ID and Secret, save settings and reload the page to see the "
+"Redirect URI you will need"
+msgstr ""
+"Enter Client ID and Secret, save settings and reload the page to see the "
+"Redirect URI you will need"
+
+#: templates/admin.php:512
+#, fuzzy
+msgid "Using Google G Suite?"
+msgstr "Using Google G Suite?"
+
+#: templates/admin.php:521
+#, fuzzy
+msgid "Your Google G Suite Domain"
+msgstr "Your Google G Suite Domain"
+
+#: templates/admin.php:522
+#, fuzzy
+msgid ""
+"If you have a Google G Suite Domain and you want to share your documents "
+"ONLY with users having an account in your G Suite Domain, please insert your "
+"domain. If you want your documents to be accessible to the public, leave "
+"this setting empty."
+msgstr ""
+"If you have a Google G Suite Domain and you want to share your documents "
+"ONLY with users having an account in your G Suite Domain, please insert your "
+"domain. If you want your documents to be accessible to the public, leave "
+"this setting empty."
+
+#: templates/admin.php:525
+msgid "Enable Team Drives"
+msgstr ""
+
+#: templates/admin.php:534
+#, fuzzy
+msgid "Manage Permission"
+msgstr "Manage Permission"
+
+#: templates/admin.php:540
+#, fuzzy
+msgid ""
+"If you want your to manage the sharing permissions by yourself or if you "
+"want users to login to Google, disabled the -Manage Permissions- function."
+msgstr ""
+"If you want your to manage the sharing permissions by yourself or if you "
+"want users to login to Google, disabled the -Manage Permissions- function."
+
+#: templates/admin.php:543
+msgid "Load Javascripts on all pages"
+msgstr ""
+
+#: templates/admin.php:549
+msgid ""
+"By default the plugin will only load it scripts when the shortcode is "
+"present on the page. If you are dynamically loading content via AJAX calls "
+"and the plugin does not show up, please enable this setting"
+msgstr ""
+
+#: templates/admin.php:553
+#, fuzzy
+msgid "Enable Gzip compression"
+msgstr "Enable Gzip compression"
+
+#: templates/admin.php:561
+#, fuzzy
+msgid ""
+"Enables gzip-compression if the visitor's browser can handle it. This will "
+"increase the performance of the plugin if you are displaying large amounts "
+"of files and it reduces bandwidth usage as well. It uses the PHP "
+"<code>ob_gzhandler()</code> callback. Please use this setting with caution. "
+"Always test if the plugin still works on the Front-End as some servers are "
+"already configured to gzip content!"
+msgstr ""
+"Enables gzip-compression if the visitor's browser can handle it. This will "
+"increase the performance of the plugin if you are displaying large amounts "
+"of files and it reduces bandwidth usage as well. It uses the PHP "
+"<code>ob_gzhandler()</code> callback. Please use this setting with caution. "
+"Always test if the plugin still works on the Front-End as some servers are "
+"already configured to gzip content!"
+
+#: templates/admin.php:565
+#, fuzzy
+msgid "File Based Cache"
+msgstr "File Based Cache"
+
+#: templates/admin.php:566
+#, fuzzy
+msgid "Database Based Cache"
+msgstr "Database Based Cache"
+
+#: templates/admin.php:570
+msgid "Nonce Validation"
+msgstr ""
+
+#: templates/admin.php:576
+msgid ""
+"The plugin uses, among others, the WordPress Nonce system to protect you "
+"against several types of attacks including CSRF. Disable this in case you "
+"are encountering a conflict with a plugin that alters this system"
+msgstr ""
+
+#: templates/admin.php:581
+msgid "Syncronize via WP-Cron"
+msgstr ""
+
+#: templates/admin.php:587
+msgid ""
+"Use WP-Cron to synchronize the cache of the plugin with the linked cloud "
+"account. If you are using tens of shortcodes and encounter performance "
+"issues, try to disable this setting"
+msgstr ""
+
+#: templates/admin.php:589
+msgid ""
+"As WP-Cron does not run continuously, you can increase the loading "
+"performance by creating a Cron job via your server configuration panel!"
+msgstr ""
+
+#: templates/admin.php:589
+msgid "More information"
+msgstr ""
+
+#: templates/admin.php:592
+#, fuzzy
+msgid "Download method"
+msgstr "Download method"
+
+#: templates/admin.php:593
+#, fuzzy
+msgid ""
+"Select the method that should be used to download your files. Default is to "
+"redirect the user to a temporarily url on Google Server. If you want to use "
+"your server as a proxy to the Google Server just set it to Download via "
+"Server"
+msgstr ""
+"Select the method that should be used to download your files. Default is to "
+"redirect the user to a temporarily url on Google Server. If you want to use "
+"your server as a proxy to the Google Server just set it to Download via "
+"Server"
+
+#: templates/admin.php:595
+msgid "Redirect to download url (fast)"
+msgstr ""
+
+#: templates/admin.php:596
+#, fuzzy
+msgid "Use your Server as proxy (slow)"
+msgstr "Use your Server as proxy (slow)"
+
+#: templates/admin.php:599
+#, fuzzy
+msgid "Shortlinks API"
+msgstr "Shortlinks API"
+
+#: templates/admin.php:600
+#, fuzzy
+msgid "Select which Url Shortener Service you want to use"
+msgstr "Select which Url Shortener Service you want to use"
+
+#: templates/admin.php:611
+msgid "Sign up for Shorte.st"
+msgstr ""
+
+#: templates/admin.php:613
+msgid "API token"
+msgstr ""
+
+#: templates/admin.php:618
+#, fuzzy
+msgid "Sign up for Bitly"
+msgstr "Sign up for Bitly"
+
+#: templates/admin.php:620
+#, fuzzy
+msgid "Bitly login"
+msgstr "Bitly login"
+
+#: templates/admin.php:623
+#, fuzzy
+msgid "Bitly apiKey"
+msgstr "Bitly apiKey"
+
+#: templates/admin.php:628
+msgid "Sign up for Rebrandly"
+msgstr ""
+
+#: templates/admin.php:630
+msgid "Rebrandly apiKey"
+msgstr ""
+
+#: templates/admin.php:633
+msgid "Rebrandly Domain (optional)"
+msgstr ""
+
+#: templates/admin.php:648
+msgid "Download Notifications"
+msgstr ""
+
+#: templates/admin.php:650
+#, fuzzy
+msgid "Subject download notification"
+msgstr "Subject download notification"
+
+#: templates/admin.php:652 templates/admin.php:656 templates/admin.php:669
+#: templates/admin.php:678 templates/admin.php:691 templates/admin.php:700
+#: templates/admin.php:714 templates/admin.php:732
+#, fuzzy
+msgid "Available placeholders"
+msgstr "Available placeholders"
+
+#: templates/admin.php:654
+#, fuzzy
+msgid "Subject zip notification"
+msgstr "Subject zip notification"
+
+#: templates/admin.php:658
+#, fuzzy
+msgid "Template download"
+msgstr "Template download"
+
+#: templates/admin.php:674
+msgid "Upload Notifications"
+msgstr ""
+
+#: templates/admin.php:676
+#, fuzzy
+msgid "Subject upload notification"
+msgstr "Subject upload notification"
+
+#: templates/admin.php:680
+#, fuzzy
+msgid "Template upload"
+msgstr "Template upload"
+
+#: templates/admin.php:696
+msgid "Delete Notifications"
+msgstr ""
+
+#: templates/admin.php:698
+#, fuzzy
+msgid "Subject deletion notification"
+msgstr "Subject deletion notification"
+
+#: templates/admin.php:702
+#, fuzzy
+msgid "Template deletion"
+msgstr "Template deletion"
+
+#: templates/admin.php:720
+msgid "Template %filelist% placeholder"
+msgstr ""
+
+#: templates/admin.php:721
+msgid ""
+"Template for File item in File List in the download/upload/delete "
+"notification template"
+msgstr ""
+
+#: templates/admin.php:744
+#, fuzzy
+msgid "Change Plugin Settings"
+msgstr "Change Plugin Settings"
+
+#: templates/admin.php:749
+#, fuzzy
+msgid "Link Users to Private Folders"
+msgstr "Link Users to Private Folders"
+
+#: templates/admin.php:754
+msgid "See Reports"
+msgstr ""
+
+#: templates/admin.php:759
+#, fuzzy
+msgid "See Back-End Filebrowser"
+msgstr "See Back-End Filebrowser"
+
+#: templates/admin.php:764
+#, fuzzy
+msgid "Add Plugin Shortcodes"
+msgstr "Add Plugin Shortcodes"
+
+#: templates/admin.php:769
+#, fuzzy
+msgid "Add Direct Links"
+msgstr "Add Direct Links"
+
+#: templates/admin.php:774
+#, fuzzy
+msgid "Embed Documents"
+msgstr "Embed Documents"
+
+#: templates/admin.php:788
+#, fuzzy
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: templates/admin.php:795
+#, fuzzy
+msgid ""
+"Would you like to see some statistics about your files? Use-your-Drive can "
+"send all download/upload events to Google Analytics"
+msgstr ""
+" Would you like to see some statistics about your files? Use-your-Drive can "
+"send all download/upload events to Google Analytics"
+
+#: templates/admin.php:795
+#, fuzzy
+msgid ""
+"If you enable this feature, please make sure you already added your <a "
+"href='https://support.google.com/analytics/answer/1008080?hl=en'>Google "
+"Analytics web tracking</a> code to your site."
+msgstr ""
+"If you enable this feature, please make sure you already added your <a "
+"href='https://support.google.com/analytics/answer/1008080?hl=en'>Google "
+"Analytics web tracking</a> code to your site."
+
+#: templates/admin.php:810
+#, fuzzy
+msgid "Support & Documentation"
+msgstr "Support & Documentation"
+
+#: templates/admin.php:812
+msgid ""
+"Check the documentation of the plugin in case you encounter any problems or "
+"are looking for support."
+msgstr ""
+
+#: templates/admin.php:813
+msgid "Open Documentation"
+msgstr ""
+
+#: templates/admin.php:883
+msgid "Select your image"
+msgstr ""
+
+#: templates/admin.php:885
+msgid "Use this Image"
+msgstr ""
+
+#: templates/admin_dashboard.php:15
+msgid "Total Previews"
+msgstr ""
+
+#: templates/admin_dashboard.php:28
+msgid "Total Downloads"
+msgstr ""
+
+#: templates/admin_dashboard.php:40
+msgid "Items Shared"
+msgstr ""
+
+#: templates/admin_dashboard.php:52
+msgid "Documents Uploaded"
+msgstr ""
+
+#: templates/admin_dashboard.php:65
+msgid "From"
+msgstr ""
+
+#: templates/admin_dashboard.php:67
+msgid "to"
+msgstr ""
+
+#: templates/admin_dashboard.php:70
+msgid "Events per Day"
+msgstr ""
+
+#: templates/admin_dashboard.php:80
+msgid "Top 25 Downloads"
+msgstr ""
+
+#: templates/admin_dashboard.php:85
+#, fuzzy
+msgid "Document"
+msgstr ""
+"In some occasions the API will not be able make a preview of a document "
+"while the Google Doc Viewer is able to create one. Or, if the User does not "
+"have Download permissions, the Google Doc viewer can provide a Preview Only "
+"view"
+
+#: templates/admin_dashboard.php:86
+msgid "Total"
+msgstr ""
+
+#: templates/admin_dashboard.php:95
+msgid "Top 25 Users with most Downloads"
+msgstr ""
+
+#: templates/admin_dashboard.php:110
+msgid "All Events"
+msgstr ""
+
+#: templates/admin_dashboard.php:115 templates/admin_dashboard.php:199
+#, fuzzy
+msgid "Description"
+msgstr "No description"
+
+#: templates/admin_dashboard.php:116 templates/admin_dashboard.php:200
+#, fuzzy
+msgid "Date"
+msgstr "Show last modified date"
+
+#: templates/admin_dashboard.php:117 templates/admin_dashboard.php:201
+msgid "Event"
+msgstr ""
+
+#: templates/admin_dashboard.php:120 templates/admin_dashboard.php:204
+msgid "Location"
+msgstr ""
+
+#: templates/admin_dashboard.php:121 templates/admin_dashboard.php:205
+#, fuzzy
+msgid "Page"
+msgstr "Please browse to the page to see this content"
+
+#: templates/admin_dashboard.php:122 templates/admin_dashboard.php:206
+msgid "Extra"
+msgstr ""
+
+#: templates/admin_dashboard.php:136
+msgid "Visit Profile"
+msgstr ""
+
+#: templates/admin_dashboard.php:194
+msgid "Logged Events"
+msgstr ""
+
+#: templates/frontend.php:8 templates/gallery.php:8
+#, fuzzy
+msgid "Back to our first folder"
+msgstr "Back to our first folder"
+
+#: templates/frontend.php:12 templates/gallery.php:12
+#, fuzzy
+msgid "Loading..."
+msgstr "Loading..."
+
+#: templates/frontend.php:24 templates/gallery.php:24
+#, fuzzy
+msgid "Search filenames"
+msgstr "Search filenames"
+
+#: templates/frontend.php:24 templates/gallery.php:24
+#, fuzzy
+msgid "and within contents"
+msgstr "and within contents"
+
+#: templates/frontend.php:27 templates/gallery.php:31
+#, fuzzy
+msgid "Options"
+msgstr "Options"
+
+#: templates/frontend.php:32 templates/frontend.php:33
+msgid "Thumbnails view"
+msgstr ""
+
+#: templates/frontend.php:36 templates/frontend.php:37
+#, fuzzy
+msgid "List view"
+msgstr "List View"
+
+#: templates/frontend.php:49 templates/gallery.php:45
+#, fuzzy
+msgid "Download all"
+msgstr "Download all files"
+
+#: templates/frontend.php:50 templates/gallery.php:46
+#, fuzzy
+msgid "Download selected"
+msgstr "Download selected files"
+
+#: templates/frontend.php:55 templates/gallery.php:51
+#, fuzzy
+msgid "Delete selected"
+msgstr "Delete selected files"
+
+#: templates/frontend.php:60
+#, fuzzy
+msgid "Share folder"
+msgstr "Share folder"
+
+#: templates/frontend.php:64 templates/gallery.php:55
+#, fuzzy
+msgid "No options..."
+msgstr "No options..."
+
+#: templates/frontend.php:71 templates/gallery.php:63
+#, fuzzy
+msgid "Refresh"
+msgstr "Refresh"
+
+#: templates/frontend.php:91 templates/tinymce_popup.php:676
+#, fuzzy
+msgid "Size"
+msgstr "Size"
+
+#: templates/frontend.php:97 templates/tinymce_popup.php:680
+#, fuzzy
+msgid "Date modified"
+msgstr "Date modified"
+
+#: templates/noaccess.php:6
+#, fuzzy
+msgid "Your account doesn't have the right permissions to use this"
+msgstr "Your account doesn't have the right permissions to use this"
+
+#: templates/noaccess.php:6
+#, fuzzy
+msgid "Contact the webmaster if you would like to have access"
+msgstr "Contact the webmaster if you would like to have access"
+
+#: templates/search.php:5
+msgid "Search for files"
+msgstr ""
+
+#: templates/search.php:5
+#, fuzzy
+msgid "and content"
+msgstr "ERROR: Contact the Administrator to see this content"
+
+#: templates/tinymce_popup.php:89
+#, fuzzy
+msgid "Insert direct Links"
+msgstr "Insert direct Links"
+
+#: templates/tinymce_popup.php:92
+#, fuzzy
+msgid "Embed files"
+msgstr "Embed files"
+
+#: templates/tinymce_popup.php:124 templates/tinymce_popup.php:126
+#, fuzzy
+msgid "Get raw Shortcode"
+msgstr "Get raw Shortcode"
+
+#: templates/tinymce_popup.php:124
+msgid "Create Shortcode"
+msgstr ""
+
+#: templates/tinymce_popup.php:126
+#, fuzzy
+msgid "Raw"
+msgstr "Raw"
+
+#: templates/tinymce_popup.php:127 templates/tinymce_popup.php:134
+#: templates/tinymce_popup.php:136 templates/tinymce_popup.php:138
+#, fuzzy
+msgid "Insert Shortcode"
+msgstr "Insert Shortcode"
+
+#: templates/tinymce_popup.php:130
+#, fuzzy
+msgid "Insert Links"
+msgstr "Insert Links"
+
+#: templates/tinymce_popup.php:132
+#, fuzzy
+msgid "Embed Files"
+msgstr "Embed Files"
+
+#: templates/tinymce_popup.php:149
+#, fuzzy
+msgid "Please note that the embedded files need to be public (with link)"
+msgstr "Please note that the embedded files need to be public (with link)"
+
+#: templates/tinymce_popup.php:193
+#, fuzzy
+msgid "Shortcode Settings"
+msgstr "Shortcode Settings"
+
+#: templates/tinymce_popup.php:196 templates/tinymce_popup.php:259
+#, fuzzy
+msgid "Folders"
+msgstr "Folders"
+
+#: templates/tinymce_popup.php:197 templates/tinymce_popup.php:416
+#, fuzzy
+msgid "Media Files"
+msgstr "Media Files"
+
+#: templates/tinymce_popup.php:199 templates/tinymce_popup.php:664
+#, fuzzy
+msgid "Sorting"
+msgstr "Sorting"
+
+#: templates/tinymce_popup.php:201 templates/tinymce_popup.php:768
+#, fuzzy
+msgid "Exclusions"
+msgstr "Exclusions"
+
+#: templates/tinymce_popup.php:202 templates/tinymce_popup.php:224
+#: templates/tinymce_popup.php:792
+#, fuzzy
+msgid "Upload Box"
+msgstr "Upload Box"
+
+#: templates/tinymce_popup.php:204 templates/tinymce_popup.php:1043
+#, fuzzy
+msgid "File Manipulation"
+msgstr "File Manipulation"
+
+#: templates/tinymce_popup.php:205 templates/tinymce_popup.php:325
+#: templates/tinymce_popup.php:800 templates/tinymce_popup.php:1103
+#: templates/tinymce_popup.php:1110
+#, fuzzy
+msgid "User Permissions"
+msgstr "User Permissions"
+
+#: templates/tinymce_popup.php:216
+#, fuzzy
+msgid "Plugin Mode"
+msgstr "Plugin Mode"
+
+#: templates/tinymce_popup.php:217
+#, fuzzy
+msgid "Select how you want to use Use-your-Drive in your post or page"
+msgstr "Select how you want to use Use-your-Drive in your post or page"
+
+#: templates/tinymce_popup.php:220
+#, fuzzy
+msgid "File browser"
+msgstr "File browser"
+
+#: templates/tinymce_popup.php:229
+#, fuzzy
+msgid "Photo gallery"
+msgstr "Photo gallery"
+
+#: templates/tinymce_popup.php:233
+#, fuzzy
+msgid "Audio player"
+msgstr "Audio player"
+
+#: templates/tinymce_popup.php:237
+#, fuzzy
+msgid "Video player"
+msgstr "Video player"
+
+#: templates/tinymce_popup.php:241
+msgid "Search Box"
+msgstr ""
+
+#: templates/tinymce_popup.php:248
+msgid ""
+"Don't forget to check the Upload Permissions on the User Permissions tab"
+msgstr ""
+
+#: templates/tinymce_popup.php:248
+msgid "By default, only logged-in users can upload files"
+msgstr ""
+
+#: templates/tinymce_popup.php:261
+#, fuzzy
+msgid "Select start Folder"
+msgstr "Select start Folder"
+
+#: templates/tinymce_popup.php:262
+#, fuzzy
+msgid ""
+"Select which folder should be used as starting point, or in case the Smart "
+"Client Area is enabled should be used for the Private Folders"
+msgstr ""
+"Select which folder should be used as starting point, or in case the Smart "
+"Client Area is enabled should be used for the Private Folders "
+
+#: templates/tinymce_popup.php:262
+#, fuzzy
+msgid "Users will not be able to navigate outside this folder"
+msgstr "Users will not be able to navigate outside this folder"
+
+#: templates/tinymce_popup.php:313
+#, fuzzy
+msgid "Smart Client Area"
+msgstr "Smart Client Area"
+
+#: templates/tinymce_popup.php:315
+#, fuzzy
+msgid "Use Private Folders"
+msgstr "Use Private Folders"
+
+#: templates/tinymce_popup.php:323
+#, fuzzy, php-format
+msgid ""
+"The plugin can easily and securily share documents on your %s with your "
+"users/clients"
+msgstr ""
+"The plugin can easily and securily share documents on your %s with your "
+"users/clients"
+
+#: templates/tinymce_popup.php:324
+#, fuzzy
+msgid ""
+"This allows your clients to preview, download and manage their documents in "
+"their own private folder"
+msgstr ""
+"This allows your clients to preview, download and manage their documents in "
+"their own private folder"
+
+#: templates/tinymce_popup.php:325
+#, fuzzy, php-format
+msgid "Specific permissions can always be set via %s"
+msgstr "Specific permissions can always be set via %s"
+
+#: templates/tinymce_popup.php:327
+#, fuzzy
+msgid "The Smart Client Area can be useful in some situations, for example"
+msgstr "The Smart Client Area can be useful in some situations, for example"
+
+#: templates/tinymce_popup.php:329
+#, fuzzy
+msgid "You want to share documents with your clients privately"
+msgstr "You want to share documents with your clients privately"
+
+#: templates/tinymce_popup.php:330
+#, fuzzy
+msgid "You want your clients, users or guests upload files to their own folder"
+msgstr ""
+"You want your clients, users or guests upload files to their own folder"
+
+#: templates/tinymce_popup.php:331
+#, fuzzy
+msgid ""
+"You want to give your customers a private folder already filled with some "
+"files directly after they register"
+msgstr ""
+"You want to give your customers a private folder already filled with some "
+"files directly after they register"
+
+#: templates/tinymce_popup.php:337
+#, fuzzy
+msgid "Mode"
+msgstr "Mode"
+
+#: templates/tinymce_popup.php:338
+#, fuzzy
+msgid ""
+"Do you want to link your users manually to their private or should the "
+"plugin handle this automatically for you"
+msgstr ""
+"Do you want to link your users manually to their private or should the "
+"plugin handle this automatically for you"
+
+#: templates/tinymce_popup.php:348
+#, fuzzy, php-format
+msgid "I will link the users manually via %sthis page%s"
+msgstr "I will link the users manually via %sthis page%s"
+
+#: templates/tinymce_popup.php:352
+#, fuzzy
+msgid ""
+"Let the plugin automatically manage the Private Folders for me in the folder "
+"I have selected above"
+msgstr ""
+"Let the plugin automatically manage the Private Folders for me in the folder "
+"I have selected above"
+
+#: templates/tinymce_popup.php:356
+#, fuzzy
+msgid "Template Folder"
+msgstr "Template Folder"
+
+#: templates/tinymce_popup.php:363
+#, fuzzy
+msgid ""
+"Newly created Private Folders can be prefilled with files from a template "
+"template"
+msgstr ""
+"Newly created Private Folders can be prefilled with files from a template "
+"template"
+
+#: templates/tinymce_popup.php:363
+#, fuzzy
+msgid ""
+"The content of the template folder selected will be copied to the user folder"
+msgstr ""
+"The content of the template folder selected will be copied to the user folder"
+
+#: templates/tinymce_popup.php:419 templates/tinymce_popup.php:433
+#, fuzzy
+msgid "Provided formats"
+msgstr "Provided formats"
+
+#: templates/tinymce_popup.php:420 templates/tinymce_popup.php:434
+#, fuzzy
+msgid "Select which sort of media files you will provide"
+msgstr "Select which sort of media files you will provide"
+
+#: templates/tinymce_popup.php:420 templates/tinymce_popup.php:434
+#, fuzzy
+msgid ""
+"You may provide the same file with different extensions to increase cross-"
+"browser support"
+msgstr ""
+"You may provide the same file with different extensions to increase cross-"
+"browser support"
+
+#: templates/tinymce_popup.php:420 templates/tinymce_popup.php:434
+#, fuzzy
+msgid ""
+"Do always supply a mp3 (audio) or m4v/mp4 (video)file to support all browsers"
+msgstr ""
+"Do always supply a mp3 (audio) or m4v/mp4 (video)file to support all browsers"
+
+#: templates/tinymce_popup.php:446
+#, fuzzy
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: templates/tinymce_popup.php:453
+#, fuzzy
+msgid "Show Playlist on start"
+msgstr "Show Playlist on start"
+
+#: templates/tinymce_popup.php:461
+#, fuzzy
+msgid "Display covers"
+msgstr "Display covers"
+
+#: templates/tinymce_popup.php:467
+#, fuzzy
+msgid "You can show covers of your audio files in the Audio Player"
+msgstr "You can show covers of your audio files in the Audio Player"
+
+#: templates/tinymce_popup.php:467
+#, fuzzy
+msgid ""
+"Add a *.png or *.jpg file with the same name as your audio file in the same "
+"folder as your audio files. You can also add a cover with the name of the "
+"folder to show the cover for all audio files in the album"
+msgstr ""
+"Add a *.png or *.jpg file with the same name as your audio file in the same "
+"folder as your audio files. You can also add a cover with the name of the "
+"folder to show the cover for all audio files in the album"
+
+#: templates/tinymce_popup.php:467
+#, fuzzy
+msgid "If no cover is available, a placeholder will be used"
+msgstr "If no cover is available, a placeholder will be used"
+
+#: templates/tinymce_popup.php:471
+#, fuzzy
+msgid "Download Button"
+msgstr "Download Button"
+
+#: templates/tinymce_popup.php:478
+#, fuzzy
+msgid "Purchase Button"
+msgstr "Purchase Button"
+
+#: templates/tinymce_popup.php:487
+#, fuzzy
+msgid "Link to webshop"
+msgstr "Link to webshop"
+
+#: templates/tinymce_popup.php:499
+#, fuzzy
+msgid "Plugin container width"
+msgstr "Plugin container width"
+
+#: templates/tinymce_popup.php:500
+#, fuzzy
+msgid "Set max width for the Use-your-Drive container"
+msgstr "Set max width for the Use-your-Drive container"
+
+#: templates/tinymce_popup.php:500 templates/tinymce_popup.php:506
+#, fuzzy
+msgid "You can use pixels or percentages, eg '360px', '480px', '70%'"
+msgstr "You can use pixels or percentages, eg '360px', '480px', '70%'"
+
+#: templates/tinymce_popup.php:500 templates/tinymce_popup.php:506
+#: templates/tinymce_popup.php:627
+#, fuzzy
+msgid "Leave empty for default value"
+msgstr "Leave empty for default value"
+
+#: templates/tinymce_popup.php:505
+#, fuzzy
+msgid "Plugin container height"
+msgstr "Plugin container height"
+
+#: templates/tinymce_popup.php:506
+#, fuzzy
+msgid "Set max height for the Use-your-Drive container"
+msgstr "Set max height for the Use-your-Drive container"
+
+#: templates/tinymce_popup.php:510
+msgid "Custom CSS Class"
+msgstr ""
+
+#: templates/tinymce_popup.php:511
+msgid ""
+"Add your own custom classes to the plugin container. Multiple classes can be "
+"added seperated by a whitespace"
+msgstr ""
+
+#: templates/tinymce_popup.php:515
+#, fuzzy
+msgid "File Browser view"
+msgstr "File Browser view"
+
+#: templates/tinymce_popup.php:521
+#, fuzzy
+msgid "Grid/Thumbnail View"
+msgstr "Grid/Thumbnail View"
+
+#: templates/tinymce_popup.php:525
+#, fuzzy
+msgid "List View"
+msgstr "List View"
+
+#: templates/tinymce_popup.php:530
+#, fuzzy
+msgid "Show header"
+msgstr "Show header"
+
+#: templates/tinymce_popup.php:538
+#, fuzzy
+msgid "Show refresh button"
+msgstr "Show refresh button"
+
+#: templates/tinymce_popup.php:544
+#, fuzzy
+msgid ""
+"Add a refresh button in the header so users can refresh the file list and "
+"pull changes"
+msgstr ""
+"Add a refresh button in the header so users can refresh the file list and "
+"pull changes"
+
+#: templates/tinymce_popup.php:546
+#, fuzzy
+msgid "Breadcrumb text for top folder"
+msgstr "Breadcrumb text for top folder"
+
+#: templates/tinymce_popup.php:552
+#, fuzzy
+msgid "Show columnnames"
+msgstr "Show columnnames"
+
+#: templates/tinymce_popup.php:558
+#, fuzzy
+msgid ""
+"Display the columnnames of the date and filesize in the List View of the "
+"File Browser"
+msgstr ""
+"Display the columnnames of the date and filesize in the List View of the "
+"File Browser"
+
+#: templates/tinymce_popup.php:562
+#, fuzzy
+msgid "Show file size"
+msgstr "Show file size"
+
+#: templates/tinymce_popup.php:568
+#, fuzzy
+msgid "Display or Hide column with file sizes in List view"
+msgstr "Display or Hide column with file sizes in List view"
+
+#: templates/tinymce_popup.php:572
+#, fuzzy
+msgid "Show last modified date"
+msgstr "Show last modified date"
+
+#: templates/tinymce_popup.php:578
+#, fuzzy
+msgid "Display or Hide column with last modified date in List view"
+msgstr "Display or Hide column with last modified date in List view"
+
+#: templates/tinymce_popup.php:584
+#, fuzzy
+msgid "Show file extension"
+msgstr "Show file extension"
+
+#: templates/tinymce_popup.php:590
+#, fuzzy
+msgid "Display or Hide the file extensions"
+msgstr "Display or Hide the file extensions"
+
+#: templates/tinymce_popup.php:592
+#, fuzzy
+msgid "Show files"
+msgstr "Show files"
+
+#: templates/tinymce_popup.php:598
+#, fuzzy
+msgid "Display or Hide files"
+msgstr "Display or Hide files"
+
+#: templates/tinymce_popup.php:601
+#, fuzzy
+msgid "Show folders"
+msgstr "Show folders"
+
+#: templates/tinymce_popup.php:607
+#, fuzzy
+msgid "Display or Hide child folders"
+msgstr "Display or Hide child folders"
+
+#: templates/tinymce_popup.php:610
+#, fuzzy
+msgid "Amount of files"
+msgstr "Amount of files"
+
+#: templates/tinymce_popup.php:612
+#, fuzzy
+msgid "Number of files to show"
+msgstr "Number of files to show"
+
+#: templates/tinymce_popup.php:612
+#, fuzzy
+msgid "Can be used for instance to only show the last 5 updated documents"
+msgstr "Can be used for instance to only show the last 5 updated documents"
+
+#: templates/tinymce_popup.php:612
+#, fuzzy
+msgid "Leave this field empty or set it to -1 for no limit"
+msgstr "Leave this field empty or set it to -1 for no limit"
+
+#: templates/tinymce_popup.php:618
+msgid "Show file names"
+msgstr ""
+
+#: templates/tinymce_popup.php:624
+msgid "Display or Hide the file names in the gallery"
+msgstr ""
+
+#: templates/tinymce_popup.php:626
+#, fuzzy
+msgid "Gallery row height"
+msgstr "Gallery row height"
+
+#: templates/tinymce_popup.php:627
+#, fuzzy
+msgid "The ideal height you want your grid rows to be"
+msgstr "The ideal height you want your grid rows to be"
+
+#: templates/tinymce_popup.php:627
+#, fuzzy
+msgid ""
+"It won't set it exactly to this as plugin adjusts the row height to get the "
+"correct width"
+msgstr ""
+"It won't set it exactly to this as plugin adjusts the row height to get the "
+"correct width"
+
+#: templates/tinymce_popup.php:630
+#, fuzzy
+msgid "Number of images lazy loaded"
+msgstr "Number of images lazy loaded"
+
+#: templates/tinymce_popup.php:631
+#, fuzzy
+msgid "Number of images to be loaded each time"
+msgstr "Number of images to be loaded each time"
+
+#: templates/tinymce_popup.php:631
+#, fuzzy
+msgid "Set to 0 to load all images at once"
+msgstr "Set to 0 to load all images at once"
+
+#: templates/tinymce_popup.php:635
+#, fuzzy
+msgid "Show Folder Thumbnails in Gallery"
+msgstr "Show Folder Thumbnails in Gallery"
+
+#: templates/tinymce_popup.php:641
+#, fuzzy
+msgid "Do you want to show thumbnails for the Folders in the gallery mode?"
+msgstr "Do you want to show thumbnails for the Folders in the gallery mode?"
+
+#: templates/tinymce_popup.php:641
+#, fuzzy
+msgid ""
+"Please note, when enabled the loading performance can drop proportional to "
+"the number of folders present in the Gallery"
+msgstr ""
+"Please note, when enabled the loading performance can drop proportional to "
+"the number of folders present in the Gallery"
+
+#: templates/tinymce_popup.php:644
+#, fuzzy
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: templates/tinymce_popup.php:652
+#, fuzzy
+msgid "Enable or disable the Slideshow mode in the Lightbox"
+msgstr "Enable or disable the Slideshow mode in the Lightbox"
+
+#: templates/tinymce_popup.php:653
+#, fuzzy
+msgid "Delay between cycles (ms)"
+msgstr "Delay between cycles (ms)"
+
+#: templates/tinymce_popup.php:654
+#, fuzzy
+msgid "Delay between cycles in milliseconds, the default is 5000"
+msgstr "Delay between cycles in milliseconds, the default is 5000"
+
+#: templates/tinymce_popup.php:666
+#, fuzzy
+msgid "Sort field"
+msgstr "Sort field"
+
+#: templates/tinymce_popup.php:684
+#, fuzzy
+msgid "Shuffle/Random"
+msgstr "Shuffle/Random"
+
+#: templates/tinymce_popup.php:688
+#, fuzzy
+msgid "Sort order"
+msgstr "Sort order"
+
+#: templates/tinymce_popup.php:695
+#, fuzzy
+msgid "Ascending"
+msgstr "Ascending"
+
+#: templates/tinymce_popup.php:699
+#, fuzzy
+msgid "Descending"
+msgstr "Descending"
+
+#: templates/tinymce_popup.php:709
+msgid "Allow Preview"
+msgstr ""
+
+#: templates/tinymce_popup.php:718
+#, fuzzy
+msgid "Inline Preview"
+msgstr "Inline Preview"
+
+#: templates/tinymce_popup.php:724
+#, fuzzy
+msgid "Open preview inside a lightbox or open in a new window"
+msgstr "Open preview inside a lightbox or open in a new window"
+
+#: templates/tinymce_popup.php:727
+#, fuzzy
+msgid "Enable Google pop out Button"
+msgstr "Enable Google pop out Button"
+
+#: templates/tinymce_popup.php:733
+#, fuzzy
+msgid ""
+"Disables the Google Pop Out button which is visible in the inline preview "
+"for a couple of file formats"
+msgstr ""
+"Disables the Google Pop Out button which is visible in the inline preview "
+"for a couple of file formats"
+
+#: templates/tinymce_popup.php:738
+#, fuzzy
+msgid "Allow Searching"
+msgstr "Allow Searching"
+
+#: templates/tinymce_popup.php:744
+#, fuzzy
+msgid ""
+"The search function allows your users to find files by filename and content "
+"(when files are indexed)"
+msgstr ""
+"The search function allows your users to find files by filename and content "
+"(when files are indexed)"
+
+#: templates/tinymce_popup.php:748
+#, fuzzy
+msgid "Perform Full-Text search"
+msgstr "Perform Full-Text search"
+
+#: templates/tinymce_popup.php:756
+#, fuzzy
+msgid "Allow ZIP Download"
+msgstr "Allow ZIP Download"
+
+#: templates/tinymce_popup.php:762
+#, fuzzy
+msgid "Allow users to download multiple files at once"
+msgstr "Allow users to download multiple files at once"
+
+#: templates/tinymce_popup.php:770
+#, fuzzy
+msgid "Only show files with those extensions"
+msgstr "Only show files with those extensions"
+
+#: templates/tinymce_popup.php:771 templates/tinymce_popup.php:779
+#: templates/tinymce_popup.php:822
+#, fuzzy
+msgid "Add extensions separated with | e.g. (jpg|png|gif)"
+msgstr "Add extensions separated with | e.g. (jpg|png|gif)"
+
+#: templates/tinymce_popup.php:771 templates/tinymce_popup.php:779
+#, fuzzy
+msgid "Leave empty to show all files"
+msgstr "Leave empty to show all files"
+
+#: templates/tinymce_popup.php:774
+#, fuzzy
+msgid "Only show the following files or folders"
+msgstr "Only show the following files or folders"
+
+#: templates/tinymce_popup.php:775 templates/tinymce_popup.php:783
+#, fuzzy
+msgid ""
+"Add files or folders by name or Google Drive ID separated with | e.g. (file1."
+"jpg|long folder name)"
+msgstr ""
+"Add files or folders by name or Google Drive ID separated with | e.g. (file1."
+"jpg|long folder name)"
+
+#: templates/tinymce_popup.php:778
+#, fuzzy
+msgid "Hide files with those extensions"
+msgstr "Hide files with those extensions"
+
+#: templates/tinymce_popup.php:782
+#, fuzzy
+msgid "Hide the following files or folders"
+msgstr "Hide the following files or folders"
+
+#: templates/tinymce_popup.php:794
+#, fuzzy
+msgid "Allow Upload"
+msgstr "Allow Upload"
+
+#: templates/tinymce_popup.php:800
+#, fuzzy
+msgid "Allow users to upload files"
+msgstr "Allow users to upload files"
+
+#: templates/tinymce_popup.php:800
+#, fuzzy, php-format
+msgid "You can select which Users Roles should be able to upload via %s"
+msgstr "You can select which Users Roles should be able to upload via %s"
+
+#: templates/tinymce_popup.php:804
+msgid "Allow folder upload"
+msgstr ""
+
+#: templates/tinymce_popup.php:810
+msgid "Adds an Add Folder button to the upload form if the browser supports it"
+msgstr ""
+
+#: templates/tinymce_popup.php:813
+#, fuzzy
+msgid "Overwrite existing files"
+msgstr "Overwrite existing files"
+
+#: templates/tinymce_popup.php:819
+#, fuzzy
+msgid "Overwrite already existing files or auto-rename the new uploaded files"
+msgstr "Overwrite already existing files or auto-rename the new uploaded files"
+
+#: templates/tinymce_popup.php:821
+#, fuzzy
+msgid "Restrict file extensions"
+msgstr "Restrict file extensions"
+
+#: templates/tinymce_popup.php:822 templates/tinymce_popup.php:826
+#, fuzzy
+msgid "Leave empty for no restricion"
+msgstr "Leave empty for no restricion"
+
+#: templates/tinymce_popup.php:825
+#, fuzzy
+msgid "Max uploads per session"
+msgstr "Max uploads per session"
+
+#: templates/tinymce_popup.php:826
+#, fuzzy
+msgid "Number of maximum uploads per upload session"
+msgstr "Number of maximum uploads per upload session"
+
+#: templates/tinymce_popup.php:829
+#, fuzzy
+msgid "Maximum file size"
+msgstr "Maximum file size"
+
+#: templates/tinymce_popup.php:841
+#, fuzzy
+msgid "Max filesize for uploading in bytes"
+msgstr "Max filesize for uploading in bytes"
+
+#: templates/tinymce_popup.php:841
+#, fuzzy
+msgid "Leave empty for server maximum "
+msgstr "Leave empty for server maximum "
+
+#: templates/tinymce_popup.php:844
+#, fuzzy
+msgid "Convert to Google Docs when possible"
+msgstr "Convert to Google Docs when possible"
+
+#: templates/tinymce_popup.php:852
+#, fuzzy
+msgid "Convert following mimetypes"
+msgstr "Convert following mimetypes"
+
+#: templates/tinymce_popup.php:1014
+#, fuzzy
+msgid "Download email notification"
+msgstr "Download email notification"
+
+#: templates/tinymce_popup.php:1021
+#, fuzzy
+msgid "Upload email notification"
+msgstr "Upload email notification"
+
+#: templates/tinymce_popup.php:1027
+#, fuzzy
+msgid "Delete email notification"
+msgstr "Delete email notification"
+
+#: templates/tinymce_popup.php:1034
+#, fuzzy
+msgid "Receiver"
+msgstr "Receiver"
+
+#: templates/tinymce_popup.php:1035
+msgid ""
+"On which email address would you like to receive the notification? You can "
+"use <code>%admin_email%</code>, <code>%user_email%</code> (user that "
+"executes the action) and <code>%linked_user_email%</code> (Manually linked "
+"Private Folders)"
+msgstr ""
+
+#: templates/tinymce_popup.php:1046
+#, fuzzy
+msgid "Allow Sharing"
+msgstr "Allow Sharing"
+
+#: templates/tinymce_popup.php:1052
+#, fuzzy
+msgid "Allow users to generate permanent shared links to the files"
+msgstr "Allow users to generate permanent shared links to the files"
+
+#: templates/tinymce_popup.php:1054
+#, fuzzy
+msgid "Edit descriptions"
+msgstr "Edit descriptions"
+
+#: templates/tinymce_popup.php:1061
+#, fuzzy
+msgid "Rename files and folders"
+msgstr "Rename files and folders"
+
+#: templates/tinymce_popup.php:1068
+#, fuzzy
+msgid "Move files and folders"
+msgstr "Move files and folders"
+
+#: templates/tinymce_popup.php:1075
+#, fuzzy
+msgid "Delete files and folders"
+msgstr "Delete files and folders"
+
+#: templates/tinymce_popup.php:1083
+#, fuzzy
+msgid "Delete to trash"
+msgstr "Delete to trash"
+
+#: templates/tinymce_popup.php:1092
+#, fuzzy
+msgid "Create new folders"
+msgstr "Create new folders"
+
+#: templates/tinymce_popup.php:1103
+#, fuzzy, php-format
+msgid "Select via %s which User Roles are able to perform the actions"
+msgstr "Select via %s which User Roles are able to perform the actions"
+
+#: templates/tinymce_popup.php:1113
+#, fuzzy
+msgid "Who can see the plugin"
+msgstr "Who can see the plugin"
+
+#: templates/tinymce_popup.php:1119
+#, fuzzy
+msgid "Who can download"
+msgstr "Who can download"
+
+#: templates/tinymce_popup.php:1128
+#, fuzzy
+msgid "Who can upload"
+msgstr "Who can upload"
+
+#: templates/tinymce_popup.php:1136
+msgid "Who can share content"
+msgstr ""
+
+#: templates/tinymce_popup.php:1144
+#, fuzzy
+msgid "Who can edit descriptions"
+msgstr "Who can edit descriptions"
+
+#: templates/tinymce_popup.php:1152
+#, fuzzy
+msgid "Who can rename files"
+msgstr "Who can rename files"
+
+#: templates/tinymce_popup.php:1160
+#, fuzzy
+msgid "Who can rename folders"
+msgstr "Who can rename folders"
+
+#: templates/tinymce_popup.php:1168
+#, fuzzy
+msgid "Who can move files"
+msgstr "Who can move files"
+
+#: templates/tinymce_popup.php:1176
+#, fuzzy
+msgid "Who can move folders"
+msgstr "Who can move folders"
+
+#: templates/tinymce_popup.php:1184
+#, fuzzy
+msgid "Who can delete files"
+msgstr "Who can delete files"
+
+#: templates/tinymce_popup.php:1192
+#, fuzzy
+msgid "Who can delete folders"
+msgstr "Who can delete folders"
+
+#: templates/tinymce_popup.php:1200
+#, fuzzy
+msgid "Who can create new folders"
+msgstr "Who can create new folders"
+
+#: templates/uploadform.php:11
+#, fuzzy
+msgid "Drag your files here"
+msgstr "Drag your files here"
+
+#: templates/uploadform.php:24
+#, fuzzy
+msgid "... or find documents on your device"
+msgstr "... or find documents on your device"
+
+#: templates/uploadform.php:26
+#, fuzzy
+msgid "Add files"
+msgstr "Add files"
+
+#: templates/uploadform.php:31
+#, fuzzy
+msgid "Upload folder"
+msgstr "Upload folder"
+
+#: templates/uploadform.php:56
+#, fuzzy
+msgid "Max file size: "
+msgstr "Max file size: "
+
+#: templates/uploadform.php:59
+#, fuzzy
+msgid "Allowed formats: "
+msgstr "Allowed formats: "
+
+#~ msgid "Please activate the plugin"
+#~ msgstr "Please activate the plugin"
+
+#~ msgid "Sharing link"
+#~ msgstr "Sharing link"
+
+#~ msgid "Updates"
+#~ msgstr "Updates"
+
+#~ msgid "Template File line in %filelist%"
+#~ msgstr "Template File line in %filelist%"
+
+#~ msgid "Visit the Use-your-Drive website"
+#~ msgstr "Visit the Use-your-Drive website"
+
+#~ msgid "for documentation and installation details"
+#~ msgstr "for documentation and installation details"
+
+#~ msgid "Discovered a bug or just need some help with the plugin?"
+#~ msgstr "Discovered a bug or just need some help with the plugin?"
+
+#~ msgid "Visit the support page"
+#~ msgstr "Visit the support page"
+
+#~ msgid "Update Required"
+#~ msgstr "Update Required"
+
+#~ msgid ""
+#~ "To play the media you will need to either update your browser to a recent "
+#~ "version or update your"
+#~ msgstr ""
+#~ "To play the media you will need to either update your browser to a recent "
+#~ "version or update your"
+
+#, fuzzy
+#~| msgid "Download files"
+#~ msgid "Download latest package"
+#~ msgstr "Download files"
+
+#, fuzzy
+#~| msgid "Loading..."
+#~ msgid "Processing..."
+#~ msgstr "Loading..."
+
+#~ msgid "Success"
+#~ msgstr "Success"
+
+#~ msgid "Waiting"
+#~ msgstr "Waiting"
+
+#, fuzzy
+#~| msgid "Uploading"
+#~ msgid "Uploading..."
+#~ msgstr "Uploading"
+
+#, fuzzy
+#~| msgid "Sorting"
+#~ msgid "Converting"
+#~ msgstr "Sorting"
+
+#~ msgid "Close"
+#~ msgstr "Close"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid "Create zip file"
+#~ msgstr "Create zip file"
+
+#~ msgid "Do you really want to delete:"
+#~ msgstr "Do you really want to delete:"
+
+#~ msgid "Do you really want to delete these files?"
+#~ msgstr "Do you really want to delete these files?"
+
+#~ msgid "Rename to:"
+#~ msgstr "Rename to:"
+
+#~ msgid "Oops! This shouldn't happen... Try again!"
+#~ msgstr "Oops! This shouldn't happen... Try again!"
+
+#~ msgid "New folder"
+#~ msgstr "New folder"
+
+#~ msgid "No files found or selected"
+#~ msgstr "No files found or selected"
+
+#~ msgid "Creating zip file"
+#~ msgstr "Creating zip file"
+
+#~ msgid "Creating shared link..."
+#~ msgstr "Creating shared link..."
+
+#~ msgid "Previous"
+#~ msgstr "Previous"
+
+#~ msgid "Next"
+#~ msgstr "Next"
+
+#~ msgid "This content failed to load"
+#~ msgstr "This content failed to load"
+
+#~ msgid "This image failed to load"
+#~ msgstr "This image failed to load"
+
+#~ msgid "Start slideshow"
+#~ msgstr "Start slideshow"
+
+#~ msgid "Stop slideshow"
+#~ msgstr "Stop slideshow"
+
+#~ msgid "Not yet linked to a folder"
+#~ msgstr "Not yet linked to a folder"
+
+#~ msgid "File type not allowed"
+#~ msgstr "File type not allowed"
+
+#~ msgid "File is too large"
+#~ msgstr "File is too large"
+
+#, fuzzy
+#~| msgid "Use-your-Drive Upload"
+#~ msgid "Enjoying Use-your-Drive?"
+#~ msgstr "Use-your-Drive Upload"
+
+#~ msgid ""
+#~ "The plugin isn't yet authorized to use your Google Drive! Please (re)-"
+#~ "authorize the plugin"
+#~ msgstr ""
+#~ "The plugin isn't yet authorized to use your Google Drive! Please (re)-"
+#~ "authorize the plugin"
+
+#~ msgid ""
+#~ "Use-your-Drive can't access your Google Drive as the Google Drive App "
+#~ "isn't properly configurated."
+#~ msgstr ""
+#~ "Use-your-Drive can't access your Google Drive as the Google Drive App "
+#~ "isn't properly configurated."
+
+#~ msgid ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+#~ msgstr ""
+#~ "An Unexpected HTTP Error occurred during the API request.</p> <p><a href="
+#~ "\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+
+#~ msgid "An unknown error occurred"
+#~ msgstr "An unknown error occurred"
+
+#~ msgid "Couldn't connect to Google API: "
+#~ msgstr "Couldn't connect to Google API: "
+
+#~ msgid "Could not start authorization: "
+#~ msgstr "Could not start authorization: "
+
+#~ msgid "You are not authorized to delete files from this directory"
+#~ msgstr "You are not authorized to delete files from this directory"
+
+#~ msgid "You are not authorized to delete this file or folder"
+#~ msgstr "You are not authorized to delete this file or folder"
+
+#~ msgid "File downloaded"
+#~ msgstr "File downloaded"
+
+#~ msgid "Can't receive filelist"
+#~ msgstr "Can't receive filelist"
+
+#~ msgid "Use user specific folders"
+#~ msgstr "Use user specific folders"
+
+#~ msgid ""
+#~ "By default guests (not logged in users) will also get their own folder"
+#~ msgstr ""
+#~ "By default guests (not logged in users) will also get their own folder"
+
+#~ msgid ""
+#~ "Remove 'Guest' from View Roles on the 'User Permissions' tab to prevent "
+#~ "guests to use the plugin"
+#~ msgstr ""
+#~ "Remove 'Guest' from View Roles on the 'User Permissions' tab to prevent "
+#~ "guests to use the plugin"
+
+#~ msgid "Use a template folder"
+#~ msgstr "Use a template folder"
+
+#~ msgid "Select the template folder"
+#~ msgstr "Select the template folder"
+
+#~ msgid "Who can access all user folders"
+#~ msgstr "Who can access all user folders"
+
+#~ msgid ""
+#~ "The mediaplayer will decided, based on the provided formats, if the user "
+#~ "will have a HTML5 player or a Flash Player"
+#~ msgstr ""
+#~ "The mediaplayer will decided, based on the provided formats, if the user "
+#~ "will have a HTML5 player or a Flash Player"
+
+#~ msgid "Automatically start playing"
+#~ msgstr "Automatically start playing"
+
+#~ msgid "Autoplay - Automatically start playing"
+#~ msgstr "Autoplay - Automatically start playing"
+
+#~ msgid "with thumbnails in a grid"
+#~ msgstr "with thumbnails in a grid"
+
+#~ msgid "In a file list"
+#~ msgstr "In a file list"
+
+#~ msgid "Root breadcrumb title"
+#~ msgstr "Root breadcrumb title"
+
+#~ msgid "Display columnnames"
+#~ msgstr "Display columnnames"
+
+#~ msgid "Display refresh button"
+#~ msgstr "Display refresh button"
+
+#~ msgid "Display files in folder"
+#~ msgstr "Display files in folder"
+
+#~ msgid "Display child folders in folder"
+#~ msgstr "Display child folders in folder"
+
+#~ msgid "Do you want to display a column with the file size?"
+#~ msgstr "Do you want to display a column with the file size?"
+
+#~ msgid "Display date last modified"
+#~ msgstr "Display date last modified"
+
+#~ msgid "Sort files and folders by their properties"
+#~ msgstr "Sort files and folders by their properties"
+
+#~ msgid "Search only on filename"
+#~ msgstr "Search only on filename"
+
+#~ msgid "Search on filename and contents"
+#~ msgstr "Search on filename and contents"
+
+#~ msgid "Force a 'Save as' Dialog on downloading file"
+#~ msgstr "Force a 'Save as' Dialog on downloading file"
+
+#~ msgid "Enable ZIP-download"
+#~ msgstr "Enable ZIP-download"
+
+#~ msgid "Include upload form"
+#~ msgstr "Include upload form"
+
+#~ msgid "Limit upload by extension"
+#~ msgstr "Limit upload by extension"
+
+#~ msgid "How to calculate?"
+#~ msgstr "How to calculate?"
+
+#~ msgid ""
+#~ "Would you like to receive a notification email when someone downloads a "
+#~ "file?"
+#~ msgstr ""
+#~ "Would you like to receive a notification email when someone downloads a "
+#~ "file?"
+
+#~ msgid ""
+#~ "Would you like to receive a notification email when someone uploads a "
+#~ "file?"
+#~ msgstr ""
+#~ "Would you like to receive a notification email when someone uploads a "
+#~ "file?"
+
+#~ msgid ""
+#~ "Would you like to receive a notification email when someone deletes a "
+#~ "file?"
+#~ msgstr ""
+#~ "Would you like to receive a notification email when someone deletes a "
+#~ "file?"
+
+#~ msgid "Send notification to"
+#~ msgstr "Send notification to"
+
+#~ msgid "Default value is:"
+#~ msgstr "Default value is:"
+
+#~ msgid ""
+#~ "Use-your-Drive uses Wordpress Roles to determine how an user can use the "
+#~ "plugin"
+#~ msgstr ""
+#~ "Use-your-Drive uses Wordpress Roles to determine how an user can use the "
+#~ "plugin"
+
+#~ msgid "Should it be possible to rename files and folders?"
+#~ msgstr "Should it be possible to rename files and folders?"
+
+#~ msgid "Should it be possible to delete files and folders?"
+#~ msgstr "Should it be possible to delete files and folders?"
+
+#~ msgid "Who can view"
+#~ msgstr "Who can view"
+
+#~ msgid "Select which WordPress Roles can view and use the plugin"
+#~ msgstr "Select which WordPress Roles can view and use the plugin"
+
+#~ msgid "Insert"
+#~ msgstr "Insert"
+
+#~ msgid "Embed"
+#~ msgstr "Embed"
+
+#~ msgid "Notify email templates"
+#~ msgstr "Notify email templates"
+
+#~ msgid ""
+#~ "If you created your own Google Drive App, please enter your settings below"
+#~ msgstr ""
+#~ "If you created your own Google Drive App, please enter your settings below"
+
+#~ msgid "How do I create a Google DriveApp?"
+#~ msgstr "How do I create a Google DriveApp?"
+
+#~ msgid "You can use"
+#~ msgstr "You can use"
+
+#~ msgid ""
+#~ "To make things easier for you, we added a <u>Shortcode button</u> in the "
+#~ "MCE editor"
+#~ msgstr ""
+#~ "To make things easier for you, we added a <u>Shortcode button</u> in the "
+#~ "MCE editor"
+
+#~ msgid "Overview of your system settings"
+#~ msgstr "Overview of your system settings"
+
+#~ msgid "Requested item isn't allowed"
+#~ msgstr "Requested item isn't allowed"
+
+#~ msgid "Couldn't create zip file"
+#~ msgstr "Couldn't create zip file"
+
+#~ msgid "Load more..."
+#~ msgstr "Load more..."
+
+#~ msgid "Drive Upload"
+#~ msgstr "Drive Upload"
+
+#~ msgid "Select Use-your-Drive options"
+#~ msgstr "Select Use-your-Drive options"
+
+#~ msgid "File(s) deleted on your Google Drive"
+#~ msgstr "File(s) deleted on your Google Drive"
+
+#~ msgid "Limit by extension"
+#~ msgstr "Limit by extension"
+
+#~ msgid "Start uploading automatically (no start/cancel buttons)"
+#~ msgstr "Start uploading automatically (no start/cancel buttons)"
+
+#~ msgid "Start upload"
+#~ msgstr "Start upload"
+
+#~ msgid "Cancel upload"
+#~ msgstr "Cancel upload"
+
+#~ msgid "Max. "
+#~ msgstr "Max. "
+
+#~ msgid "Filelist"
+#~ msgstr "Filelist"
+
+#~ msgid "Photogallery"
+#~ msgstr "Photogallery"
+
+#~ msgid "You can link the folders"
+#~ msgstr "You can link the folders"
+
+#~ msgid "Files with thumbnails in a grid"
+#~ msgstr "Files with thumbnails in a grid"
+
+#~ msgid "Show folders breadcrumb"
+#~ msgstr "Show folders breadcrumb"
+
+#~ msgid "Sort files and folders by:"
+#~ msgstr "Sort files and folders by:"
+
+#~ msgid "Show download button (zip-archive)"
+#~ msgstr "Show download button (zip-archive)"
+
+#~ msgid "Show share button"
+#~ msgstr "Show share button"
+
+#~ msgid "Media files"
+#~ msgstr "Media files"
+
+#~ msgid "Do always supply a mp3 file to support all browsers"
+#~ msgstr "Do always supply a mp3 file to support all browsers"
+
+#~ msgid "Do always supply a m4v/mp4 file to support all browsers"
+#~ msgstr "Do always supply a m4v/mp4 file to support all browsers"
+
+#~ msgid "Allow download - Show direct link to media file"
+#~ msgstr "Allow download - Show direct link to media file"
+
+#~ msgid "Sort order:"
+#~ msgstr "Sort order:"
+
+#~ msgid "Filelist options"
+#~ msgstr "Filelist options"
+
+#~ msgid "Show files in folder"
+#~ msgstr "Show files in folder"
+
+#~ msgid "Gallery options"
+#~ msgstr "Gallery options"
+
+#~ msgid "Don't stretch last row to fit grid width"
+#~ msgstr "Don't stretch last row to fit grid width"
+
+#~ msgid "Shuffle images"
+#~ msgstr "Shuffle images"
+
+#~ msgid "Include files or folders (only show these items)"
+#~ msgstr "Include files or folders (only show these items)"
+
+#~ msgid "Exclude files or folders"
+#~ msgstr "Exclude files or folders"
+
+#~ msgid "Upload form options"
+#~ msgstr "Upload form options"
+
+#~ msgid "Edit files &amp; folders"
+#~ msgstr "Edit files &amp; folders"
+
+#~ msgid "Files &amp; folders can be renamed"
+#~ msgstr "Files &amp; folders can be renamed"
+
+#~ msgid "Files &amp; folders can be deleted"
+#~ msgstr "Files &amp; folders can be deleted"
+
+#~ msgid "Can add new folders"
+#~ msgstr "Can add new folders"
+
+#~ msgid "User management"
+#~ msgstr "User management"
+
+#~ msgid "Rename files & folders"
+#~ msgstr "Rename files & folders"
+
+#~ msgid "Delete files & folders"
+#~ msgstr "Delete files & folders"
+
+#~ msgid "Add folders"
+#~ msgstr "Add folders"
+
+#~ msgid "Note"
+#~ msgstr "Note"
+
+#~ msgid "Remove 'Guest' from View Roles to disable guests to use the plugin"
+#~ msgstr "Remove 'Guest' from View Roles to disable guests to use the plugin"
+
+#~ msgid "See and edit all user folders"
+#~ msgstr "See and edit all user folders"
+
+#~ msgid "Select template folder"
+#~ msgstr "Select template folder"
